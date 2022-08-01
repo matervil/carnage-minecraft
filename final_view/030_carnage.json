@@ -1,0 +1,9424 @@
+[
+	{
+	 "MrrKraze": {
+	  "exp": 700.1667166416779,
+	  "stone": 938.4515742128931,
+	  "gold": 84.34182908545726,
+	  "iron": 160.23988005996995,
+	  "string": 2.480359820089957,
+	  "moonstone": 25.403911913554886,
+	  "wood": 227.60539730134923,
+	  "fish_specimen": 0
+	 },
+	 "GereralT12345": {
+	  "exp": 7.2,
+	  "stone": 202.2,
+	  "gold": 1.2,
+	  "iron": 2,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "BetrayedOrc": {
+	  "exp": 132.2,
+	  "stone": 330.4,
+	  "gold": 21.2,
+	  "iron": 31,
+	  "string": 1.2,
+	  "moonstone": 4.4,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "DIONYSOSZ": {
+	  "exp": 4.6,
+	  "stone": 0.6,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 42,
+	  "fish_specimen": 0
+	 },
+	 "sultanXBAH": {
+	  "exp": 22.2,
+	  "stone": 17.2,
+	  "gold": 2,
+	  "iron": 2,
+	  "string": 0,
+	  "moonstone": 0.8,
+	  "wood": 21,
+	  "fish_specimen": 0
+	 },
+	 "Jadvee": {
+	  "exp": 31.6,
+	  "stone": 40.4,
+	  "gold": 8.2,
+	  "iron": 11.4,
+	  "string": 0.2,
+	  "moonstone": 3.0701955956777445,
+	  "wood": 15.4,
+	  "fish_specimen": 0
+	 },
+	 "VIPSAMA": {
+	  "exp": 210.2,
+	  "stone": 153.6,
+	  "gold": 32.8,
+	  "iron": 62.4,
+	  "string": 1.6,
+	  "moonstone": 11.4,
+	  "wood": 22.2,
+	  "fish_specimen": 0
+	 },
+	 "RAZORBLADED63": {
+	  "exp": 1,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0.2,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "VahidVCZ": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 21.6,
+	  "fish_specimen": 0
+	 },
+	 "TillFlink": {
+	  "exp": 1.2,
+	  "stone": 1.2,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0.6,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 92,
+	  "fish_specimen": 0
+	 },
+	 "2guillemp": {
+	  "exp": 31.4,
+	  "stone": 23.6,
+	  "gold": 2.4,
+	  "iron": 7.2,
+	  "string": 0,
+	  "moonstone": 1.4701955956777444,
+	  "wood": 10.4,
+	  "fish_specimen": 0
+	 },
+	 "420Darkstar": {
+	  "exp": 61,
+	  "stone": 129.2,
+	  "gold": 2.4,
+	  "iron": 8.8,
+	  "string": 0,
+	  "moonstone": 3.470195595677745,
+	  "wood": 7.4,
+	  "fish_specimen": 0
+	 },
+	 "barm01": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Puskas23t": {
+	  "exp": 43.8,
+	  "stone": 267.2,
+	  "gold": 2.4,
+	  "iron": 13,
+	  "string": 0.4,
+	  "moonstone": 2.0701955956777445,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "richieMFrich": {
+	  "exp": 21.2,
+	  "stone": 77.8,
+	  "gold": 4,
+	  "iron": 0.2,
+	  "string": 0,
+	  "moonstone": 1.6701955956777446,
+	  "wood": 11,
+	  "fish_specimen": 0
+	 },
+	 "PlaneBee9722673": {
+	  "exp": 2,
+	  "stone": 175.4,
+	  "gold": 0,
+	  "iron": 1.8,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 1,
+	  "fish_specimen": 0
+	 },
+	 "GreedyJoshua": {
+	  "exp": 53,
+	  "stone": 12.8,
+	  "gold": 8,
+	  "iron": 15.2,
+	  "string": 0,
+	  "moonstone": 3.0701955956777445,
+	  "wood": 3.2,
+	  "fish_specimen": 0
+	 },
+	 "wadsama": {
+	  "exp": 41.8,
+	  "stone": 140.8,
+	  "gold": 1.2,
+	  "iron": 15,
+	  "string": 0,
+	  "moonstone": 2.2701955956777446,
+	  "wood": 11,
+	  "fish_specimen": 0
+	 },
+	 "SnapSamaX": {
+	  "exp": 7,
+	  "stone": 17,
+	  "gold": 2.4,
+	  "iron": 2.2,
+	  "string": 0,
+	  "moonstone": 1.6701955956777446,
+	  "wood": 1.6,
+	  "fish_specimen": 0
+	 },
+	 "JuhuLove": {
+	  "exp": 83.4,
+	  "stone": 7,
+	  "gold": 9.2,
+	  "iron": 7,
+	  "string": 0.2,
+	  "moonstone": 9,
+	  "wood": 14.4,
+	  "fish_specimen": 0
+	 },
+	 "DaveyDC_": {
+	  "exp": 1546.733433283356,
+	  "stone": 1888.503148425786,
+	  "gold": 181.88365817091452,
+	  "iron": 330.4797601199399,
+	  "string": 5.160719640179914,
+	  "moonstone": 56.47801942278751,
+	  "wood": 455.21079460269846,
+	  "fish_specimen": 0
+	 },
+	 "JeroenMS28": {
+	  "exp": 419.6833583208389,
+	  "stone": 560.2257871064465,
+	  "gold": 45.77091454272863,
+	  "iron": 99.71994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 15.572151552455187,
+	  "wood": 113.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "Kartus": {
+	  "exp": 350.08335832083895,
+	  "stone": 469.22578710644655,
+	  "gold": 42.17091454272863,
+	  "iron": 80.11994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 12.701955956777443,
+	  "wood": 113.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "Dan_latin": {
+	  "exp": 43.8,
+	  "stone": 236,
+	  "gold": 4,
+	  "iron": 15,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 4,
+	  "fish_specimen": 0
+	 },
+	 "theJimmo": {
+	  "exp": 1156.450074962517,
+	  "stone": 1416.4773613193395,
+	  "gold": 137.11274362818588,
+	  "iron": 252.15982008995493,
+	  "string": 3.720539730134935,
+	  "moonstone": 40.576063466010076,
+	  "wood": 341.4080959520238,
+	  "fish_specimen": 75
+	 },
+	 "Divisor9804": {
+	  "exp": 56.6,
+	  "stone": 267,
+	  "gold": 4.8,
+	  "iron": 15,
+	  "string": 0.6,
+	  "moonstone": 1.2,
+	  "wood": 3,
+	  "fish_specimen": 0
+	 },
+	 "0xbrk": {
+	  "exp": 64,
+	  "stone": 241.2,
+	  "gold": 1.8,
+	  "iron": 18.2,
+	  "string": 0,
+	  "moonstone": 2.0701955956777445,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Klinggaard": {
+	  "exp": 32.8,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 374.8,
+	  "fish_specimen": 0
+	 },
+	 "Emprernight": {
+	  "exp": 359.683358320839,
+	  "stone": 469.22578710644655,
+	  "gold": 42.17091454272863,
+	  "iron": 80.71994002998497,
+	  "string": 1.4401799100449784,
+	  "moonstone": 14.172151552455187,
+	  "wood": 113.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "Rayzor536": {
+	  "exp": 118.2,
+	  "stone": 88.8,
+	  "gold": 14.8,
+	  "iron": 41.6,
+	  "string": 0.2,
+	  "moonstone": 3.2,
+	  "wood": 0.6,
+	  "fish_specimen": 0
+	 },
+	 "CryptasNFT": {
+	  "exp": 350.08335832083895,
+	  "stone": 469.22578710644655,
+	  "gold": 42.17091454272863,
+	  "iron": 80.11994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 12.701955956777443,
+	  "wood": 113.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "cryptosken": {
+	  "exp": 219.4,
+	  "stone": 189.4,
+	  "gold": 23.4,
+	  "iron": 26.2,
+	  "string": 0,
+	  "moonstone": 9.270195595677745,
+	  "wood": 17.4,
+	  "fish_specimen": 0
+	 },
+	 "HeaX_MC": {
+	  "exp": 425.08335832083895,
+	  "stone": 503.6257871064465,
+	  "gold": 44.77091454272863,
+	  "iron": 82.11994002998497,
+	  "string": 1.4401799100449784,
+	  "moonstone": 24.372151552455186,
+	  "wood": 122.40269865067461,
+	  "fish_specimen": 0
+	 },
+	 "Degen1001": {
+	  "exp": 47.4,
+	  "stone": 0,
+	  "gold": 2,
+	  "iron": 2,
+	  "string": 0,
+	  "moonstone": 3.0701955956777445,
+	  "wood": 4.4,
+	  "fish_specimen": 0
+	 },
+	 "grand_po0bah": {
+	  "exp": 49,
+	  "stone": 230.4,
+	  "gold": 12,
+	  "iron": 22.8,
+	  "string": 1.2,
+	  "moonstone": 3.8701955956777443,
+	  "wood": 24.2,
+	  "fish_specimen": 0
+	 },
+	 "father_satoshi": {
+	  "exp": 71,
+	  "stone": 215.6,
+	  "gold": 2.2,
+	  "iron": 7.4,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 23.8,
+	  "fish_specimen": 0
+	 },
+	 "Jdeen74": {
+	  "exp": 0.6,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0.8,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Santidg96": {
+	  "exp": 121.6,
+	  "stone": 60.8,
+	  "gold": 23,
+	  "iron": 23,
+	  "string": 0,
+	  "moonstone": 10.070195595677745,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Dynatle": {
+	  "exp": 59.2,
+	  "stone": 22.6,
+	  "gold": 1,
+	  "iron": 14.2,
+	  "string": 0.2,
+	  "moonstone": 2.2701955956777446,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Slooties": {
+	  "exp": 457.6833583208389,
+	  "stone": 480.22578710644655,
+	  "gold": 44.77091454272863,
+	  "iron": 87.11994002998497,
+	  "string": 1.4401799100449784,
+	  "moonstone": 13.972151552455188,
+	  "wood": 116.40269865067461,
+	  "fish_specimen": 0
+	 },
+	 "excaIII": {
+	  "exp": 72.8,
+	  "stone": 185.8,
+	  "gold": 4.2,
+	  "iron": 17,
+	  "string": 0,
+	  "moonstone": 3.8701955956777443,
+	  "wood": 48.2,
+	  "fish_specimen": 0
+	 },
+	 "baaabshunter": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Bajaga": {
+	  "exp": 139,
+	  "stone": 33.8,
+	  "gold": 35,
+	  "iron": 3.4,
+	  "string": 0.8,
+	  "moonstone": 8.6,
+	  "wood": 90.2,
+	  "fish_specimen": 0
+	 },
+	 "Bobzerrrrr": {
+	  "exp": 96.2,
+	  "stone": 0,
+	  "gold": 18.6,
+	  "iron": 32.2,
+	  "string": 0.2,
+	  "moonstone": 3.470195595677745,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "JediSama": {
+	  "exp": 5.8,
+	  "stone": 1.2,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0.4,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 210.6,
+	  "fish_specimen": 0
+	 },
+	 "YouEnvy_": {
+	  "exp": 88.8,
+	  "stone": 373.2,
+	  "gold": 8.2,
+	  "iron": 40,
+	  "string": 0,
+	  "moonstone": 4.0701955956777445,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "MarcoPoloEXO": {
+	  "exp": 87.6,
+	  "stone": 14.4,
+	  "gold": 14.4,
+	  "iron": 30.6,
+	  "string": 0.2,
+	  "moonstone": 4.270195595677745,
+	  "wood": 1.8,
+	  "fish_specimen": 0
+	 },
+	 "Wangul": {
+	  "exp": 40.6,
+	  "stone": 2.2,
+	  "gold": 7.6,
+	  "iron": 6.6,
+	  "string": 0.8,
+	  "moonstone": 1,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Oblivionashh": {
+	  "exp": 41.4,
+	  "stone": 19.6,
+	  "gold": 9.2,
+	  "iron": 8.6,
+	  "string": 0.4,
+	  "moonstone": 2.8701955956777443,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Fred_Fred_": {
+	  "exp": 48.2,
+	  "stone": 9.6,
+	  "gold": 7.8,
+	  "iron": 0.6,
+	  "string": 1,
+	  "moonstone": 2.2,
+	  "wood": 11.2,
+	  "fish_specimen": 0
+	 },
+	 "WarDaddy__": {
+	  "exp": 178.4,
+	  "stone": 85,
+	  "gold": 22.6,
+	  "iron": 90,
+	  "string": 0.8,
+	  "moonstone": 7.470195595677745,
+	  "wood": 1.6,
+	  "fish_specimen": 0
+	 },
+	 "nft4207": {
+	  "exp": 10.4,
+	  "stone": 31.6,
+	  "gold": 0,
+	  "iron": 3.6,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 11.4,
+	  "fish_specimen": 0
+	 },
+	 "Dexna7": {
+	  "exp": 215,
+	  "stone": 179,
+	  "gold": 24.8,
+	  "iron": 56,
+	  "string": 0.2,
+	  "moonstone": 6.470195595677745,
+	  "wood": 63.4,
+	  "fish_specimen": 0
+	 },
+	 "MHTowing": {
+	  "exp": 47.4,
+	  "stone": 96.6,
+	  "gold": 9.2,
+	  "iron": 14.2,
+	  "string": 0,
+	  "moonstone": 2.670195595677744,
+	  "wood": 25,
+	  "fish_specimen": 0
+	 },
+	 "GuiLuXxe34": {
+	  "exp": 873.7667166416779,
+	  "stone": 1167.6515742128931,
+	  "gold": 102.54182908545727,
+	  "iron": 221.23988005996995,
+	  "string": 2.680359820089957,
+	  "moonstone": 30.47410750923263,
+	  "wood": 227.60539730134923,
+	  "fish_specimen": 0
+	 },
+	 "msamz10": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "willix94": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 2,
+	  "fish_specimen": 0
+	 },
+	 "skywalker112000": {
+	  "exp": 178.4,
+	  "stone": 25.8,
+	  "gold": 24.6,
+	  "iron": 31,
+	  "string": 0,
+	  "moonstone": 10.470195595677744,
+	  "wood": 5.8,
+	  "fish_specimen": 0
+	 },
+	 "TumzCartier": {
+	  "exp": 23.4,
+	  "stone": 307.2,
+	  "gold": 0,
+	  "iron": 2.2,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 73.4,
+	  "fish_specimen": 0
+	 },
+	 "dvslr": {
+	  "exp": 39.4,
+	  "stone": 195.6,
+	  "gold": 2,
+	  "iron": 15.6,
+	  "string": 0,
+	  "moonstone": 1.8701955956777443,
+	  "wood": 2,
+	  "fish_specimen": 0
+	 },
+	 "Mushymag": {
+	  "exp": 577.2833583208389,
+	  "stone": 489.42578710644653,
+	  "gold": 81.77091454272863,
+	  "iron": 88.91994002998497,
+	  "string": 4.040179910044978,
+	  "moonstone": 33.17215155245519,
+	  "wood": 121.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "Jaystezy": {
+	  "exp": 67.6,
+	  "stone": 9.6,
+	  "gold": 10.8,
+	  "iron": 32.8,
+	  "string": 0,
+	  "moonstone": 5.870195595677744,
+	  "wood": 1,
+	  "fish_specimen": 0
+	 },
+	 "CounterClock2": {
+	  "exp": 170.8,
+	  "stone": 54.2,
+	  "gold": 14.4,
+	  "iron": 42.8,
+	  "string": 0.8,
+	  "moonstone": 8.070195595677744,
+	  "wood": 22.8,
+	  "fish_specimen": 0
+	 },
+	 "AndaManSama": {
+	  "exp": 28.6,
+	  "stone": 253.2,
+	  "gold": 0,
+	  "iron": 2,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "BowtoTheo_OS": {
+	  "exp": 49.6,
+	  "stone": 249.6,
+	  "gold": 3.8,
+	  "iron": 27.2,
+	  "string": 0,
+	  "moonstone": 1.8701955956777443,
+	  "wood": 5.4,
+	  "fish_specimen": 0
+	 },
+	 "OldSpiceVendor": {
+	  "exp": 441.28335832083894,
+	  "stone": 540.6257871064465,
+	  "gold": 45.77091454272863,
+	  "iron": 125.71994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 15.101955956777443,
+	  "wood": 118.00269865067462,
+	  "fish_specimen": 0
+	 },
+	 "Daggolo": {
+	  "exp": 194.4,
+	  "stone": 188.6,
+	  "gold": 19.8,
+	  "iron": 30,
+	  "string": 0,
+	  "moonstone": 6.470195595677745,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "ExxoKSM": {
+	  "exp": 2.6,
+	  "stone": 1,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 11,
+	  "fish_specimen": 0
+	 },
+	 "Marfolu": {
+	  "exp": 49.2,
+	  "stone": 403.2,
+	  "gold": 1.2,
+	  "iron": 10.2,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Network_Hustler": {
+	  "exp": 92.8,
+	  "stone": 101,
+	  "gold": 5.6,
+	  "iron": 19.8,
+	  "string": 0.6,
+	  "moonstone": 2.4701955956777444,
+	  "wood": 59.4,
+	  "fish_specimen": 0
+	 },
+	 "GUILLITOLMO": {
+	  "exp": 62.2,
+	  "stone": 110.8,
+	  "gold": 15.6,
+	  "iron": 11.6,
+	  "string": 0,
+	  "moonstone": 4.870195595677744,
+	  "wood": 6,
+	  "fish_specimen": 0
+	 },
+	 "WiizSama": {
+	  "exp": 1,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0.2,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Gargavlin": {
+	  "exp": 16.6,
+	  "stone": 3.2,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 231,
+	  "fish_specimen": 0
+	 },
+	 "OldVikinGG": {
+	  "exp": 571.0833583208389,
+	  "stone": 618.4257871064465,
+	  "gold": 79.57091454272863,
+	  "iron": 197.11994002998497,
+	  "string": 1.6401799100449783,
+	  "moonstone": 26.701955956777443,
+	  "wood": 143.4026986506746,
+	  "fish_specimen": 0
+	 },
+	 "Kissama100": {
+	  "exp": 7,
+	  "stone": 67.6,
+	  "gold": 4.2,
+	  "iron": 1.4,
+	  "string": 0,
+	  "moonstone": 2.4701955956777444,
+	  "wood": 0.6,
+	  "fish_specimen": 0
+	 },
+	 "SwissSMPler": {
+	  "exp": 72.2,
+	  "stone": 3.2,
+	  "gold": 0,
+	  "iron": 0.6,
+	  "string": 0,
+	  "moonstone": 1.4,
+	  "wood": 4,
+	  "fish_specimen": 0
+	 },
+	 "EXOEmilio608": {
+	  "exp": 43.6,
+	  "stone": 3.6,
+	  "gold": 7,
+	  "iron": 4.6,
+	  "string": 1.2,
+	  "moonstone": 3.8701955956777443,
+	  "wood": 1.4,
+	  "fish_specimen": 0
+	 },
+	 "FisherMsama": {
+	  "exp": 455.08335832083895,
+	  "stone": 502.6257871064465,
+	  "gold": 52.17091454272863,
+	  "iron": 93.71994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 16.701955956777443,
+	  "wood": 131.60269865067463,
+	  "fish_specimen": 20
+	 },
+	 "Miguelrisky": {
+	  "exp": 10.4,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 294.8,
+	  "fish_specimen": 0
+	 },
+	 "RusoSama1337": {
+	  "exp": 350.08335832083895,
+	  "stone": 469.22578710644655,
+	  "gold": 42.17091454272863,
+	  "iron": 80.11994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 12.701955956777443,
+	  "wood": 113.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "Unimatos": {
+	  "exp": 416.88335832083897,
+	  "stone": 505.22578710644655,
+	  "gold": 42.17091454272863,
+	  "iron": 80.11994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 13.972151552455188,
+	  "wood": 304.80269865067464,
+	  "fish_specimen": 0
+	 },
+	 "Fixedjay21444": {
+	  "exp": 2,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 1.2,
+	  "fish_specimen": 0
+	 },
+	 "StanoStano123": {
+	  "exp": 15.2,
+	  "stone": 144.2,
+	  "gold": 2.6,
+	  "iron": 7.4,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 1,
+	  "fish_specimen": 0
+	 },
+	 "Benbossac": {
+	  "exp": 522.483358320839,
+	  "stone": 480.02578710644656,
+	  "gold": 67.77091454272863,
+	  "iron": 126.11994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 24.701955956777443,
+	  "wood": 113.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "Bulldozaurus": {
+	  "exp": 86.4,
+	  "stone": 58.6,
+	  "gold": 4.4,
+	  "iron": 33.4,
+	  "string": 1.2,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 47.2,
+	  "fish_specimen": 0
+	 },
+	 "Kyilkhor": {
+	  "exp": 8549.800599700135,
+	  "stone": 11277.418890554716,
+	  "gold": 1031.701949025487,
+	  "iron": 1965.8785607196394,
+	  "string": 31.364317841079483,
+	  "moonstone": 309.9171385583364,
+	  "wood": 2738.0647676161907,
+	  "fish_specimen": 0
+	 },
+	 "Moonsama764": {
+	  "exp": 371.683358320839,
+	  "stone": 496.22578710644655,
+	  "gold": 42.97091454272863,
+	  "iron": 80.71994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 13.972151552455188,
+	  "wood": 113.80269865067461,
+	  "fish_specimen": 50
+	 },
+	 "MagnumOpus2": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "0xTonesama": {
+	  "exp": 1751.4167916041947,
+	  "stone": 2351.928935532233,
+	  "gold": 210.85457271364317,
+	  "iron": 400.59970014992484,
+	  "string": 6.200899550224892,
+	  "moonstone": 63.50977978388721,
+	  "wood": 571.2134932533731,
+	  "fish_specimen": 0
+	 },
+	 "Aadii8430": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "MarluaMK": {
+	  "exp": 443.28335832083894,
+	  "stone": 840.0257871064466,
+	  "gold": 57.37091454272863,
+	  "iron": 109.31994002998498,
+	  "string": 1.2401799100449784,
+	  "moonstone": 15.901955956777442,
+	  "wood": 113.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "Dragonmother555": {
+	  "exp": 11.2,
+	  "stone": 99.2,
+	  "gold": 0,
+	  "iron": 2.8,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 31.6,
+	  "fish_specimen": 0
+	 },
+	 "MikeyScoot3127": {
+	  "exp": 485.6833583208389,
+	  "stone": 545.2257871064465,
+	  "gold": 59.57091454272863,
+	  "iron": 144.11994002998497,
+	  "string": 1.4401799100449784,
+	  "moonstone": 18.701955956777443,
+	  "wood": 115.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "SayerofSooths": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "khal6114": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "satchitanandaa": {
+	  "exp": 1079.8500749625168,
+	  "stone": 1418.0773613193396,
+	  "gold": 131.71274362818588,
+	  "iron": 243.95982008995492,
+	  "string": 3.720539730134935,
+	  "moonstone": 42.37606346601007,
+	  "wood": 341.4080959520238,
+	  "fish_specimen": 0
+	 },
+	 "asitxu50": {
+	  "exp": 36.8,
+	  "stone": 13.4,
+	  "gold": 1.2,
+	  "iron": 8,
+	  "string": 0.6,
+	  "moonstone": 1.4701955956777444,
+	  "wood": 370.8,
+	  "fish_specimen": 0
+	 },
+	 "Tjolpie": {
+	  "exp": 406.683358320839,
+	  "stone": 637.2257871064465,
+	  "gold": 46.57091454272863,
+	  "iron": 89.31994002998498,
+	  "string": 1.2401799100449784,
+	  "moonstone": 15.372151552455188,
+	  "wood": 158.4026986506746,
+	  "fish_specimen": 0
+	 },
+	 "starr3n": {
+	  "exp": 144.4,
+	  "stone": 13,
+	  "gold": 8.6,
+	  "iron": 35.6,
+	  "string": 0,
+	  "moonstone": 4.2,
+	  "wood": 4.4,
+	  "fish_specimen": 0
+	 },
+	 "djoukaneth": {
+	  "exp": 129.6,
+	  "stone": 34.6,
+	  "gold": 14.4,
+	  "iron": 73.8,
+	  "string": 1,
+	  "moonstone": 4.870195595677744,
+	  "wood": 81.2,
+	  "fish_specimen": 0
+	 },
+	 "EXOGANGSTER": {
+	  "exp": 37.6,
+	  "stone": 243.2,
+	  "gold": 1,
+	  "iron": 14,
+	  "string": 0,
+	  "moonstone": 1.4701955956777444,
+	  "wood": 3.8,
+	  "fish_specimen": 0
+	 },
+	 "GPOLNFT": {
+	  "exp": 36.4,
+	  "stone": 256,
+	  "gold": 0,
+	  "iron": 7.4,
+	  "string": 0,
+	  "moonstone": 1.8701955956777443,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "DotSama": {
+	  "exp": 427.08335832083895,
+	  "stone": 679.8257871064466,
+	  "gold": 47.77091454272863,
+	  "iron": 122.31994002998498,
+	  "string": 1.2401799100449784,
+	  "moonstone": 12.701955956777443,
+	  "wood": 116.00269865067462,
+	  "fish_specimen": 0
+	 },
+	 "FragilecargoXYZ": {
+	  "exp": 140.8,
+	  "stone": 166.6,
+	  "gold": 12.4,
+	  "iron": 74.8,
+	  "string": 0,
+	  "moonstone": 7.0701955956777445,
+	  "wood": 0.6,
+	  "fish_specimen": 0
+	 },
+	 "Hagenoma": {
+	  "exp": 438.08335832083895,
+	  "stone": 571.8257871064466,
+	  "gold": 51.970914542728636,
+	  "iron": 123.91994002998497,
+	  "string": 2.2401799100449784,
+	  "moonstone": 16.57215155245519,
+	  "wood": 139.8026986506746,
+	  "fish_specimen": 0
+	 },
+	 "EXOKINGDOMS": {
+	  "exp": 71,
+	  "stone": 40.4,
+	  "gold": 7.2,
+	  "iron": 6.8,
+	  "string": 0,
+	  "moonstone": 1.2,
+	  "wood": 8.6,
+	  "fish_specimen": 0
+	 },
+	 "Berni46": {
+	  "exp": 16.8,
+	  "stone": 108.2,
+	  "gold": 0,
+	  "iron": 3.2,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 12.2,
+	  "fish_specimen": 0
+	 },
+	 "CrisPap": {
+	  "exp": 100.6,
+	  "stone": 227.6,
+	  "gold": 4.4,
+	  "iron": 17.8,
+	  "string": 0.4,
+	  "moonstone": 1.6701955956777446,
+	  "wood": 6.2,
+	  "fish_specimen": 0
+	 },
+	 "dinonutsinho": {
+	  "exp": 1378.8500749625168,
+	  "stone": 1671.8773613193396,
+	  "gold": 144.5127436281859,
+	  "iron": 359.9598200899549,
+	  "string": 4.520539730134935,
+	  "moonstone": 46.576063466010076,
+	  "wood": 367.4080959520238,
+	  "fish_specimen": 0
+	 },
+	 "Jcryp1": {
+	  "exp": 75.8,
+	  "stone": 248.6,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 12.4,
+	  "fish_specimen": 0
+	 },
+	 "ExoJernej_NFT": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 0.6,
+	  "fish_specimen": 0
+	 },
+	 "JARIMAAN": {
+	  "exp": 53.6,
+	  "stone": 64,
+	  "gold": 5.6,
+	  "iron": 13.8,
+	  "string": 0.4,
+	  "moonstone": 2.8701955956777443,
+	  "wood": 132.2,
+	  "fish_specimen": 0
+	 },
+	 "aleso92": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 3.6,
+	  "fish_specimen": 0
+	 },
+	 "Ace556": {
+	  "exp": 745.1667166416779,
+	  "stone": 951.251574212893,
+	  "gold": 84.74182908545727,
+	  "iron": 170.83988005996994,
+	  "string": 3.2803598200899566,
+	  "moonstone": 26.87410750923263,
+	  "wood": 227.60539730134923,
+	  "fish_specimen": 0
+	 },
+	 "Easton666": {
+	  "exp": 0.4,
+	  "stone": 11.4,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "ThomasM_es": {
+	  "exp": 350.08335832083895,
+	  "stone": 469.22578710644655,
+	  "gold": 42.17091454272863,
+	  "iron": 80.11994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 12.701955956777443,
+	  "wood": 113.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "MaxyKeiser": {
+	  "exp": 67.6,
+	  "stone": 111,
+	  "gold": 7.2,
+	  "iron": 5.6,
+	  "string": 0,
+	  "moonstone": 3.2,
+	  "wood": 10.8,
+	  "fish_specimen": 0
+	 },
+	 "97pacoap": {
+	  "exp": 21.2,
+	  "stone": 35.4,
+	  "gold": 12.6,
+	  "iron": 32.2,
+	  "string": 0,
+	  "moonstone": 1.2,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "mooolii3": {
+	  "exp": 19.6,
+	  "stone": 326,
+	  "gold": 2.6,
+	  "iron": 7.6,
+	  "string": 0,
+	  "moonstone": 1.8701955956777443,
+	  "wood": 47.4,
+	  "fish_specimen": 0
+	 },
+	 "Hecrypton": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "z4nzaa1": {
+	  "exp": 1471.1334332833558,
+	  "stone": 1966.503148425786,
+	  "gold": 173.28365817091452,
+	  "iron": 331.8797601199399,
+	  "string": 4.960719640179914,
+	  "moonstone": 53.40782382710977,
+	  "wood": 459.21079460269846,
+	  "fish_specimen": 0
+	 },
+	 "CrytpoDiva": {
+	  "exp": 19.2,
+	  "stone": 17.6,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0.2,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0.4,
+	  "fish_specimen": 0
+	 },
+	 "MellowYellow556": {
+	  "exp": 0,
+	  "stone": 31,
+	  "gold": 0,
+	  "iron": 1.6,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 0.2,
+	  "fish_specimen": 0
+	 },
+	 "Menke13": {
+	  "exp": 20.2,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 3
+	 },
+	 "SniffSama": {
+	  "exp": 442.6833583208389,
+	  "stone": 472.82578710644657,
+	  "gold": 54.17091454272863,
+	  "iron": 114.71994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 18.57215155245519,
+	  "wood": 117.00269865067462,
+	  "fish_specimen": 0
+	 },
+	 "Lothan_Blvck": {
+	  "exp": 89.2,
+	  "stone": 68.6,
+	  "gold": 13.2,
+	  "iron": 38.2,
+	  "string": 0.2,
+	  "moonstone": 3.470195595677745,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "BigLeague8": {
+	  "exp": 1499.3334332833558,
+	  "stone": 1899.503148425786,
+	  "gold": 173.28365817091452,
+	  "iron": 331.0797601199399,
+	  "string": 4.960719640179914,
+	  "moonstone": 53.87801942278751,
+	  "wood": 455.41079460269845,
+	  "fish_specimen": 0
+	 },
+	 "Mishy888": {
+	  "exp": 442.483358320839,
+	  "stone": 503.42578710644653,
+	  "gold": 44.57091454272863,
+	  "iron": 92.51994002998498,
+	  "string": 1.4401799100449784,
+	  "moonstone": 13.701955956777443,
+	  "wood": 174.20269865067462,
+	  "fish_specimen": 0
+	 },
+	 "KAAN0U": {
+	  "exp": 171.6,
+	  "stone": 244.2,
+	  "gold": 41.4,
+	  "iron": 61,
+	  "string": 0.6,
+	  "moonstone": 5.670195595677745,
+	  "wood": 3.6,
+	  "fish_specimen": 0
+	 },
+	 "UwUForgus": {
+	  "exp": 27.2,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 2.4,
+	  "string": 0,
+	  "moonstone": 1.8701955956777443,
+	  "wood": 0.6,
+	  "fish_specimen": 0
+	 },
+	 "Drogon1050": {
+	  "exp": 474.08335832083895,
+	  "stone": 827.6257871064465,
+	  "gold": 52.17091454272863,
+	  "iron": 121.71994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 18.972151552455188,
+	  "wood": 130.4026986506746,
+	  "fish_specimen": 0
+	 },
+	 "DrSeray": {
+	  "exp": 3.6,
+	  "stone": 0.2,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 173.2,
+	  "fish_specimen": 0
+	 },
+	 "DMA02": {
+	  "exp": 103,
+	  "stone": 33.8,
+	  "gold": 11.4,
+	  "iron": 21.4,
+	  "string": 0.6,
+	  "moonstone": 3.2701955956777446,
+	  "wood": 237.2,
+	  "fish_specimen": 0
+	 },
+	 "SendUsLocation1": {
+	  "exp": 154.4,
+	  "stone": 0,
+	  "gold": 21.6,
+	  "iron": 52.6,
+	  "string": 1,
+	  "moonstone": 6.870195595677744,
+	  "wood": 4.6,
+	  "fish_specimen": 0
+	 },
+	 "Tekin12": {
+	  "exp": 136.2,
+	  "stone": 20.4,
+	  "gold": 24.2,
+	  "iron": 26,
+	  "string": 0.6,
+	  "moonstone": 9.270195595677745,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "VickyRomer": {
+	  "exp": 3.6,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 13.2,
+	  "fish_specimen": 0
+	 },
+	 "atzucac": {
+	  "exp": 0,
+	  "stone": 0.8,
+	  "gold": 8,
+	  "iron": 7.6,
+	  "string": 0.4,
+	  "moonstone": 3.470195595677745,
+	  "wood": 26,
+	  "fish_specimen": 0
+	 },
+	 "22cmdeamor": {
+	  "exp": 357.28335832083894,
+	  "stone": 480.42578710644653,
+	  "gold": 42.17091454272863,
+	  "iron": 131.319940029985,
+	  "string": 1.2401799100449784,
+	  "moonstone": 15.372151552455188,
+	  "wood": 113.80269865067461,
+	  "fish_specimen": 30
+	 },
+	 "BlueBeardie": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Naleia02": {
+	  "exp": 16.8,
+	  "stone": 110.6,
+	  "gold": 7.2,
+	  "iron": 23,
+	  "string": 0.2,
+	  "moonstone": 2.4701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Klepic": {
+	  "exp": 65.2,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 9.6,
+	  "fish_specimen": 0
+	 },
+	 "MrMoonShark": {
+	  "exp": 471.88335832083897,
+	  "stone": 475.82578710644657,
+	  "gold": 65.97091454272864,
+	  "iron": 89.91994002998497,
+	  "string": 1.8401799100449785,
+	  "moonstone": 22.972151552455188,
+	  "wood": 137.0026986506746,
+	  "fish_specimen": 0
+	 },
+	 "CharlotteRomer": {
+	  "exp": 10.8,
+	  "stone": 17.2,
+	  "gold": 0,
+	  "iron": 8.6,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 2.2,
+	  "fish_specimen": 0
+	 },
+	 "Cotton118443": {
+	  "exp": 3257.550224887551,
+	  "stone": 4259.432083958019,
+	  "gold": 392.1382308845577,
+	  "iron": 727.2794602698648,
+	  "string": 11.761619190404806,
+	  "moonstone": 123.98779920667474,
+	  "wood": 1040.6242878560715,
+	  "fish_specimen": 20
+	 },
+	 "DPSh0r1bleDPS": {
+	  "exp": 185,
+	  "stone": 0,
+	  "gold": 31.4,
+	  "iron": 20,
+	  "string": 1.2,
+	  "moonstone": 9.070195595677744,
+	  "wood": 2.2,
+	  "fish_specimen": 0
+	 },
+	 "JOHNY_TURBO": {
+	  "exp": 1792.2167916041947,
+	  "stone": 2430.528935532233,
+	  "gold": 215.05457271364315,
+	  "iron": 401.59970014992484,
+	  "string": 6.200899550224892,
+	  "moonstone": 68.57997537956496,
+	  "wood": 570.2134932533731,
+	  "fish_specimen": 0
+	 },
+	 "taekwondo_craft": {
+	  "exp": 4.4,
+	  "stone": 460.8,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "TerranSpy": {
+	  "exp": 409.28335832083894,
+	  "stone": 520.4257871064466,
+	  "gold": 51.57091454272863,
+	  "iron": 100.71994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 15.972151552455188,
+	  "wood": 116.40269865067461,
+	  "fish_specimen": 0
+	 },
+	 "SamaSlayer": {
+	  "exp": 0.6,
+	  "stone": 1.4,
+	  "gold": 20.2,
+	  "iron": 66.6,
+	  "string": 0.8,
+	  "moonstone": 3.4,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "1234Erikas": {
+	  "exp": 113.2,
+	  "stone": 15.4,
+	  "gold": 24,
+	  "iron": 31.2,
+	  "string": 0.4,
+	  "moonstone": 3.0701955956777445,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "MoonsamaJona": {
+	  "exp": 367.88335832083897,
+	  "stone": 492.6257871064465,
+	  "gold": 47.17091454272863,
+	  "iron": 81.11994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 15.372151552455188,
+	  "wood": 121.20269865067462,
+	  "fish_specimen": 0
+	 },
+	 "tonimachete17": {
+	  "exp": 33.4,
+	  "stone": 26.8,
+	  "gold": 1.8,
+	  "iron": 2.6,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 15.2,
+	  "fish_specimen": 0
+	 },
+	 "DPSuzarda": {
+	  "exp": 103.4,
+	  "stone": 8.2,
+	  "gold": 21.8,
+	  "iron": 27.8,
+	  "string": 1,
+	  "moonstone": 4.870195595677744,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "SpacePop3": {
+	  "exp": 49.6,
+	  "stone": 73.4,
+	  "gold": 8.2,
+	  "iron": 25,
+	  "string": 0,
+	  "moonstone": 1.4701955956777444,
+	  "wood": 1.2,
+	  "fish_specimen": 0
+	 },
+	 "A1600F": {
+	  "exp": 36.2,
+	  "stone": 200.6,
+	  "gold": 0,
+	  "iron": 9.6,
+	  "string": 0,
+	  "moonstone": 3.2701955956777446,
+	  "wood": 45.8,
+	  "fish_specimen": 0
+	 },
+	 "maestro369": {
+	  "exp": 48.6,
+	  "stone": 11.6,
+	  "gold": 3.6,
+	  "iron": 8.8,
+	  "string": 0,
+	  "moonstone": 3.470195595677745,
+	  "wood": 4.4,
+	  "fish_specimen": 0
+	 },
+	 "Adrivahi": {
+	  "exp": 107.2,
+	  "stone": 277.2,
+	  "gold": 4.2,
+	  "iron": 18.8,
+	  "string": 0.2,
+	  "moonstone": 3.0701955956777445,
+	  "wood": 0.8,
+	  "fish_specimen": 0
+	 },
+	 "marlootius": {
+	  "exp": 72.4,
+	  "stone": 92.4,
+	  "gold": 0.6,
+	  "iron": 0.4,
+	  "string": 0,
+	  "moonstone": 5.670195595677745,
+	  "wood": 0,
+	  "fish_specimen": 25
+	 },
+	 "Juan_Bokeboss": {
+	  "exp": 10.2,
+	  "stone": 3.8,
+	  "gold": 1.8,
+	  "iron": 0.2,
+	  "string": 0,
+	  "moonstone": 1.8701955956777443,
+	  "wood": 10.6,
+	  "fish_specimen": 0
+	 },
+	 "rex5826": {
+	  "exp": 99.2,
+	  "stone": 1.4,
+	  "gold": 56.8,
+	  "iron": 51.2,
+	  "string": 1.8,
+	  "moonstone": 17.670195595677743,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Eltesticulon": {
+	  "exp": 39.8,
+	  "stone": 34.6,
+	  "gold": 6.8,
+	  "iron": 11.8,
+	  "string": 0,
+	  "moonstone": 4.870195595677744,
+	  "wood": 7.6,
+	  "fish_specimen": 0
+	 },
+	 "polka_spin": {
+	  "exp": 1118.450074962517,
+	  "stone": 1424.0773613193396,
+	  "gold": 138.3127436281859,
+	  "iron": 244.15982008995493,
+	  "string": 4.120539730134936,
+	  "moonstone": 42.17606346601007,
+	  "wood": 349.4080959520238,
+	  "fish_specimen": 0
+	 },
+	 "G_ExpectChaos": {
+	  "exp": 129.2,
+	  "stone": 32.8,
+	  "gold": 17.6,
+	  "iron": 49.8,
+	  "string": 0.2,
+	  "moonstone": 6.670195595677745,
+	  "wood": 2.8,
+	  "fish_specimen": 0
+	 },
+	 "FCKFTMNY": {
+	  "exp": 753.7667166416779,
+	  "stone": 981.4515742128931,
+	  "gold": 93.94182908545726,
+	  "iron": 179.83988005996994,
+	  "string": 2.480359820089957,
+	  "moonstone": 28.67410750923263,
+	  "wood": 230.20539730134922,
+	  "fish_specimen": 0
+	 },
+	 "Skydream3r": {
+	  "exp": 63.4,
+	  "stone": 30.8,
+	  "gold": 1.6,
+	  "iron": 11.2,
+	  "string": 0,
+	  "moonstone": 3.2,
+	  "wood": 11.8,
+	  "fish_specimen": 0
+	 },
+	 "Mikefos": {
+	  "exp": 37.4,
+	  "stone": 278,
+	  "gold": 1.6,
+	  "iron": 3.8,
+	  "string": 0,
+	  "moonstone": 1.8701955956777443,
+	  "wood": 5.8,
+	  "fish_specimen": 0
+	 },
+	 "dalun007": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 34.4,
+	  "fish_specimen": 0
+	 },
+	 "BirdmanRicky": {
+	  "exp": 74.4,
+	  "stone": 163.6,
+	  "gold": 5.6,
+	  "iron": 20.4,
+	  "string": 0.2,
+	  "moonstone": 5.0701955956777445,
+	  "wood": 11.8,
+	  "fish_specimen": 0
+	 },
+	 "eDusama4": {
+	  "exp": 55.4,
+	  "stone": 40.2,
+	  "gold": 3.2,
+	  "iron": 22,
+	  "string": 0,
+	  "moonstone": 1.4701955956777444,
+	  "wood": 112.4,
+	  "fish_specimen": 0
+	 },
+	 "OhhMushyPeas": {
+	  "exp": 56.8,
+	  "stone": 37.4,
+	  "gold": 31.2,
+	  "iron": 0,
+	  "string": 0.8,
+	  "moonstone": 4.4,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "McForge_": {
+	  "exp": 77.6,
+	  "stone": 71.6,
+	  "gold": 5.6,
+	  "iron": 20.4,
+	  "string": 0.4,
+	  "moonstone": 5.0701955956777445,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "FinalBossSama": {
+	  "exp": 3,
+	  "stone": 5.2,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 1,
+	  "fish_specimen": 0
+	 },
+	 "KimmPr0": {
+	  "exp": 126.8,
+	  "stone": 300.6,
+	  "gold": 0.8,
+	  "iron": 16.8,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 3,
+	  "fish_specimen": 0
+	 },
+	 "IndikoJohansen": {
+	  "exp": 140,
+	  "stone": 58.4,
+	  "gold": 20.4,
+	  "iron": 51.6,
+	  "string": 0.4,
+	  "moonstone": 7.0701955956777445,
+	  "wood": 2.6,
+	  "fish_specimen": 0
+	 },
+	 "DantanBLVCK": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Swabby_Basilius": {
+	  "exp": 6.6,
+	  "stone": 1.8,
+	  "gold": 0,
+	  "iron": 0.2,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 117.4,
+	  "fish_specimen": 0
+	 },
+	 "exoivansama": {
+	  "exp": 145,
+	  "stone": 46.6,
+	  "gold": 23.4,
+	  "iron": 55.2,
+	  "string": 0.6,
+	  "moonstone": 5.870195595677744,
+	  "wood": 5.8,
+	  "fish_specimen": 0
+	 },
+	 "MightyThanos20": {
+	  "exp": 10,
+	  "stone": 6.8,
+	  "gold": 9.6,
+	  "iron": 21.4,
+	  "string": 0.2,
+	  "moonstone": 3.4,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "DejahThoris": {
+	  "exp": 12.4,
+	  "stone": 68.4,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0.2,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 285.8,
+	  "fish_specimen": 0
+	 },
+	 "Joshua_MAD": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Pyykkikone": {
+	  "exp": 7,
+	  "stone": 53.4,
+	  "gold": 0,
+	  "iron": 5.4,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "graficobibo": {
+	  "exp": 40.8,
+	  "stone": 0,
+	  "gold": 7.6,
+	  "iron": 0.6,
+	  "string": 0,
+	  "moonstone": 3.0701955956777445,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "ARcrypt0": {
+	  "exp": 2.2,
+	  "stone": 54.6,
+	  "gold": 0,
+	  "iron": 0.4,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "BeastMode006": {
+	  "exp": 129.2,
+	  "stone": 12.6,
+	  "gold": 18.4,
+	  "iron": 14.2,
+	  "string": 1.2,
+	  "moonstone": 10,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "ZaddyTheGreat1": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 2.4,
+	  "fish_specimen": 0
+	 },
+	 "Abs_DotSama": {
+	  "exp": 92.8,
+	  "stone": 51.2,
+	  "gold": 0,
+	  "iron": 2.2,
+	  "string": 0,
+	  "moonstone": 2.4701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "UAexo": {
+	  "exp": 79,
+	  "stone": 27,
+	  "gold": 6.2,
+	  "iron": 23.8,
+	  "string": 0.4,
+	  "moonstone": 3.0701955956777445,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "DeathKnight745": {
+	  "exp": 45,
+	  "stone": 1.8,
+	  "gold": 0.8,
+	  "iron": 0.4,
+	  "string": 0.4,
+	  "moonstone": 0,
+	  "wood": 148.2,
+	  "fish_specimen": 0
+	 },
+	 "shtangla": {
+	  "exp": 186,
+	  "stone": 99.2,
+	  "gold": 28.4,
+	  "iron": 91.4,
+	  "string": 1,
+	  "moonstone": 3.2,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Tycho_S3050": {
+	  "exp": 153.4,
+	  "stone": 133.8,
+	  "gold": 12.6,
+	  "iron": 16.6,
+	  "string": 0,
+	  "moonstone": 5.270195595677745,
+	  "wood": 51.8,
+	  "fish_specimen": 0
+	 },
+	 "masama003": {
+	  "exp": 350.08335832083895,
+	  "stone": 469.22578710644655,
+	  "gold": 42.17091454272863,
+	  "iron": 80.11994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 12.701955956777443,
+	  "wood": 113.80269865067461,
+	  "fish_specimen": 14
+	 },
+	 "El_Puma09": {
+	  "exp": 38.4,
+	  "stone": 222,
+	  "gold": 5,
+	  "iron": 38.2,
+	  "string": 0.2,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "SuperSizeMe212": {
+	  "exp": 472.88335832083897,
+	  "stone": 477.6257871064465,
+	  "gold": 42.17091454272863,
+	  "iron": 82.31994002998498,
+	  "string": 1.8401799100449785,
+	  "moonstone": 19.101955956777445,
+	  "wood": 229.20269865067462,
+	  "fish_specimen": 0
+	 },
+	 "PrincessAnna546": {
+	  "exp": 1,
+	  "stone": 3.6,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 9.4,
+	  "fish_specimen": 0
+	 },
+	 "OxBob1": {
+	  "exp": 4.6,
+	  "stone": 12.6,
+	  "gold": 0,
+	  "iron": 0.4,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 5,
+	  "fish_specimen": 0
+	 },
+	 "PeterYang97": {
+	  "exp": 0.2,
+	  "stone": 29.6,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "CorKeizer1815": {
+	  "exp": 0,
+	  "stone": 3.8,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0.4,
+	  "moonstone": 0,
+	  "wood": 6.4,
+	  "fish_specimen": 0
+	 },
+	 "moonsamaLFG": {
+	  "exp": 41.4,
+	  "stone": 24.8,
+	  "gold": 6,
+	  "iron": 8,
+	  "string": 0,
+	  "moonstone": 3.470195595677745,
+	  "wood": 6.6,
+	  "fish_specimen": 0
+	 },
+	 "partushky": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Xizaie": {
+	  "exp": 189.2,
+	  "stone": 6.2,
+	  "gold": 20.4,
+	  "iron": 129,
+	  "string": 0.8,
+	  "moonstone": 5.470195595677745,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Windows95Man": {
+	  "exp": 398.88335832083897,
+	  "stone": 567.8257871064466,
+	  "gold": 45.57091454272863,
+	  "iron": 83.51994002998498,
+	  "string": 1.2401799100449784,
+	  "moonstone": 18.57215155245519,
+	  "wood": 118.00269865067462,
+	  "fish_specimen": 0
+	 },
+	 "samasamajef": {
+	  "exp": 397.683358320839,
+	  "stone": 482.22578710644655,
+	  "gold": 43.17091454272863,
+	  "iron": 82.91994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 14.901955956777442,
+	  "wood": 126.00269865067462,
+	  "fish_specimen": 0
+	 },
+	 "cryptokakarot1": {
+	  "exp": 55.2,
+	  "stone": 83.8,
+	  "gold": 1.2,
+	  "iron": 5.2,
+	  "string": 0,
+	  "moonstone": 3.670195595677744,
+	  "wood": 7.4,
+	  "fish_specimen": 0
+	 },
+	 "gomleksiz": {
+	  "exp": 130.2,
+	  "stone": 5.2,
+	  "gold": 13.8,
+	  "iron": 10.8,
+	  "string": 0,
+	  "moonstone": 4.470195595677745,
+	  "wood": 3.2,
+	  "fish_specimen": 0
+	 },
+	 "Justin_Case1": {
+	  "exp": 64,
+	  "stone": 303.6,
+	  "gold": 3.6,
+	  "iron": 5.4,
+	  "string": 0,
+	  "moonstone": 2.2701955956777446,
+	  "wood": 7,
+	  "fish_specimen": 0
+	 },
+	 "Soulreeper": {
+	  "exp": 113,
+	  "stone": 11.2,
+	  "gold": 7.8,
+	  "iron": 0.4,
+	  "string": 0,
+	  "moonstone": 12.470195595677744,
+	  "wood": 3.6,
+	  "fish_specimen": 0
+	 },
+	 "ExoDegen": {
+	  "exp": 57.8,
+	  "stone": 92,
+	  "gold": 2,
+	  "iron": 17.2,
+	  "string": 0,
+	  "moonstone": 1.4701955956777444,
+	  "wood": 0.4,
+	  "fish_specimen": 0
+	 },
+	 "vpv7crypto": {
+	  "exp": 2.2,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Donny_Dukes": {
+	  "exp": 878.7667166416779,
+	  "stone": 1335.251574212893,
+	  "gold": 96.94182908545726,
+	  "iron": 196.23988005996995,
+	  "string": 2.480359820089957,
+	  "moonstone": 36.87410750923263,
+	  "wood": 227.60539730134923,
+	  "fish_specimen": 0
+	 },
+	 "JOHNTS91": {
+	  "exp": 16.6,
+	  "stone": 258.4,
+	  "gold": 0,
+	  "iron": 0.6,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "RealBigFatPanda": {
+	  "exp": 822.1667166416779,
+	  "stone": 967.4515742128931,
+	  "gold": 99.74182908545727,
+	  "iron": 212.23988005996995,
+	  "string": 2.680359820089957,
+	  "moonstone": 31.67410750923263,
+	  "wood": 227.60539730134923,
+	  "fish_specimen": 0
+	 },
+	 "S01stac3": {
+	  "exp": 60.2,
+	  "stone": 53,
+	  "gold": 3.4,
+	  "iron": 1.8,
+	  "string": 0,
+	  "moonstone": 5.270195595677745,
+	  "wood": 2.6,
+	  "fish_specimen": 0
+	 },
+	 "EXOMonster": {
+	  "exp": 177.8,
+	  "stone": 114.6,
+	  "gold": 27.2,
+	  "iron": 58,
+	  "string": 0,
+	  "moonstone": 5.270195595677745,
+	  "wood": 56.8,
+	  "fish_specimen": 0
+	 },
+	 "AceeBrg9": {
+	  "exp": 29,
+	  "stone": 0,
+	  "gold": 2.4,
+	  "iron": 2.4,
+	  "string": 0,
+	  "moonstone": 2.4701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "bytaurus13": {
+	  "exp": 125.8,
+	  "stone": 115.4,
+	  "gold": 8.6,
+	  "iron": 36.4,
+	  "string": 0,
+	  "moonstone": 2.2701955956777446,
+	  "wood": 17,
+	  "fish_specimen": 0
+	 },
+	 "moonsama90": {
+	  "exp": 396.683358320839,
+	  "stone": 512.4257871064466,
+	  "gold": 45.57091454272863,
+	  "iron": 90.51994002998498,
+	  "string": 1.2401799100449784,
+	  "moonstone": 14.372151552455188,
+	  "wood": 115.20269865067462,
+	  "fish_specimen": 25
+	 },
+	 "JosephMac3": {
+	  "exp": 58.6,
+	  "stone": 47.4,
+	  "gold": 1,
+	  "iron": 1,
+	  "string": 0,
+	  "moonstone": 4.470195595677745,
+	  "wood": 0.8,
+	  "fish_specimen": 0
+	 },
+	 "K2saman": {
+	  "exp": 127.2,
+	  "stone": 120.8,
+	  "gold": 14,
+	  "iron": 46.4,
+	  "string": 0.6,
+	  "moonstone": 4.470195595677745,
+	  "wood": 1,
+	  "fish_specimen": 0
+	 },
+	 "SiracMC": {
+	  "exp": 67.6,
+	  "stone": 368.6,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Bobyexo": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 21.6,
+	  "fish_specimen": 0
+	 },
+	 "enote17": {
+	  "exp": 18.2,
+	  "stone": 129.2,
+	  "gold": 14.2,
+	  "iron": 24,
+	  "string": 1.2,
+	  "moonstone": 4.2,
+	  "wood": 66.2,
+	  "fish_specimen": 0
+	 },
+	 "Samaforlife": {
+	  "exp": 198.6,
+	  "stone": 12.8,
+	  "gold": 44.4,
+	  "iron": 0,
+	  "string": 0.2,
+	  "moonstone": 12,
+	  "wood": 7.6,
+	  "fish_specimen": 0
+	 },
+	 "notawid": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 0.2,
+	  "fish_specimen": 0
+	 },
+	 "DolfieChaos": {
+	  "exp": 2.8,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Barbarossa69695": {
+	  "exp": 501.6833583208389,
+	  "stone": 501.02578710644656,
+	  "gold": 62.57091454272863,
+	  "iron": 102.51994002998498,
+	  "string": 1.2401799100449784,
+	  "moonstone": 28.101955956777445,
+	  "wood": 113.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "degendragons": {
+	  "exp": 3.6,
+	  "stone": 225.2,
+	  "gold": 0,
+	  "iron": 2,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 1.4,
+	  "fish_specimen": 0
+	 },
+	 "UnderdogAcdmy": {
+	  "exp": 2,
+	  "stone": 39.6,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 4,
+	  "fish_specimen": 0
+	 },
+	 "TheOnizukaTicket": {
+	  "exp": 46.4,
+	  "stone": 6.2,
+	  "gold": 1,
+	  "iron": 7.8,
+	  "string": 0,
+	  "moonstone": 1.6701955956777446,
+	  "wood": 322.8,
+	  "fish_specimen": 0
+	 },
+	 "DorseyLife": {
+	  "exp": 20.6,
+	  "stone": 112.2,
+	  "gold": 14,
+	  "iron": 23.8,
+	  "string": 1,
+	  "moonstone": 4.4,
+	  "wood": 64,
+	  "fish_specimen": 0
+	 },
+	 "HLX_": {
+	  "exp": 1400.5334332833559,
+	  "stone": 2032.503148425786,
+	  "gold": 168.68365817091453,
+	  "iron": 320.4797601199399,
+	  "string": 4.960719640179914,
+	  "moonstone": 52.07801942278751,
+	  "wood": 456.41079460269845,
+	  "fish_specimen": 0
+	 },
+	 "Sinanpega": {
+	  "exp": 24.6,
+	  "stone": 195.2,
+	  "gold": 5.2,
+	  "iron": 10.2,
+	  "string": 0,
+	  "moonstone": 2.2701955956777446,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "r0b3yy": {
+	  "exp": 30.2,
+	  "stone": 117.2,
+	  "gold": 2.2,
+	  "iron": 1.6,
+	  "string": 0,
+	  "moonstone": 3.0701955956777445,
+	  "wood": 2.4,
+	  "fish_specimen": 0
+	 },
+	 "Grandlz": {
+	  "exp": 42.2,
+	  "stone": 384,
+	  "gold": 0,
+	  "iron": 21.2,
+	  "string": 0.4,
+	  "moonstone": 0.2,
+	  "wood": 1.8,
+	  "fish_specimen": 0
+	 },
+	 "rosciosueg": {
+	  "exp": 0.2,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Onizuka171": {
+	  "exp": 522.0833583208389,
+	  "stone": 469.22578710644655,
+	  "gold": 63.970914542728636,
+	  "iron": 91.31994002998498,
+	  "string": 1.8401799100449785,
+	  "moonstone": 23.901955956777442,
+	  "wood": 113.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "Orangenox1": {
+	  "exp": 20.6,
+	  "stone": 3.6,
+	  "gold": 14.4,
+	  "iron": 0.8,
+	  "string": 0.2,
+	  "moonstone": 2.2701955956777446,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "MarcoRo": {
+	  "exp": 31,
+	  "stone": 267,
+	  "gold": 0,
+	  "iron": 1,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Koxed": {
+	  "exp": 18.4,
+	  "stone": 40,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "JuliooCrypto": {
+	  "exp": 700.1667166416779,
+	  "stone": 949.8515742128931,
+	  "gold": 84.34182908545726,
+	  "iron": 160.23988005996995,
+	  "string": 2.480359820089957,
+	  "moonstone": 26.67410750923263,
+	  "wood": 250.40539730134924,
+	  "fish_specimen": 0
+	 },
+	 "vonyi": {
+	  "exp": 1490.1334332833558,
+	  "stone": 1942.1031484257862,
+	  "gold": 179.28365817091452,
+	  "iron": 338.0797601199399,
+	  "string": 5.7607196401799134,
+	  "moonstone": 53.278019422787516,
+	  "wood": 483.41079460269845,
+	  "fish_specimen": 86
+	 },
+	 "ante_christ": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Doggyte": {
+	  "exp": 3,
+	  "stone": 119,
+	  "gold": 14,
+	  "iron": 23.8,
+	  "string": 1.2,
+	  "moonstone": 4.2,
+	  "wood": 70.6,
+	  "fish_specimen": 0
+	 },
+	 "fr0ntrunn3r": {
+	  "exp": 50.2,
+	  "stone": 2.2,
+	  "gold": 10.6,
+	  "iron": 33.6,
+	  "string": 1.6,
+	  "moonstone": 0.8,
+	  "wood": 10.6,
+	  "fish_specimen": 0
+	 },
+	 "Boeboe234": {
+	  "exp": 54.6,
+	  "stone": 35,
+	  "gold": 7.6,
+	  "iron": 6.6,
+	  "string": 0,
+	  "moonstone": 3.8701955956777443,
+	  "wood": 1,
+	  "fish_specimen": 0
+	 },
+	 "SenseiJG": {
+	  "exp": 60.2,
+	  "stone": 104.8,
+	  "gold": 7.8,
+	  "iron": 7.8,
+	  "string": 0,
+	  "moonstone": 1.6701955956777446,
+	  "wood": 12.2,
+	  "fish_specimen": 0
+	 },
+	 "FanaticDuck7476": {
+	  "exp": 350.08335832083895,
+	  "stone": 546.0257871064465,
+	  "gold": 42.17091454272863,
+	  "iron": 105.71994002998497,
+	  "string": 1.8401799100449785,
+	  "moonstone": 16.172151552455187,
+	  "wood": 181.6026986506746,
+	  "fish_specimen": 0
+	 },
+	 "w3njuzu": {
+	  "exp": 761.5667166416779,
+	  "stone": 1016.8515742128931,
+	  "gold": 88.34182908545726,
+	  "iron": 164.03988005996996,
+	  "string": 2.480359820089957,
+	  "moonstone": 32.47410750923263,
+	  "wood": 227.60539730134923,
+	  "fish_specimen": 50
+	 },
+	 "PiniPong": {
+	  "exp": 204.8,
+	  "stone": 18.6,
+	  "gold": 2.4,
+	  "iron": 22.6,
+	  "string": 0.4,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "fredderage": {
+	  "exp": 88.2,
+	  "stone": 0.8,
+	  "gold": 12.2,
+	  "iron": 4.4,
+	  "string": 0.6,
+	  "moonstone": 3.670195595677744,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "I_love_gxg": {
+	  "exp": 5.4,
+	  "stone": 48.8,
+	  "gold": 1.4,
+	  "iron": 2.6,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Pepinillosdulces": {
+	  "exp": 41.8,
+	  "stone": 35.4,
+	  "gold": 17.6,
+	  "iron": 70.6,
+	  "string": 0.4,
+	  "moonstone": 2.8,
+	  "wood": 5.4,
+	  "fish_specimen": 0
+	 },
+	 "Snaker8": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "BABY_LOKITO": {
+	  "exp": 2101.7001499250337,
+	  "stone": 2815.354722638679,
+	  "gold": 253.02548725637178,
+	  "iron": 480.71964017990985,
+	  "string": 7.44107946026987,
+	  "moonstone": 77.4819313363424,
+	  "wood": 689.2161919040476,
+	  "fish_specimen": 0
+	 },
+	 "TonyMo0ntana33": {
+	  "exp": 350.08335832083895,
+	  "stone": 469.22578710644655,
+	  "gold": 42.17091454272863,
+	  "iron": 80.11994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 13.972151552455188,
+	  "wood": 113.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "TurkeyBurglar": {
+	  "exp": 1458.9334332833557,
+	  "stone": 1919.1031484257862,
+	  "gold": 172.48365817091454,
+	  "iron": 321.6797601199399,
+	  "string": 4.960719640179914,
+	  "moonstone": 53.07801942278751,
+	  "wood": 458.61079460269843,
+	  "fish_specimen": 0
+	 },
+	 "jam4lia": {
+	  "exp": 106.2,
+	  "stone": 12.8,
+	  "gold": 3.8,
+	  "iron": 4,
+	  "string": 0,
+	  "moonstone": 8.670195595677745,
+	  "wood": 7.4,
+	  "fish_specimen": 0
+	 },
+	 "Frnndoo": {
+	  "exp": 48.6,
+	  "stone": 47,
+	  "gold": 3.2,
+	  "iron": 7.2,
+	  "string": 0,
+	  "moonstone": 1.8701955956777443,
+	  "wood": 71.4,
+	  "fish_specimen": 0
+	 },
+	 "JosephxStaline": {
+	  "exp": 404.48335832083893,
+	  "stone": 491.6257871064465,
+	  "gold": 44.97091454272863,
+	  "iron": 92.71994002998497,
+	  "string": 2.0401799100449782,
+	  "moonstone": 14.301955956777443,
+	  "wood": 122.40269865067461,
+	  "fish_specimen": 0
+	 },
+	 "KillerSama66": {
+	  "exp": 727.683358320839,
+	  "stone": 473.6257871064465,
+	  "gold": 134.97091454272862,
+	  "iron": 91.11994002998497,
+	  "string": 2.0401799100449782,
+	  "moonstone": 35.90195595677744,
+	  "wood": 113.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "Miamisamaa": {
+	  "exp": 417.6833583208389,
+	  "stone": 704.2257871064465,
+	  "gold": 53.37091454272863,
+	  "iron": 97.71994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 15.772151552455188,
+	  "wood": 113.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "Peibol_555": {
+	  "exp": 0,
+	  "stone": 101.8,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Alejandro_17": {
+	  "exp": 17.4,
+	  "stone": 24.4,
+	  "gold": 0,
+	  "iron": 1,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Baia83": {
+	  "exp": 43,
+	  "stone": 69.6,
+	  "gold": 3,
+	  "iron": 1.6,
+	  "string": 0,
+	  "moonstone": 4.470195595677745,
+	  "wood": 15,
+	  "fish_specimen": 0
+	 },
+	 "Ciel_Marcheur": {
+	  "exp": 710.1667166416779,
+	  "stone": 975.4515742128931,
+	  "gold": 84.54182908545727,
+	  "iron": 165.63988005996995,
+	  "string": 2.480359820089957,
+	  "moonstone": 25.403911913554886,
+	  "wood": 228.80539730134922,
+	  "fish_specimen": 0
+	 },
+	 "cherepyxa": {
+	  "exp": 89,
+	  "stone": 25.6,
+	  "gold": 12.4,
+	  "iron": 20.6,
+	  "string": 0,
+	  "moonstone": 3.0701955956777445,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "AndyCapp0": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "StuartB12": {
+	  "exp": 5,
+	  "stone": 46.8,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "CrixusKSM": {
+	  "exp": 10.6,
+	  "stone": 2.4,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0.4,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 102.4,
+	  "fish_specimen": 0
+	 },
+	 "OneEyeRobbie": {
+	  "exp": 2.6,
+	  "stone": 473.6,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "young_modesty": {
+	  "exp": 93.2,
+	  "stone": 47.6,
+	  "gold": 5.2,
+	  "iron": 19.4,
+	  "string": 0,
+	  "moonstone": 1.2,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "nassama": {
+	  "exp": 91,
+	  "stone": 349.2,
+	  "gold": 27.6,
+	  "iron": 15.6,
+	  "string": 0,
+	  "moonstone": 3.470195595677745,
+	  "wood": 4.4,
+	  "fish_specimen": 0
+	 },
+	 "RoastedGganbu": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "fernandocripto": {
+	  "exp": 722.366716641678,
+	  "stone": 952.8515742128931,
+	  "gold": 85.34182908545726,
+	  "iron": 165.83988005996994,
+	  "string": 2.680359820089957,
+	  "moonstone": 26.67410750923263,
+	  "wood": 231.20539730134922,
+	  "fish_specimen": 0
+	 },
+	 "Barbarossa69696": {
+	  "exp": 498.483358320839,
+	  "stone": 583.2257871064465,
+	  "gold": 52.37091454272863,
+	  "iron": 125.91994002998497,
+	  "string": 1.4401799100449784,
+	  "moonstone": 16.901955956777442,
+	  "wood": 113.80269865067461,
+	  "fish_specimen": 50
+	 },
+	 "ForzaGolda": {
+	  "exp": 61.2,
+	  "stone": 31.2,
+	  "gold": 0,
+	  "iron": 2,
+	  "string": 1.2,
+	  "moonstone": 0,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "NiftyBoom": {
+	  "exp": 1078.8500749625168,
+	  "stone": 1461.4773613193395,
+	  "gold": 131.9127436281859,
+	  "iron": 243.95982008995492,
+	  "string": 3.720539730134935,
+	  "moonstone": 38.10586787033233,
+	  "wood": 351.8080959520238,
+	  "fish_specimen": 0
+	 },
+	 "Yudh360": {
+	  "exp": 724.1667166416779,
+	  "stone": 986.4515742128931,
+	  "gold": 84.34182908545726,
+	  "iron": 160.23988005996995,
+	  "string": 2.480359820089957,
+	  "moonstone": 26.67410750923263,
+	  "wood": 228.40539730134924,
+	  "fish_specimen": 0
+	 },
+	 "Mr_Martin3062": {
+	  "exp": 804.5667166416779,
+	  "stone": 1293.251574212893,
+	  "gold": 86.74182908545727,
+	  "iron": 179.03988005996996,
+	  "string": 2.480359820089957,
+	  "moonstone": 27.47410750923263,
+	  "wood": 227.60539730134923,
+	  "fish_specimen": 68
+	 },
+	 "GourmetPapi": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "ToxicBirdie999": {
+	  "exp": 352.683358320839,
+	  "stone": 469.22578710644655,
+	  "gold": 42.17091454272863,
+	  "iron": 80.11994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 12.701955956777443,
+	  "wood": 114.20269865067462,
+	  "fish_specimen": 0
+	 },
+	 "chavoz1": {
+	  "exp": 486.08335832083895,
+	  "stone": 519.2257871064465,
+	  "gold": 42.57091454272863,
+	  "iron": 97.51994002998498,
+	  "string": 1.2401799100449784,
+	  "moonstone": 12.701955956777443,
+	  "wood": 113.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "Barbarossa696969": {
+	  "exp": 350.08335832083895,
+	  "stone": 469.22578710644655,
+	  "gold": 42.17091454272863,
+	  "iron": 80.11994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 12.701955956777443,
+	  "wood": 163.8026986506746,
+	  "fish_specimen": 0
+	 },
+	 "IpekTaissa": {
+	  "exp": 33.4,
+	  "stone": 36.6,
+	  "gold": 5,
+	  "iron": 3.6,
+	  "string": 0,
+	  "moonstone": 3.0701955956777445,
+	  "wood": 2.2,
+	  "fish_specimen": 0
+	 },
+	 "SrGreenDog": {
+	  "exp": 58.2,
+	  "stone": 1.2,
+	  "gold": 1,
+	  "iron": 5.2,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 131.2,
+	  "fish_specimen": 0
+	 },
+	 "pMrNL": {
+	  "exp": 50,
+	  "stone": 40.6,
+	  "gold": 9,
+	  "iron": 3.4,
+	  "string": 0,
+	  "moonstone": 2.670195595677744,
+	  "wood": 14,
+	  "fish_specimen": 0
+	 },
+	 "DeryaTheKing": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "lesnik_utsa": {
+	  "exp": 31.6,
+	  "stone": 113.4,
+	  "gold": 0.2,
+	  "iron": 0.2,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 7.8,
+	  "fish_specimen": 0
+	 },
+	 "EadwenWTF": {
+	  "exp": 19,
+	  "stone": 138,
+	  "gold": 0.2,
+	  "iron": 16,
+	  "string": 0.4,
+	  "moonstone": 1.6701955956777446,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "DavidPxDot": {
+	  "exp": 80,
+	  "stone": 0,
+	  "gold": 15.8,
+	  "iron": 29.2,
+	  "string": 0.4,
+	  "moonstone": 2.0701955956777445,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Epic_Monty": {
+	  "exp": 2450.5835082458725,
+	  "stone": 3284.5805097451257,
+	  "gold": 295.19640179910044,
+	  "iron": 560.8395802098948,
+	  "string": 8.681259370314848,
+	  "moonstone": 90.18388729311984,
+	  "wood": 796.6188905547223,
+	  "fish_specimen": 0
+	 },
+	 "DrCouchman": {
+	  "exp": 44.8,
+	  "stone": 0.6,
+	  "gold": 16.6,
+	  "iron": 1.4,
+	  "string": 0,
+	  "moonstone": 5,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "SF_elrupero": {
+	  "exp": 143.8,
+	  "stone": 243.8,
+	  "gold": 9.2,
+	  "iron": 59.4,
+	  "string": 0,
+	  "moonstone": 3.2701955956777446,
+	  "wood": 12.4,
+	  "fish_specimen": 0
+	 },
+	 "scrtalien": {
+	  "exp": 114.8,
+	  "stone": 270.8,
+	  "gold": 8.2,
+	  "iron": 9.4,
+	  "string": 0,
+	  "moonstone": 5.270195595677745,
+	  "wood": 2.4,
+	  "fish_specimen": 0
+	 },
+	 "GLEXOCEAN": {
+	  "exp": 66.6,
+	  "stone": 127.6,
+	  "gold": 8.8,
+	  "iron": 17.8,
+	  "string": 0.4,
+	  "moonstone": 2.4701955956777444,
+	  "wood": 172.4,
+	  "fish_specimen": 0
+	 },
+	 "ToniRaskolnikov": {
+	  "exp": 374.683358320839,
+	  "stone": 568.4257871064466,
+	  "gold": 44.370914542728634,
+	  "iron": 85.51994002998498,
+	  "string": 1.2401799100449784,
+	  "moonstone": 12.901955956777442,
+	  "wood": 118.00269865067462,
+	  "fish_specimen": 23
+	 },
+	 "CaptainWexman": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Fetagreta": {
+	  "exp": 112.4,
+	  "stone": 94.2,
+	  "gold": 29.8,
+	  "iron": 23.4,
+	  "string": 1,
+	  "moonstone": 3.8701955956777443,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "juudje82": {
+	  "exp": 432.483358320839,
+	  "stone": 596.8257871064466,
+	  "gold": 44.97091454272863,
+	  "iron": 89.11994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 13.972151552455188,
+	  "wood": 144.20269865067462,
+	  "fish_specimen": 0
+	 },
+	 "AlbinoCanario": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 14.6,
+	  "fish_specimen": 0
+	 },
+	 "_GreenSama_": {
+	  "exp": 528.2833583208389,
+	  "stone": 776.0257871064466,
+	  "gold": 69.57091454272863,
+	  "iron": 125.71994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 18.30195595677744,
+	  "wood": 113.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "FranDancoina": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "crushcrushcrush": {
+	  "exp": 392.88335832083897,
+	  "stone": 853.2257871064465,
+	  "gold": 45.77091454272863,
+	  "iron": 96.11994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 13.101955956777443,
+	  "wood": 119.60269865067461,
+	  "fish_specimen": 0
+	 },
+	 "LongLegsBro": {
+	  "exp": 8.2,
+	  "stone": 2.8,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0.8,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 187.2,
+	  "fish_specimen": 0
+	 },
+	 "banana_glitch": {
+	  "exp": 5.6,
+	  "stone": 384,
+	  "gold": 1,
+	  "iron": 16.4,
+	  "string": 0,
+	  "moonstone": 1.6701955956777446,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "WaifuSeeker_ITA": {
+	  "exp": 81.4,
+	  "stone": 59.6,
+	  "gold": 10,
+	  "iron": 52.8,
+	  "string": 0.8,
+	  "moonstone": 2.670195595677744,
+	  "wood": 27.6,
+	  "fish_specimen": 0
+	 },
+	 "MetaEgg": {
+	  "exp": 36.2,
+	  "stone": 383.6,
+	  "gold": 4,
+	  "iron": 16.6,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Onizukaticket": {
+	  "exp": 0.2,
+	  "stone": 11.6,
+	  "gold": 11.4,
+	  "iron": 11,
+	  "string": 0,
+	  "moonstone": 4.270195595677745,
+	  "wood": 18.6,
+	  "fish_specimen": 0
+	 },
+	 "dutchiekiwi": {
+	  "exp": 396.88335832083897,
+	  "stone": 720.4257871064465,
+	  "gold": 42.17091454272863,
+	  "iron": 80.11994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 13.972151552455188,
+	  "wood": 113.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "MrTiggah": {
+	  "exp": 3515.6335832083896,
+	  "stone": 4705.057871064466,
+	  "gold": 421.70914542728633,
+	  "iron": 826.3994002998497,
+	  "string": 12.401799100449784,
+	  "moonstone": 127.01955956777442,
+	  "wood": 1162.0269865067462,
+	  "fish_specimen": 0
+	 },
+	 "CryptechFPS": {
+	  "exp": 5.6,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 6,
+	  "fish_specimen": 0
+	 },
+	 "barbarella": {
+	  "exp": 29,
+	  "stone": 97.4,
+	  "gold": 0.4,
+	  "iron": 3.2,
+	  "string": 0,
+	  "moonstone": 3.0701955956777445,
+	  "wood": 12.4,
+	  "fish_specimen": 0
+	 },
+	 "Halaster23": {
+	  "exp": 812.7667166416779,
+	  "stone": 1012.251574212893,
+	  "gold": 95.94182908545726,
+	  "iron": 182.63988005996995,
+	  "string": 2.680359820089957,
+	  "moonstone": 31.87410750923263,
+	  "wood": 241.20539730134922,
+	  "fish_specimen": 0
+	 },
+	 "ddc_23": {
+	  "exp": 423.6833583208389,
+	  "stone": 484.6257871064465,
+	  "gold": 42.17091454272863,
+	  "iron": 80.51994002998498,
+	  "string": 1.2401799100449784,
+	  "moonstone": 16.77215155245519,
+	  "wood": 115.00269865067462,
+	  "fish_specimen": 0
+	 },
+	 "Sequolla": {
+	  "exp": 107.2,
+	  "stone": 51.6,
+	  "gold": 20.4,
+	  "iron": 73.6,
+	  "string": 0,
+	  "moonstone": 2.2701955956777446,
+	  "wood": 34.2,
+	  "fish_specimen": 0
+	 },
+	 "Spitfire423": {
+	  "exp": 235.2,
+	  "stone": 0,
+	  "gold": 36.8,
+	  "iron": 10,
+	  "string": 0,
+	  "moonstone": 15.8,
+	  "wood": 8.6,
+	  "fish_specimen": 0
+	 },
+	 "Whatafaaak": {
+	  "exp": 387.88335832083897,
+	  "stone": 663.4257871064465,
+	  "gold": 51.17091454272863,
+	  "iron": 101.11994002998497,
+	  "string": 2.0401799100449782,
+	  "moonstone": 16.372151552455186,
+	  "wood": 113.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "Camionazo69": {
+	  "exp": 51,
+	  "stone": 351.8,
+	  "gold": 1.6,
+	  "iron": 18.4,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "gnooee": {
+	  "exp": 364.08335832083895,
+	  "stone": 533.2257871064465,
+	  "gold": 54.17091454272863,
+	  "iron": 102.31994002998498,
+	  "string": 2.2401799100449784,
+	  "moonstone": 15.972151552455188,
+	  "wood": 134.0026986506746,
+	  "fish_specimen": 0
+	 },
+	 "SiNoVA79": {
+	  "exp": 21.2,
+	  "stone": 320,
+	  "gold": 6.2,
+	  "iron": 21.4,
+	  "string": 0,
+	  "moonstone": 2.8701955956777443,
+	  "wood": 83.4,
+	  "fish_specimen": 0
+	 },
+	 "Lemzypo": {
+	  "exp": 54.2,
+	  "stone": 105,
+	  "gold": 2,
+	  "iron": 7.4,
+	  "string": 0,
+	  "moonstone": 1,
+	  "wood": 0.8,
+	  "fish_specimen": 0
+	 },
+	 "WhiteGlimmer": {
+	  "exp": 224,
+	  "stone": 12.8,
+	  "gold": 35.6,
+	  "iron": 50,
+	  "string": 1,
+	  "moonstone": 14.270195595677745,
+	  "wood": 10.4,
+	  "fish_specimen": 0
+	 },
+	 "garrri": {
+	  "exp": 184.8,
+	  "stone": 121.2,
+	  "gold": 21,
+	  "iron": 88.4,
+	  "string": 0.6,
+	  "moonstone": 10.670195595677745,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Mrcrymountain": {
+	  "exp": 2545.1001499250337,
+	  "stone": 2840.954722638679,
+	  "gold": 292.0254872563718,
+	  "iron": 511.51964017990986,
+	  "string": 8.04107946026987,
+	  "moonstone": 86.8819313363424,
+	  "wood": 772.4161919040477,
+	  "fish_specimen": 0
+	 },
+	 "BondBear": {
+	  "exp": 114.6,
+	  "stone": 45.8,
+	  "gold": 16.2,
+	  "iron": 80.8,
+	  "string": 1.2,
+	  "moonstone": 5.270195595677745,
+	  "wood": 1.6,
+	  "fish_specimen": 0
+	 },
+	 "Mothball87": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "sama127": {
+	  "exp": 87.4,
+	  "stone": 0,
+	  "gold": 27,
+	  "iron": 21,
+	  "string": 0.8,
+	  "moonstone": 4.4,
+	  "wood": 16.4,
+	  "fish_specimen": 0
+	 },
+	 "stopthecalm": {
+	  "exp": 85,
+	  "stone": 96.4,
+	  "gold": 12,
+	  "iron": 22.2,
+	  "string": 0,
+	  "moonstone": 6.670195595677745,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "CastorTrojan": {
+	  "exp": 358.48335832083893,
+	  "stone": 471.42578710644653,
+	  "gold": 44.77091454272863,
+	  "iron": 81.11994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 13.501955956777444,
+	  "wood": 117.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "hhetoya": {
+	  "exp": 151.8,
+	  "stone": 196.4,
+	  "gold": 28.4,
+	  "iron": 59.4,
+	  "string": 0,
+	  "moonstone": 4.670195595677744,
+	  "wood": 2.6,
+	  "fish_specimen": 0
+	 },
+	 "Samagotshi": {
+	  "exp": 94.2,
+	  "stone": 8.4,
+	  "gold": 19.8,
+	  "iron": 2.2,
+	  "string": 0.8,
+	  "moonstone": 7.470195595677745,
+	  "wood": 1.2,
+	  "fish_specimen": 0
+	 },
+	 "JohnGalt9": {
+	  "exp": 159.6,
+	  "stone": 64,
+	  "gold": 6.8,
+	  "iron": 51.2,
+	  "string": 0,
+	  "moonstone": 4,
+	  "wood": 44.8,
+	  "fish_specimen": 0
+	 },
+	 "ayktbyr": {
+	  "exp": 45.4,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Oryzhen": {
+	  "exp": 37.6,
+	  "stone": 275.8,
+	  "gold": 3.4,
+	  "iron": 6.8,
+	  "string": 0,
+	  "moonstone": 2.2701955956777446,
+	  "wood": 1.6,
+	  "fish_specimen": 0
+	 },
+	 "IgorDubai2": {
+	  "exp": 373.88335832083897,
+	  "stone": 469.22578710644655,
+	  "gold": 66.57091454272863,
+	  "iron": 80.11994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 17.30195595677744,
+	  "wood": 113.80269865067461,
+	  "fish_specimen": 43
+	 },
+	 "MRJCflaco": {
+	  "exp": 3.8,
+	  "stone": 25.6,
+	  "gold": 0,
+	  "iron": 8.6,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "DviineBean": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "ConfiTuur": {
+	  "exp": 1050.250074962517,
+	  "stone": 1487.4773613193395,
+	  "gold": 126.51274362818589,
+	  "iron": 241.5598200899549,
+	  "string": 4.920539730134935,
+	  "moonstone": 39.37606346601007,
+	  "wood": 342.8080959520238,
+	  "fish_specimen": 0
+	 },
+	 "DotWarrior16": {
+	  "exp": 183.4,
+	  "stone": 79.6,
+	  "gold": 42.4,
+	  "iron": 14.2,
+	  "string": 0.2,
+	  "moonstone": 12.470195595677744,
+	  "wood": 6,
+	  "fish_specimen": 0
+	 },
+	 "mrsomtam": {
+	  "exp": 759.5667166416779,
+	  "stone": 1050.251574212893,
+	  "gold": 88.74182908545727,
+	  "iron": 168.63988005996995,
+	  "string": 2.480359820089957,
+	  "moonstone": 30.87410750923263,
+	  "wood": 238.20539730134922,
+	  "fish_specimen": 0
+	 },
+	 "Bifidusss": {
+	  "exp": 38.4,
+	  "stone": 118.6,
+	  "gold": 1.8,
+	  "iron": 12,
+	  "string": 0,
+	  "moonstone": 1.6701955956777446,
+	  "wood": 34.6,
+	  "fish_specimen": 0
+	 },
+	 "coca_so": {
+	  "exp": 359.08335832083895,
+	  "stone": 672.2257871064465,
+	  "gold": 42.17091454272863,
+	  "iron": 90.31994002998498,
+	  "string": 1.2401799100449784,
+	  "moonstone": 14.101955956777443,
+	  "wood": 131.20269865067462,
+	  "fish_specimen": 0
+	 },
+	 "FrankiFresh": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "boostdmg01": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "SHARKSAUR": {
+	  "exp": 36.6,
+	  "stone": 11.2,
+	  "gold": 3,
+	  "iron": 0.4,
+	  "string": 0,
+	  "moonstone": 2.8701955956777443,
+	  "wood": 9.8,
+	  "fish_specimen": 0
+	 },
+	 "edocean": {
+	  "exp": 96.8,
+	  "stone": 58.4,
+	  "gold": 10,
+	  "iron": 29.2,
+	  "string": 0,
+	  "moonstone": 2.4701955956777444,
+	  "wood": 2.6,
+	  "fish_specimen": 0
+	 },
+	 "ErenOean": {
+	  "exp": 70.2,
+	  "stone": 87.4,
+	  "gold": 7.4,
+	  "iron": 21.2,
+	  "string": 0,
+	  "moonstone": 3.2701955956777446,
+	  "wood": 31.2,
+	  "fish_specimen": 0
+	 },
+	 "PapiSama": {
+	  "exp": 63.8,
+	  "stone": 188.4,
+	  "gold": 8.2,
+	  "iron": 31.6,
+	  "string": 0.2,
+	  "moonstone": 1.8701955956777443,
+	  "wood": 23.2,
+	  "fish_specimen": 0
+	 },
+	 "CarlesRM96": {
+	  "exp": 95.6,
+	  "stone": 89.8,
+	  "gold": 11.6,
+	  "iron": 5.6,
+	  "string": 0,
+	  "moonstone": 5.470195595677745,
+	  "wood": 4.8,
+	  "fish_specimen": 0
+	 },
+	 "GXG_I_WILL_DM_U": {
+	  "exp": 89.2,
+	  "stone": 6.4,
+	  "gold": 21.4,
+	  "iron": 98.2,
+	  "string": 0.6,
+	  "moonstone": 1.4701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Haze_666": {
+	  "exp": 0.4,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 37.8,
+	  "fish_specimen": 0
+	 },
+	 "CoolSama": {
+	  "exp": 400.683358320839,
+	  "stone": 478.82578710644657,
+	  "gold": 42.57091454272863,
+	  "iron": 81.71994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 18.901955956777442,
+	  "wood": 113.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "vlasnikinternet": {
+	  "exp": 816.9667166416779,
+	  "stone": 953.0515742128931,
+	  "gold": 96.94182908545726,
+	  "iron": 190.23988005996995,
+	  "string": 2.680359820089957,
+	  "moonstone": 31.47410750923263,
+	  "wood": 227.60539730134923,
+	  "fish_specimen": 0
+	 },
+	 "Hilachos": {
+	  "exp": 152.2,
+	  "stone": 0,
+	  "gold": 24.2,
+	  "iron": 49.8,
+	  "string": 0.4,
+	  "moonstone": 12.070195595677745,
+	  "wood": 3.2,
+	  "fish_specimen": 0
+	 },
+	 "EnergyJack_": {
+	  "exp": 96,
+	  "stone": 294.4,
+	  "gold": 12.8,
+	  "iron": 17.4,
+	  "string": 0.6,
+	  "moonstone": 5.870195595677744,
+	  "wood": 89.6,
+	  "fish_specimen": 0
+	 },
+	 "MrLucky0ne": {
+	  "exp": 6.6,
+	  "stone": 0,
+	  "gold": 5.2,
+	  "iron": 13.6,
+	  "string": 0,
+	  "moonstone": 2.4701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "RRAliev": {
+	  "exp": 101.6,
+	  "stone": 20,
+	  "gold": 13.8,
+	  "iron": 24.6,
+	  "string": 0.4,
+	  "moonstone": 3.8701955956777443,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Padddo": {
+	  "exp": 379.28335832083894,
+	  "stone": 559.8257871064466,
+	  "gold": 45.370914542728634,
+	  "iron": 89.71994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 12.701955956777443,
+	  "wood": 147.20269865067462,
+	  "fish_specimen": 0
+	 },
+	 "jadovita": {
+	  "exp": 110.4,
+	  "stone": 30.2,
+	  "gold": 14.2,
+	  "iron": 70.6,
+	  "string": 0,
+	  "moonstone": 3.2701955956777446,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Woden76": {
+	  "exp": 1124.650074962517,
+	  "stone": 1561.0773613193396,
+	  "gold": 130.3127436281859,
+	  "iron": 264.7598200899549,
+	  "string": 3.720539730134935,
+	  "moonstone": 42.576063466010076,
+	  "wood": 348.2080959520238,
+	  "fish_specimen": 0
+	 },
+	 "AlexMtz__": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Pattenr0nd": {
+	  "exp": 350.08335832083895,
+	  "stone": 469.22578710644655,
+	  "gold": 42.17091454272863,
+	  "iron": 80.11994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 12.701955956777443,
+	  "wood": 115.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "MarcMarcelle": {
+	  "exp": 404.28335832083894,
+	  "stone": 763.6257871064465,
+	  "gold": 45.370914542728634,
+	  "iron": 98.71994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 17.57215155245519,
+	  "wood": 119.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "Spinkicks360": {
+	  "exp": 365.28335832083894,
+	  "stone": 550.0257871064465,
+	  "gold": 42.17091454272863,
+	  "iron": 86.31994002998498,
+	  "string": 1.6401799100449783,
+	  "moonstone": 13.101955956777443,
+	  "wood": 119.20269865067462,
+	  "fish_specimen": 0
+	 },
+	 "xTazzo": {
+	  "exp": 111.2,
+	  "stone": 3,
+	  "gold": 27.4,
+	  "iron": 25,
+	  "string": 0.4,
+	  "moonstone": 6.2,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "LunaticHigh12": {
+	  "exp": 259,
+	  "stone": 23.8,
+	  "gold": 45.4,
+	  "iron": 38.4,
+	  "string": 2.6,
+	  "moonstone": 18.8,
+	  "wood": 29,
+	  "fish_specimen": 0
+	 },
+	 "Abbas_TF": {
+	  "exp": 34.4,
+	  "stone": 82.2,
+	  "gold": 2.6,
+	  "iron": 5.4,
+	  "string": 0,
+	  "moonstone": 3.2701955956777446,
+	  "wood": 7.8,
+	  "fish_specimen": 0
+	 },
+	 "Mikbohr21": {
+	  "exp": 28.8,
+	  "stone": 2.2,
+	  "gold": 0.2,
+	  "iron": 1,
+	  "string": 0,
+	  "moonstone": 1.8701955956777443,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "pepper0nipizza": {
+	  "exp": 778.1667166416779,
+	  "stone": 1012.251574212893,
+	  "gold": 95.94182908545726,
+	  "iron": 182.63988005996995,
+	  "string": 2.680359820089957,
+	  "moonstone": 31.87410750923263,
+	  "wood": 241.20539730134922,
+	  "fish_specimen": 0
+	 },
+	 "NeoKryptoDudes": {
+	  "exp": 66.8,
+	  "stone": 31.2,
+	  "gold": 1,
+	  "iron": 3.8,
+	  "string": 0.2,
+	  "moonstone": 2.8701955956777443,
+	  "wood": 21.8,
+	  "fish_specimen": 0
+	 },
+	 "Ouhma": {
+	  "exp": 7.8,
+	  "stone": 2.2,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 197.4,
+	  "fish_specimen": 0
+	 },
+	 "MovrSama88": {
+	  "exp": 403.683358320839,
+	  "stone": 469.22578710644655,
+	  "gold": 57.37091454272863,
+	  "iron": 91.11994002998497,
+	  "string": 1.6401799100449783,
+	  "moonstone": 14.301955956777443,
+	  "wood": 113.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "KstarMc": {
+	  "exp": 350.08335832083895,
+	  "stone": 469.22578710644655,
+	  "gold": 42.17091454272863,
+	  "iron": 80.11994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 12.701955956777443,
+	  "wood": 113.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "Dolenec_33": {
+	  "exp": 384.28335832083894,
+	  "stone": 546.0257871064465,
+	  "gold": 45.97091454272863,
+	  "iron": 86.11994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 13.972151552455188,
+	  "wood": 114.60269865067461,
+	  "fish_specimen": 0
+	 },
+	 "zCocopops": {
+	  "exp": 562.483358320839,
+	  "stone": 473.42578710644653,
+	  "gold": 59.970914542728636,
+	  "iron": 83.31994002998498,
+	  "string": 1.6401799100449783,
+	  "moonstone": 44.101955956777445,
+	  "wood": 113.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "f0lmerMC": {
+	  "exp": 154.2,
+	  "stone": 12.4,
+	  "gold": 14.2,
+	  "iron": 50,
+	  "string": 0.8,
+	  "moonstone": 5.4,
+	  "wood": 5.8,
+	  "fish_specimen": 0
+	 },
+	 "meld169": {
+	  "exp": 388.48335832083893,
+	  "stone": 511.6257871064465,
+	  "gold": 50.77091454272863,
+	  "iron": 82.11994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 16.972151552455188,
+	  "wood": 121.00269865067462,
+	  "fish_specimen": 0
+	 },
+	 "yuimisdot": {
+	  "exp": 0,
+	  "stone": 0.6,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Ishemaru": {
+	  "exp": 743.5667166416779,
+	  "stone": 946.4515742128931,
+	  "gold": 87.54182908545727,
+	  "iron": 161.43988005996994,
+	  "string": 2.480359820089957,
+	  "moonstone": 29.07410750923263,
+	  "wood": 229.20539730134922,
+	  "fish_specimen": 75
+	 },
+	 "Bubbl3_eth": {
+	  "exp": 52.8,
+	  "stone": 265.4,
+	  "gold": 2.4,
+	  "iron": 12.4,
+	  "string": 0,
+	  "moonstone": 2.4701955956777444,
+	  "wood": 11,
+	  "fish_specimen": 0
+	 },
+	 "MeijerTime": {
+	  "exp": 24.6,
+	  "stone": 132,
+	  "gold": 0,
+	  "iron": 5,
+	  "string": 0,
+	  "moonstone": 1.6701955956777446,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Grabberoni": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0.2,
+	  "fish_specimen": 0
+	 },
+	 "fatsGamble": {
+	  "exp": 1462.3334332833558,
+	  "stone": 2007.7031484257861,
+	  "gold": 174.88365817091452,
+	  "iron": 338.4797601199399,
+	  "string": 5.360719640179914,
+	  "moonstone": 52.87801942278751,
+	  "wood": 467.21079460269846,
+	  "fish_specimen": 0
+	 },
+	 "JR_Borg": {
+	  "exp": 480.88335832083897,
+	  "stone": 487.42578710644653,
+	  "gold": 60.77091454272863,
+	  "iron": 108.11994002998497,
+	  "string": 1.6401799100449783,
+	  "moonstone": 17.77215155245519,
+	  "wood": 121.00269865067462,
+	  "fish_specimen": 50
+	 },
+	 "kokopikos": {
+	  "exp": 163.6,
+	  "stone": 31.4,
+	  "gold": 15.2,
+	  "iron": 23.8,
+	  "string": 0,
+	  "moonstone": 8.270195595677745,
+	  "wood": 2.4,
+	  "fish_specimen": 0
+	 },
+	 "MischievousMrkt": {
+	  "exp": 770.7667166416779,
+	  "stone": 1113.8515742128932,
+	  "gold": 88.54182908545727,
+	  "iron": 169.63988005996995,
+	  "string": 2.480359820089957,
+	  "moonstone": 33.07410750923263,
+	  "wood": 230.40539730134924,
+	  "fish_specimen": 0
+	 },
+	 "XPatchhead": {
+	  "exp": 58.8,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "GarSitor": {
+	  "exp": 406.08335832083895,
+	  "stone": 496.02578710644656,
+	  "gold": 50.17091454272863,
+	  "iron": 120.11994002998497,
+	  "string": 3.4401799100449786,
+	  "moonstone": 14.101955956777443,
+	  "wood": 127.00269865067462,
+	  "fish_specimen": 0
+	 },
+	 "GoldenEXO": {
+	  "exp": 44.4,
+	  "stone": 163.6,
+	  "gold": 1.6,
+	  "iron": 5.6,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 15.4,
+	  "fish_specimen": 0
+	 },
+	 "_Djarin_": {
+	  "exp": 95.4,
+	  "stone": 4.2,
+	  "gold": 10,
+	  "iron": 58.4,
+	  "string": 0.2,
+	  "moonstone": 4.470195595677745,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "SinghzUnited": {
+	  "exp": 350.08335832083895,
+	  "stone": 469.22578710644655,
+	  "gold": 42.17091454272863,
+	  "iron": 80.11994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 12.701955956777443,
+	  "wood": 113.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "COBAYIKA69": {
+	  "exp": 72.8,
+	  "stone": 331.2,
+	  "gold": 5.6,
+	  "iron": 24.2,
+	  "string": 0,
+	  "moonstone": 2.0701955956777445,
+	  "wood": 17.8,
+	  "fish_specimen": 0
+	 },
+	 "trusch42": {
+	  "exp": 32.8,
+	  "stone": 274,
+	  "gold": 0.8,
+	  "iron": 10.4,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 3.4,
+	  "fish_specimen": 0
+	 },
+	 "Cryptovlieg": {
+	  "exp": 23,
+	  "stone": 126.6,
+	  "gold": 0,
+	  "iron": 5.2,
+	  "string": 0,
+	  "moonstone": 1.6701955956777446,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Yeeeyiii": {
+	  "exp": 51,
+	  "stone": 398.8,
+	  "gold": 3.8,
+	  "iron": 16.6,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 9.8,
+	  "fish_specimen": 0
+	 },
+	 "THEFIREFLY11": {
+	  "exp": 12.8,
+	  "stone": 321,
+	  "gold": 0,
+	  "iron": 9.2,
+	  "string": 0,
+	  "moonstone": 2.2701955956777446,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "EnduringWrick": {
+	  "exp": 420.483358320839,
+	  "stone": 745.6257871064465,
+	  "gold": 48.97091454272863,
+	  "iron": 100.51994002998498,
+	  "string": 1.6401799100449783,
+	  "moonstone": 15.172151552455187,
+	  "wood": 126.40269865067461,
+	  "fish_specimen": 0
+	 },
+	 "Sc0tciad6": {
+	  "exp": 85,
+	  "stone": 358.4,
+	  "gold": 3,
+	  "iron": 11.2,
+	  "string": 0,
+	  "moonstone": 1.6701955956777446,
+	  "wood": 40.8,
+	  "fish_specimen": 0
+	 },
+	 "Guitarman_wc": {
+	  "exp": 353.88335832083897,
+	  "stone": 499.02578710644656,
+	  "gold": 47.370914542728634,
+	  "iron": 81.31994002998498,
+	  "string": 1.2401799100449784,
+	  "moonstone": 14.972151552455188,
+	  "wood": 117.40269865067461,
+	  "fish_specimen": 0
+	 },
+	 "SoberPhil": {
+	  "exp": 361.683358320839,
+	  "stone": 819.8257871064466,
+	  "gold": 42.17091454272863,
+	  "iron": 86.11994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 12.701955956777443,
+	  "wood": 113.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "Ant_Y": {
+	  "exp": 8.6,
+	  "stone": 112.8,
+	  "gold": 0,
+	  "iron": 1.6,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 143,
+	  "fish_specimen": 0
+	 },
+	 "Dudelydoo": {
+	  "exp": 418.08335832083895,
+	  "stone": 711.8257871064466,
+	  "gold": 42.17091454272863,
+	  "iron": 80.11994002998497,
+	  "string": 1.4401799100449784,
+	  "moonstone": 12.701955956777443,
+	  "wood": 113.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "KrobiSan": {
+	  "exp": 353.08335832083895,
+	  "stone": 507.6257871064465,
+	  "gold": 43.370914542728634,
+	  "iron": 80.11994002998497,
+	  "string": 1.4401799100449784,
+	  "moonstone": 12.701955956777443,
+	  "wood": 115.20269865067462,
+	  "fish_specimen": 0
+	 },
+	 "SerCart": {
+	  "exp": 192,
+	  "stone": 0,
+	  "gold": 45.6,
+	  "iron": 1.6,
+	  "string": 1,
+	  "moonstone": 19.270195595677745,
+	  "wood": 1.6,
+	  "fish_specimen": 0
+	 },
+	 "SamaXtreme": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Donniebigbags": {
+	  "exp": 19301.384707646142,
+	  "stone": 25948.21829085456,
+	  "gold": 2319.4002998500746,
+	  "iron": 4406.596701649173,
+	  "string": 68.20989505247381,
+	  "moonstone": 699.8777732184371,
+	  "wood": 6280.348425787103,
+	  "fish_specimen": 0
+	 },
+	 "SP33QR": {
+	  "exp": 49,
+	  "stone": 115.2,
+	  "gold": 5.2,
+	  "iron": 12,
+	  "string": 0,
+	  "moonstone": 3.2701955956777446,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Itz_berkant_PvP": {
+	  "exp": 166.8,
+	  "stone": 5.2,
+	  "gold": 28.6,
+	  "iron": 58.2,
+	  "string": 0,
+	  "moonstone": 6.670195595677745,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Toughydra367": {
+	  "exp": 10.2,
+	  "stone": 33,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0.2,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 1.6,
+	  "fish_specimen": 0
+	 },
+	 "AvanzaSquad": {
+	  "exp": 1.2,
+	  "stone": 15.4,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 1,
+	  "fish_specimen": 0
+	 },
+	 "DxyFan": {
+	  "exp": 80.2,
+	  "stone": 36.2,
+	  "gold": 9,
+	  "iron": 3.8,
+	  "string": 0,
+	  "moonstone": 7.270195595677745,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "ArcanT9675": {
+	  "exp": 74.4,
+	  "stone": 260.6,
+	  "gold": 2,
+	  "iron": 43.4,
+	  "string": 0,
+	  "moonstone": 1.8701955956777443,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "magicpini": {
+	  "exp": 350.08335832083895,
+	  "stone": 469.22578710644655,
+	  "gold": 42.17091454272863,
+	  "iron": 80.11994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 12.701955956777443,
+	  "wood": 115.00269865067462,
+	  "fish_specimen": 0
+	 },
+	 "Momsama": {
+	  "exp": 714.366716641678,
+	  "stone": 938.6515742128931,
+	  "gold": 84.34182908545726,
+	  "iron": 160.23988005996995,
+	  "string": 2.8803598200899567,
+	  "moonstone": 25.403911913554886,
+	  "wood": 231.40539730134924,
+	  "fish_specimen": 0
+	 },
+	 "Petsch17": {
+	  "exp": 15.2,
+	  "stone": 391,
+	  "gold": 0,
+	  "iron": 5,
+	  "string": 0,
+	  "moonstone": 0.6,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "k0rrup7": {
+	  "exp": 398.48335832083893,
+	  "stone": 544.4257871064466,
+	  "gold": 48.17091454272863,
+	  "iron": 92.51994002998498,
+	  "string": 1.6401799100449783,
+	  "moonstone": 13.972151552455188,
+	  "wood": 114.60269865067461,
+	  "fish_specimen": 0
+	 },
+	 "Auluss54": {
+	  "exp": 22.8,
+	  "stone": 336.2,
+	  "gold": 1.2,
+	  "iron": 13.2,
+	  "string": 0,
+	  "moonstone": 1.4701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Gabatronik13": {
+	  "exp": 17.6,
+	  "stone": 51.2,
+	  "gold": 5.4,
+	  "iron": 5.4,
+	  "string": 0,
+	  "moonstone": 1.8701955956777443,
+	  "wood": 6,
+	  "fish_specimen": 0
+	 },
+	 "bonsaiiio": {
+	  "exp": 52.2,
+	  "stone": 6.4,
+	  "gold": 1.6,
+	  "iron": 1,
+	  "string": 0,
+	  "moonstone": 4.0701955956777445,
+	  "wood": 2.2,
+	  "fish_specimen": 0
+	 },
+	 "CrudeArtist4591": {
+	  "exp": 723.366716641678,
+	  "stone": 941.6515742128931,
+	  "gold": 85.34182908545726,
+	  "iron": 161.03988005996996,
+	  "string": 2.480359820089957,
+	  "moonstone": 25.403911913554886,
+	  "wood": 235.80539730134922,
+	  "fish_specimen": 0
+	 },
+	 "Kraaijtj": {
+	  "exp": 0,
+	  "stone": 325.8,
+	  "gold": 0.4,
+	  "iron": 1,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "bulmeshka": {
+	  "exp": 31.6,
+	  "stone": 22.4,
+	  "gold": 8.2,
+	  "iron": 39.8,
+	  "string": 0,
+	  "moonstone": 1.4,
+	  "wood": 13.2,
+	  "fish_specimen": 0
+	 },
+	 "Bergodor": {
+	  "exp": 18.2,
+	  "stone": 118.4,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Pattaya69": {
+	  "exp": 11613.550824587684,
+	  "stone": 15919.650974512737,
+	  "gold": 1391.640179910045,
+	  "iron": 2643.9580209895043,
+	  "string": 40.92593703148429,
+	  "moonstone": 420.4347421693334,
+	  "wood": 3755.4890554722624,
+	  "fish_specimen": 0
+	 },
+	 "Baazl": {
+	  "exp": 72,
+	  "stone": 21.8,
+	  "gold": 1,
+	  "iron": 11.4,
+	  "string": 0.2,
+	  "moonstone": 2.4701955956777444,
+	  "wood": 2.8,
+	  "fish_specimen": 0
+	 },
+	 "Zah_DPS": {
+	  "exp": 13,
+	  "stone": 207.6,
+	  "gold": 0,
+	  "iron": 6.6,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 3.2,
+	  "fish_specimen": 0
+	 },
+	 "MrKiltMaster": {
+	  "exp": 360.683358320839,
+	  "stone": 524.8257871064466,
+	  "gold": 42.17091454272863,
+	  "iron": 82.11994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 14.172151552455187,
+	  "wood": 118.20269865067462,
+	  "fish_specimen": 0
+	 },
+	 "KusamaMike": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "itsv0lt": {
+	  "exp": 84.4,
+	  "stone": 138.4,
+	  "gold": 15.4,
+	  "iron": 26.8,
+	  "string": 0,
+	  "moonstone": 3.6,
+	  "wood": 2.4,
+	  "fish_specimen": 0
+	 },
+	 "CryptoBeliever": {
+	  "exp": 804.1667166416779,
+	  "stone": 976.0515742128931,
+	  "gold": 89.94182908545726,
+	  "iron": 163.03988005996996,
+	  "string": 2.480359820089957,
+	  "moonstone": 28.87410750923263,
+	  "wood": 234.60539730134923,
+	  "fish_specimen": 0
+	 },
+	 "Baba_MIES": {
+	  "exp": 102.4,
+	  "stone": 138.6,
+	  "gold": 10.8,
+	  "iron": 13.4,
+	  "string": 0.4,
+	  "moonstone": 3.6,
+	  "wood": 16.4,
+	  "fish_specimen": 0
+	 },
+	 "WheatBaron3": {
+	  "exp": 167.2,
+	  "stone": 25.6,
+	  "gold": 46.6,
+	  "iron": 2.4,
+	  "string": 0.2,
+	  "moonstone": 14.2,
+	  "wood": 4,
+	  "fish_specimen": 8
+	 },
+	 "chagenko": {
+	  "exp": 416.28335832083894,
+	  "stone": 524.0257871064465,
+	  "gold": 46.17091454272863,
+	  "iron": 98.51994002998498,
+	  "string": 1.2401799100449784,
+	  "moonstone": 13.701955956777443,
+	  "wood": 139.8026986506746,
+	  "fish_specimen": 0
+	 },
+	 "itsNacho79": {
+	  "exp": 40,
+	  "stone": 198.2,
+	  "gold": 2,
+	  "iron": 8.4,
+	  "string": 0,
+	  "moonstone": 1.8701955956777443,
+	  "wood": 11,
+	  "fish_specimen": 0
+	 },
+	 "samamoonsama": {
+	  "exp": 3850.9169415292286,
+	  "stone": 5166.883658170912,
+	  "gold": 463.88005997001494,
+	  "iron": 881.3193403298347,
+	  "string": 13.641979010494762,
+	  "moonstone": 139.72151552455188,
+	  "wood": 1253.0296851574208,
+	  "fish_specimen": 0
+	 },
+	 "Samu_Avanza": {
+	  "exp": 0.2,
+	  "stone": 39.8,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 1.2,
+	  "fish_specimen": 0
+	 },
+	 "jdsama2022": {
+	  "exp": 62,
+	  "stone": 7.8,
+	  "gold": 5.6,
+	  "iron": 10.8,
+	  "string": 0,
+	  "moonstone": 3.470195595677745,
+	  "wood": 18.6,
+	  "fish_specimen": 0
+	 },
+	 "LordSabo": {
+	  "exp": 100.8,
+	  "stone": 0.2,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0.6,
+	  "moonstone": 0,
+	  "wood": 23.8,
+	  "fish_specimen": 25
+	 },
+	 "CaptaineMoula": {
+	  "exp": 161.4,
+	  "stone": 230.2,
+	  "gold": 15.2,
+	  "iron": 30.4,
+	  "string": 0.2,
+	  "moonstone": 3.0701955956777445,
+	  "wood": 21.8,
+	  "fish_specimen": 0
+	 },
+	 "PolkaWarrior": {
+	  "exp": 75.6,
+	  "stone": 2.8,
+	  "gold": 11.8,
+	  "iron": 19.8,
+	  "string": 0,
+	  "moonstone": 5.2,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Castibel": {
+	  "exp": 44.8,
+	  "stone": 188.2,
+	  "gold": 2,
+	  "iron": 5.6,
+	  "string": 0,
+	  "moonstone": 2.2701955956777446,
+	  "wood": 11.2,
+	  "fish_specimen": 0
+	 },
+	 "ReyCobaya": {
+	  "exp": 75,
+	  "stone": 221,
+	  "gold": 7,
+	  "iron": 26.8,
+	  "string": 0,
+	  "moonstone": 3.0701955956777445,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Pochorunner9": {
+	  "exp": 3.8,
+	  "stone": 20.6,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 165.6,
+	  "fish_specimen": 0
+	 },
+	 "Portzir": {
+	  "exp": 193.8,
+	  "stone": 236.2,
+	  "gold": 24.2,
+	  "iron": 76.4,
+	  "string": 1,
+	  "moonstone": 7.0701955956777445,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "MurdockLord": {
+	  "exp": 1.6,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 117.8,
+	  "fish_specimen": 0
+	 },
+	 "LegendSoulForge": {
+	  "exp": 0,
+	  "stone": 24,
+	  "gold": 0,
+	  "iron": 2.8,
+	  "string": 0,
+	  "moonstone": 3.0701955956777445,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Wolkend": {
+	  "exp": 84.2,
+	  "stone": 106.4,
+	  "gold": 3.4,
+	  "iron": 27.2,
+	  "string": 0,
+	  "moonstone": 1.8701955956777443,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "TacticalRipper": {
+	  "exp": 407.683358320839,
+	  "stone": 503.42578710644653,
+	  "gold": 48.77091454272863,
+	  "iron": 88.71994002998497,
+	  "string": 1.6401799100449783,
+	  "moonstone": 17.501955956777444,
+	  "wood": 113.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "DrakeShadow": {
+	  "exp": 108.4,
+	  "stone": 11.6,
+	  "gold": 13.8,
+	  "iron": 5.8,
+	  "string": 0,
+	  "moonstone": 8,
+	  "wood": 2.4,
+	  "fish_specimen": 0
+	 },
+	 "ItzDXtreme": {
+	  "exp": 175.6,
+	  "stone": 88.2,
+	  "gold": 31.4,
+	  "iron": 35.4,
+	  "string": 1.2,
+	  "moonstone": 4.2,
+	  "wood": 8.6,
+	  "fish_specimen": 0
+	 },
+	 "UnaiAvanza": {
+	  "exp": 41.6,
+	  "stone": 26.4,
+	  "gold": 8,
+	  "iron": 18.6,
+	  "string": 1.8,
+	  "moonstone": 3.670195595677744,
+	  "wood": 12.8,
+	  "fish_specimen": 0
+	 },
+	 "sb1059240": {
+	  "exp": 110,
+	  "stone": 0.4,
+	  "gold": 21.4,
+	  "iron": 48.2,
+	  "string": 0.6,
+	  "moonstone": 5.870195595677744,
+	  "wood": 0.4,
+	  "fish_specimen": 0
+	 },
+	 "Homidzo": {
+	  "exp": 127,
+	  "stone": 14.6,
+	  "gold": 14,
+	  "iron": 56.8,
+	  "string": 1.8,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Saasber": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "MichielB": {
+	  "exp": 89.6,
+	  "stone": 28.8,
+	  "gold": 5.2,
+	  "iron": 0.4,
+	  "string": 0,
+	  "moonstone": 7.270195595677745,
+	  "wood": 1.8,
+	  "fish_specimen": 0
+	 },
+	 "moorfiend84": {
+	  "exp": 129.4,
+	  "stone": 113.2,
+	  "gold": 28,
+	  "iron": 37.4,
+	  "string": 0,
+	  "moonstone": 8.070195595677744,
+	  "wood": 5.4,
+	  "fish_specimen": 0
+	 },
+	 "zakji": {
+	  "exp": 155.8,
+	  "stone": 37.6,
+	  "gold": 22.2,
+	  "iron": 33,
+	  "string": 1,
+	  "moonstone": 6.270195595677745,
+	  "wood": 66,
+	  "fish_specimen": 0
+	 },
+	 "Slinglling": {
+	  "exp": 35.6,
+	  "stone": 409.6,
+	  "gold": 1,
+	  "iron": 16.2,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 10,
+	  "fish_specimen": 0
+	 },
+	 "DotoshiKusamoto": {
+	  "exp": 4.8,
+	  "stone": 395.6,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 7.6,
+	  "fish_specimen": 0
+	 },
+	 "WheatBaron2": {
+	  "exp": 260.4,
+	  "stone": 0,
+	  "gold": 26,
+	  "iron": 17.4,
+	  "string": 2.2,
+	  "moonstone": 7.6,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "30Doradus": {
+	  "exp": 512.0833583208389,
+	  "stone": 491.82578710644657,
+	  "gold": 48.97091454272863,
+	  "iron": 85.11994002998497,
+	  "string": 1.8401799100449785,
+	  "moonstone": 18.57215155245519,
+	  "wood": 122.60269865067461,
+	  "fish_specimen": 0
+	 },
+	 "Molanderwow": {
+	  "exp": 1122.8500749625168,
+	  "stone": 1419.8773613193396,
+	  "gold": 132.9127436281859,
+	  "iron": 249.15982008995493,
+	  "string": 3.720539730134935,
+	  "moonstone": 43.976063466010075,
+	  "wood": 343.2080959520238,
+	  "fish_specimen": 0
+	 },
+	 "Enrykelp": {
+	  "exp": 203.6,
+	  "stone": 0,
+	  "gold": 64.6,
+	  "iron": 11.8,
+	  "string": 2.6,
+	  "moonstone": 44.470195595677744,
+	  "wood": 9.4,
+	  "fish_specimen": 0
+	 },
+	 "Minionsama": {
+	  "exp": 38.2,
+	  "stone": 171.8,
+	  "gold": 0,
+	  "iron": 2.6,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 1.2,
+	  "fish_specimen": 0
+	 },
+	 "JordiHidalgo": {
+	  "exp": 180.4,
+	  "stone": 379.6,
+	  "gold": 22.4,
+	  "iron": 21.6,
+	  "string": 0.4,
+	  "moonstone": 5.270195595677745,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "PhillyWill_": {
+	  "exp": 35.4,
+	  "stone": 237.6,
+	  "gold": 2.8,
+	  "iron": 5,
+	  "string": 0,
+	  "moonstone": 1.6701955956777446,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Jose_Hung": {
+	  "exp": 70.6,
+	  "stone": 140.6,
+	  "gold": 11.2,
+	  "iron": 21.2,
+	  "string": 0.8,
+	  "moonstone": 2.2701955956777446,
+	  "wood": 15.4,
+	  "fish_specimen": 0
+	 },
+	 "MGC1838": {
+	  "exp": 104,
+	  "stone": 69,
+	  "gold": 12.8,
+	  "iron": 46.4,
+	  "string": 0,
+	  "moonstone": 4.270195595677745,
+	  "wood": 13.6,
+	  "fish_specimen": 0
+	 },
+	 "VitruviusBeanie": {
+	  "exp": 1050.250074962517,
+	  "stone": 1454.6773613193395,
+	  "gold": 126.51274362818589,
+	  "iron": 240.35982008995492,
+	  "string": 3.720539730134935,
+	  "moonstone": 39.37606346601007,
+	  "wood": 341.4080959520238,
+	  "fish_specimen": 0
+	 },
+	 "Alberto_exo": {
+	  "exp": 29.4,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "MoonShakalaka": {
+	  "exp": 376.88335832083897,
+	  "stone": 496.22578710644655,
+	  "gold": 43.57091454272863,
+	  "iron": 95.31994002998498,
+	  "string": 1.2401799100449784,
+	  "moonstone": 12.701955956777443,
+	  "wood": 113.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "FrostXtreme": {
+	  "exp": 336.6,
+	  "stone": 31.4,
+	  "gold": 30.2,
+	  "iron": 75.2,
+	  "string": 0,
+	  "moonstone": 10.470195595677744,
+	  "wood": 2.6,
+	  "fish_specimen": 25
+	 },
+	 "LadyAngelette": {
+	  "exp": 10.4,
+	  "stone": 178.8,
+	  "gold": 5.2,
+	  "iron": 27.6,
+	  "string": 0,
+	  "moonstone": 0.2,
+	  "wood": 33.6,
+	  "fish_specimen": 0
+	 },
+	 "Laktosfrei": {
+	  "exp": 1.2,
+	  "stone": 169.4,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 6.6,
+	  "fish_specimen": 0
+	 },
+	 "CiaoCiaoGrande": {
+	  "exp": 796.366716641678,
+	  "stone": 953.251574212893,
+	  "gold": 100.34182908545726,
+	  "iron": 172.83988005996994,
+	  "string": 2.480359820089957,
+	  "moonstone": 30.603911913554885,
+	  "wood": 229.40539730134924,
+	  "fish_specimen": 0
+	 },
+	 "B3NNN3T": {
+	  "exp": 475.08335832083895,
+	  "stone": 503.6257871064465,
+	  "gold": 52.57091454272863,
+	  "iron": 116.31994002998498,
+	  "string": 1.2401799100449784,
+	  "moonstone": 15.972151552455188,
+	  "wood": 113.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "DnbWizard": {
+	  "exp": 745.5667166416779,
+	  "stone": 1207.251574212893,
+	  "gold": 90.94182908545726,
+	  "iron": 163.23988005996995,
+	  "string": 2.8803598200899567,
+	  "moonstone": 27.07410750923263,
+	  "wood": 232.40539730134924,
+	  "fish_specimen": 0
+	 },
+	 "FreshMeatSama": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0.8,
+	  "fish_specimen": 0
+	 },
+	 "D1oGorilla": {
+	  "exp": 0.2,
+	  "stone": 1.6,
+	  "gold": 0,
+	  "iron": 0.4,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "reiller57": {
+	  "exp": 29,
+	  "stone": 106,
+	  "gold": 8,
+	  "iron": 7.8,
+	  "string": 0,
+	  "moonstone": 2.0701955956777445,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "angrynanons": {
+	  "exp": 700.5667166416779,
+	  "stone": 968.6515742128931,
+	  "gold": 84.34182908545726,
+	  "iron": 160.23988005996995,
+	  "string": 2.480359820089957,
+	  "moonstone": 26.67410750923263,
+	  "wood": 228.20539730134922,
+	  "fish_specimen": 0
+	 },
+	 "an999eth": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "GianPgl": {
+	  "exp": 37.2,
+	  "stone": 64,
+	  "gold": 3.6,
+	  "iron": 13.8,
+	  "string": 0,
+	  "moonstone": 1.6701955956777446,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "SweetPirania69": {
+	  "exp": 474.6833583208389,
+	  "stone": 668.0257871064466,
+	  "gold": 63.77091454272863,
+	  "iron": 119.51994002998498,
+	  "string": 1.2401799100449784,
+	  "moonstone": 17.77215155245519,
+	  "wood": 122.20269865067462,
+	  "fish_specimen": 0
+	 },
+	 "zTheDarkAlex": {
+	  "exp": 545.883358320839,
+	  "stone": 469.22578710644655,
+	  "gold": 50.970914542728636,
+	  "iron": 84.11994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 31.701955956777443,
+	  "wood": 113.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "Cheersbeers": {
+	  "exp": 6.4,
+	  "stone": 32.2,
+	  "gold": 6.4,
+	  "iron": 27.6,
+	  "string": 0.2,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 8.6,
+	  "fish_specimen": 0
+	 },
+	 "LordWint3r": {
+	  "exp": 2.8,
+	  "stone": 3.6,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 114,
+	  "fish_specimen": 0
+	 },
+	 "BlackBarba": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 17.8,
+	  "fish_specimen": 0
+	 },
+	 "Murat_Gezen": {
+	  "exp": 0.4,
+	  "stone": 1.8,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 41.4,
+	  "fish_specimen": 0
+	 },
+	 "CheesyMouse93": {
+	  "exp": 3.8,
+	  "stone": 19,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 25,
+	  "fish_specimen": 0
+	 },
+	 "MaNewDoge": {
+	  "exp": 94,
+	  "stone": 42.8,
+	  "gold": 5,
+	  "iron": 8.2,
+	  "string": 0,
+	  "moonstone": 2.8701955956777443,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "TheMonkey_59": {
+	  "exp": 25,
+	  "stone": 65.4,
+	  "gold": 0,
+	  "iron": 0.2,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 3.2,
+	  "fish_specimen": 0
+	 },
+	 "ZenBerlin": {
+	  "exp": 354.48335832083893,
+	  "stone": 501.6257871064465,
+	  "gold": 42.17091454272863,
+	  "iron": 80.11994002998497,
+	  "string": 1.4401799100449784,
+	  "moonstone": 13.972151552455188,
+	  "wood": 114.60269865067461,
+	  "fish_specimen": 0
+	 },
+	 "moiisama": {
+	  "exp": 9,
+	  "stone": 126.6,
+	  "gold": 8.8,
+	  "iron": 11.4,
+	  "string": 0.6,
+	  "moonstone": 1.8701955956777443,
+	  "wood": 3,
+	  "fish_specimen": 0
+	 },
+	 "YumiArts": {
+	  "exp": 700.1667166416779,
+	  "stone": 949.251574212893,
+	  "gold": 84.34182908545726,
+	  "iron": 160.23988005996995,
+	  "string": 2.480359820089957,
+	  "moonstone": 25.403911913554886,
+	  "wood": 227.60539730134923,
+	  "fish_specimen": 0
+	 },
+	 "yellowvirus": {
+	  "exp": 364.08335832083895,
+	  "stone": 634.4257871064465,
+	  "gold": 42.17091454272863,
+	  "iron": 83.31994002998498,
+	  "string": 1.2401799100449784,
+	  "moonstone": 12.701955956777443,
+	  "wood": 116.00269865067462,
+	  "fish_specimen": 0
+	 },
+	 "canon_26": {
+	  "exp": 5.4,
+	  "stone": 0.2,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 173.8,
+	  "fish_specimen": 0
+	 },
+	 "det0n777": {
+	  "exp": 0,
+	  "stone": 71.4,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Carrik98": {
+	  "exp": 66.2,
+	  "stone": 236.8,
+	  "gold": 9.2,
+	  "iron": 12.2,
+	  "string": 0,
+	  "moonstone": 1.6701955956777446,
+	  "wood": 13.8,
+	  "fish_specimen": 0
+	 },
+	 "OzOn185Hz": {
+	  "exp": 159.4,
+	  "stone": 6.8,
+	  "gold": 14,
+	  "iron": 39.6,
+	  "string": 0.4,
+	  "moonstone": 3.2,
+	  "wood": 25.4,
+	  "fish_specimen": 0
+	 },
+	 "axantasama": {
+	  "exp": 77.8,
+	  "stone": 45.2,
+	  "gold": 9.6,
+	  "iron": 1.8,
+	  "string": 1.6,
+	  "moonstone": 3.8701955956777443,
+	  "wood": 131,
+	  "fish_specimen": 0
+	 },
+	 "WheatBaron": {
+	  "exp": 373.08335832083895,
+	  "stone": 469.22578710644655,
+	  "gold": 42.17091454272863,
+	  "iron": 80.51994002998498,
+	  "string": 1.6401799100449783,
+	  "moonstone": 12.701955956777443,
+	  "wood": 113.80269865067461,
+	  "fish_specimen": 50
+	 },
+	 "RichardBenson69": {
+	  "exp": 174.6,
+	  "stone": 0,
+	  "gold": 6.6,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 24.6,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Exosyl": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Reed_Villager": {
+	  "exp": 100.6,
+	  "stone": 9.4,
+	  "gold": 21.4,
+	  "iron": 11.2,
+	  "string": 0,
+	  "moonstone": 8.270195595677745,
+	  "wood": 1.6,
+	  "fish_specimen": 0
+	 },
+	 "RealBailiff": {
+	  "exp": 34.4,
+	  "stone": 371.2,
+	  "gold": 5.6,
+	  "iron": 12.8,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 12.6,
+	  "fish_specimen": 0
+	 },
+	 "Svenripa1": {
+	  "exp": 8.4,
+	  "stone": 6.4,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0.2,
+	  "fish_specimen": 0
+	 },
+	 "Duxxz": {
+	  "exp": 102.2,
+	  "stone": 18,
+	  "gold": 7.2,
+	  "iron": 20.4,
+	  "string": 0,
+	  "moonstone": 4.870195595677744,
+	  "wood": 2.4,
+	  "fish_specimen": 9
+	 },
+	 "KingCanaris1985": {
+	  "exp": 66.8,
+	  "stone": 1,
+	  "gold": 5.8,
+	  "iron": 14.4,
+	  "string": 0.8,
+	  "moonstone": 1.2,
+	  "wood": 4,
+	  "fish_specimen": 0
+	 },
+	 "Dragontripp": {
+	  "exp": 50.2,
+	  "stone": 0,
+	  "gold": 3,
+	  "iron": 11,
+	  "string": 0,
+	  "moonstone": 1.8701955956777443,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "XelooCrypto": {
+	  "exp": 700.1667166416779,
+	  "stone": 938.4515742128931,
+	  "gold": 84.34182908545726,
+	  "iron": 160.23988005996995,
+	  "string": 2.480359820089957,
+	  "moonstone": 26.67410750923263,
+	  "wood": 227.60539730134923,
+	  "fish_specimen": 0
+	 },
+	 "MattyDuck": {
+	  "exp": 211.2,
+	  "stone": 0,
+	  "gold": 18.4,
+	  "iron": 0,
+	  "string": 1,
+	  "moonstone": 25.670195595677743,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Hawkandus": {
+	  "exp": 123.6,
+	  "stone": 104.2,
+	  "gold": 7,
+	  "iron": 22.6,
+	  "string": 0.6,
+	  "moonstone": 2.2701955956777446,
+	  "wood": 4.8,
+	  "fish_specimen": 0
+	 },
+	 "Mblood": {
+	  "exp": 54.6,
+	  "stone": 102.4,
+	  "gold": 2,
+	  "iron": 25,
+	  "string": 0,
+	  "moonstone": 2.4701955956777444,
+	  "wood": 182.2,
+	  "fish_specimen": 0
+	 },
+	 "DipsetLoei": {
+	  "exp": 445.08335832083895,
+	  "stone": 515.4257871064466,
+	  "gold": 47.77091454272863,
+	  "iron": 109.91994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 15.501955956777444,
+	  "wood": 114.60269865067461,
+	  "fish_specimen": 0
+	 },
+	 "GCexoboy": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "pete776": {
+	  "exp": 456.28335832083894,
+	  "stone": 507.82578710644657,
+	  "gold": 55.970914542728636,
+	  "iron": 103.51994002998498,
+	  "string": 1.2401799100449784,
+	  "moonstone": 16.10195595677744,
+	  "wood": 137.60269865067463,
+	  "fish_specimen": 0
+	 },
+	 "BigTava": {
+	  "exp": 55.2,
+	  "stone": 72.2,
+	  "gold": 0,
+	  "iron": 4.6,
+	  "string": 0.4,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 241.2,
+	  "fish_specimen": 0
+	 },
+	 "_kyubiSAMA": {
+	  "exp": 130.2,
+	  "stone": 38.4,
+	  "gold": 20.8,
+	  "iron": 39.2,
+	  "string": 2.2,
+	  "moonstone": 4.270195595677745,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "craftedsama": {
+	  "exp": 352.28335832083894,
+	  "stone": 737.4257871064465,
+	  "gold": 42.17091454272863,
+	  "iron": 80.11994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 12.701955956777443,
+	  "wood": 113.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "_frsh": {
+	  "exp": 210.8,
+	  "stone": 43.2,
+	  "gold": 43.4,
+	  "iron": 29.4,
+	  "string": 1.8,
+	  "moonstone": 14.2,
+	  "wood": 61.4,
+	  "fish_specimen": 0
+	 },
+	 "miguelmoonsama": {
+	  "exp": 97.6,
+	  "stone": 358.4,
+	  "gold": 4.2,
+	  "iron": 49.6,
+	  "string": 0,
+	  "moonstone": 2.4701955956777444,
+	  "wood": 12.8,
+	  "fish_specimen": 0
+	 },
+	 "_qazer": {
+	  "exp": 589.483358320839,
+	  "stone": 473.82578710644657,
+	  "gold": 92.57091454272863,
+	  "iron": 90.91994002998497,
+	  "string": 1.6401799100449783,
+	  "moonstone": 35.101955956777445,
+	  "wood": 113.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "EXOkarass91": {
+	  "exp": 97,
+	  "stone": 0,
+	  "gold": 18.2,
+	  "iron": 22.2,
+	  "string": 0,
+	  "moonstone": 4.870195595677744,
+	  "wood": 16.6,
+	  "fish_specimen": 0
+	 },
+	 "MoonSamaMax": {
+	  "exp": 379.683358320839,
+	  "stone": 619.6257871064465,
+	  "gold": 45.77091454272863,
+	  "iron": 87.11994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 14.172151552455187,
+	  "wood": 130.4026986506746,
+	  "fish_specimen": 0
+	 },
+	 "EnduringSama": {
+	  "exp": 52.8,
+	  "stone": 334.2,
+	  "gold": 0,
+	  "iron": 11.6,
+	  "string": 0,
+	  "moonstone": 4.0701955956777445,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Zampatortitas": {
+	  "exp": 0.6,
+	  "stone": 25.6,
+	  "gold": 6.4,
+	  "iron": 27.8,
+	  "string": 0.2,
+	  "moonstone": 0,
+	  "wood": 9.4,
+	  "fish_specimen": 0
+	 },
+	 "Yagami9224": {
+	  "exp": 8.4,
+	  "stone": 48.2,
+	  "gold": 1.8,
+	  "iron": 1.6,
+	  "string": 0,
+	  "moonstone": 1.4701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "drivevillage": {
+	  "exp": 51,
+	  "stone": 180.4,
+	  "gold": 2,
+	  "iron": 24.8,
+	  "string": 0,
+	  "moonstone": 1,
+	  "wood": 14.6,
+	  "fish_specimen": 0
+	 },
+	 "theMoonsama414": {
+	  "exp": 384.48335832083893,
+	  "stone": 659.2257871064465,
+	  "gold": 42.97091454272863,
+	  "iron": 89.91994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 12.901955956777442,
+	  "wood": 123.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "OscarAstronotus": {
+	  "exp": 30.6,
+	  "stone": 258,
+	  "gold": 6,
+	  "iron": 24.8,
+	  "string": 0,
+	  "moonstone": 2.6,
+	  "wood": 2.6,
+	  "fish_specimen": 0
+	 },
+	 "AddSee": {
+	  "exp": 16.6,
+	  "stone": 15.2,
+	  "gold": 3.6,
+	  "iron": 3.2,
+	  "string": 0.2,
+	  "moonstone": 1.4701955956777444,
+	  "wood": 0.8,
+	  "fish_specimen": 0
+	 },
+	 "LotusEaster": {
+	  "exp": 29.4,
+	  "stone": 428,
+	  "gold": 0,
+	  "iron": 7.2,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "DominicSpeed": {
+	  "exp": 33.6,
+	  "stone": 25.2,
+	  "gold": 6,
+	  "iron": 2.8,
+	  "string": 0.4,
+	  "moonstone": 1.6701955956777446,
+	  "wood": 26.2,
+	  "fish_specimen": 0
+	 },
+	 "bastralcs": {
+	  "exp": 10.2,
+	  "stone": 0,
+	  "gold": 2,
+	  "iron": 0.4,
+	  "string": 0.2,
+	  "moonstone": 1.6701955956777446,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "VLZ97": {
+	  "exp": 79.8,
+	  "stone": 251.6,
+	  "gold": 7.6,
+	  "iron": 41.4,
+	  "string": 0.4,
+	  "moonstone": 2.2701955956777446,
+	  "wood": 26,
+	  "fish_specimen": 0
+	 },
+	 "Sub3Assassin": {
+	  "exp": 88.4,
+	  "stone": 58,
+	  "gold": 16.4,
+	  "iron": 23,
+	  "string": 0,
+	  "moonstone": 5.270195595677745,
+	  "wood": 0.6,
+	  "fish_specimen": 0
+	 },
+	 "420Kusama": {
+	  "exp": 75.4,
+	  "stone": 182.2,
+	  "gold": 10.2,
+	  "iron": 23.4,
+	  "string": 0,
+	  "moonstone": 4.270195595677745,
+	  "wood": 2.4,
+	  "fish_specimen": 0
+	 },
+	 "undervaIued": {
+	  "exp": 42.4,
+	  "stone": 90,
+	  "gold": 2.8,
+	  "iron": 4.8,
+	  "string": 0,
+	  "moonstone": 2.0701955956777445,
+	  "wood": 4,
+	  "fish_specimen": 0
+	 },
+	 "aggelosspirog1": {
+	  "exp": 81.2,
+	  "stone": 12.8,
+	  "gold": 12.2,
+	  "iron": 32.4,
+	  "string": 0.6,
+	  "moonstone": 2.8701955956777443,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "tradingfox78": {
+	  "exp": 701.5667166416779,
+	  "stone": 1015.0515742128931,
+	  "gold": 84.34182908545726,
+	  "iron": 160.23988005996995,
+	  "string": 2.480359820089957,
+	  "moonstone": 25.403911913554886,
+	  "wood": 227.60539730134923,
+	  "fish_specimen": 0
+	 },
+	 "Jlsalcedo1997": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "farrita14": {
+	  "exp": 5.8,
+	  "stone": 175.4,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 1,
+	  "fish_specimen": 0
+	 },
+	 "Skarlex99": {
+	  "exp": 719.5667166416779,
+	  "stone": 952.6515742128931,
+	  "gold": 84.34182908545726,
+	  "iron": 161.43988005996994,
+	  "string": 2.480359820089957,
+	  "moonstone": 26.67410750923263,
+	  "wood": 227.60539730134923,
+	  "fish_specimen": 0
+	 },
+	 "NautilusMoonSama": {
+	  "exp": 3884.9169415292286,
+	  "stone": 5290.883658170912,
+	  "gold": 465.48005997001496,
+	  "iron": 886.9193403298348,
+	  "string": 13.641979010494762,
+	  "moonstone": 142.79171112022962,
+	  "wood": 1252.0296851574208,
+	  "fish_specimen": 0
+	 },
+	 "Bobbycefalo": {
+	  "exp": 12.2,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "AG_____": {
+	  "exp": 15072.784407796076,
+	  "stone": 20239.908845577203,
+	  "gold": 1815.3493253373313,
+	  "iron": 3449.3574212893536,
+	  "string": 53.327736131934074,
+	  "moonstone": 546.98410614143,
+	  "wood": 4893.716041979008,
+	  "fish_specimen": 0
+	 },
+	 "Blue_021": {
+	  "exp": 127.2,
+	  "stone": 154.2,
+	  "gold": 13.8,
+	  "iron": 30.4,
+	  "string": 0.8,
+	  "moonstone": 4,
+	  "wood": 2.8,
+	  "fish_specimen": 0
+	 },
+	 "Jeroobie": {
+	  "exp": 130.4,
+	  "stone": 304.8,
+	  "gold": 15,
+	  "iron": 42.8,
+	  "string": 0.2,
+	  "moonstone": 7.670195595677745,
+	  "wood": 9.6,
+	  "fish_specimen": 0
+	 },
+	 "RioDegenero": {
+	  "exp": 3.4,
+	  "stone": 102.4,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 11,
+	  "fish_specimen": 0
+	 },
+	 "w124eth": {
+	  "exp": 719.1667166416779,
+	  "stone": 1037.051574212893,
+	  "gold": 84.34182908545726,
+	  "iron": 161.23988005996995,
+	  "string": 2.480359820089957,
+	  "moonstone": 27.47410750923263,
+	  "wood": 302.2053973013492,
+	  "fish_specimen": 0
+	 },
+	 "Mbmachiavelli": {
+	  "exp": 583.483358320839,
+	  "stone": 469.82578710644657,
+	  "gold": 53.37091454272863,
+	  "iron": 83.11994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 36.501955956777444,
+	  "wood": 115.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "Burgaz": {
+	  "exp": 238,
+	  "stone": 115.2,
+	  "gold": 26.8,
+	  "iron": 121.2,
+	  "string": 0.6,
+	  "moonstone": 10.670195595677745,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Cry4max88": {
+	  "exp": 48.6,
+	  "stone": 0,
+	  "gold": 12.4,
+	  "iron": 5,
+	  "string": 0.8,
+	  "moonstone": 2.8701955956777443,
+	  "wood": 1.8,
+	  "fish_specimen": 0
+	 },
+	 "CapraeGun": {
+	  "exp": 49.2,
+	  "stone": 6.4,
+	  "gold": 1.8,
+	  "iron": 1,
+	  "string": 0,
+	  "moonstone": 4.270195595677745,
+	  "wood": 2.2,
+	  "fish_specimen": 0
+	 },
+	 "DizzySword420": {
+	  "exp": 48,
+	  "stone": 108.8,
+	  "gold": 0,
+	  "iron": 1.2,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 2.4,
+	  "fish_specimen": 0
+	 },
+	 "meFreedom": {
+	  "exp": 433.6833583208389,
+	  "stone": 490.6257871064465,
+	  "gold": 89.77091454272863,
+	  "iron": 121.51994002998498,
+	  "string": 2.8401799100449785,
+	  "moonstone": 26.972151552455188,
+	  "wood": 136.20269865067462,
+	  "fish_specimen": 0
+	 },
+	 "criptopatos": {
+	  "exp": 103,
+	  "stone": 0.6,
+	  "gold": 22.2,
+	  "iron": 10.6,
+	  "string": 0.6,
+	  "moonstone": 7.270195595677745,
+	  "wood": 2.4,
+	  "fish_specimen": 0
+	 },
+	 "Delia987124786": {
+	  "exp": 1050.250074962517,
+	  "stone": 1407.6773613193395,
+	  "gold": 126.51274362818589,
+	  "iron": 240.35982008995492,
+	  "string": 3.720539730134935,
+	  "moonstone": 39.37606346601007,
+	  "wood": 341.4080959520238,
+	  "fish_specimen": 0
+	 },
+	 "REDFACEDDAVE": {
+	  "exp": 3517.4335832083893,
+	  "stone": 4742.657871064465,
+	  "gold": 421.70914542728633,
+	  "iron": 806.1994002998497,
+	  "string": 12.601799100449783,
+	  "moonstone": 128.68975516345216,
+	  "wood": 1141.8269865067462,
+	  "fish_specimen": 0
+	 },
+	 "Bloob_bloo_balls": {
+	  "exp": 350.08335832083895,
+	  "stone": 469.22578710644655,
+	  "gold": 42.17091454272863,
+	  "iron": 80.11994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 13.972151552455188,
+	  "wood": 113.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "NeclisMW": {
+	  "exp": 1,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Cryptodreg": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "MiguelDot": {
+	  "exp": 78.4,
+	  "stone": 114.6,
+	  "gold": 9,
+	  "iron": 11.6,
+	  "string": 0,
+	  "moonstone": 4.470195595677745,
+	  "wood": 2.8,
+	  "fish_specimen": 0
+	 },
+	 "Ladyboy_": {
+	  "exp": 118.2,
+	  "stone": 122.6,
+	  "gold": 8.2,
+	  "iron": 22,
+	  "string": 0,
+	  "moonstone": 6.270195595677745,
+	  "wood": 10.8,
+	  "fish_specimen": 0
+	 },
+	 "Rawanid": {
+	  "exp": 68.8,
+	  "stone": 0.8,
+	  "gold": 21.2,
+	  "iron": 1,
+	  "string": 0.2,
+	  "moonstone": 3.8701955956777443,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "SlimeyJoe10": {
+	  "exp": 349.6,
+	  "stone": 0,
+	  "gold": 34.2,
+	  "iron": 60.6,
+	  "string": 0.8,
+	  "moonstone": 7,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "CyanDanBagHunter": {
+	  "exp": 460.08335832083895,
+	  "stone": 654.8257871064466,
+	  "gold": 54.17091454272863,
+	  "iron": 110.31994002998498,
+	  "string": 1.6401799100449783,
+	  "moonstone": 15.972151552455188,
+	  "wood": 133.60269865067463,
+	  "fish_specimen": 0
+	 },
+	 "Waldrog": {
+	  "exp": 100.2,
+	  "stone": 64.8,
+	  "gold": 9.6,
+	  "iron": 32.6,
+	  "string": 0.4,
+	  "moonstone": 3.0701955956777445,
+	  "wood": 76.6,
+	  "fish_specimen": 0
+	 },
+	 "mrsergiomottola": {
+	  "exp": 353.28335832083894,
+	  "stone": 593.8257871064466,
+	  "gold": 42.17091454272863,
+	  "iron": 80.11994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 13.972151552455188,
+	  "wood": 113.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "Bilquis_": {
+	  "exp": 12.6,
+	  "stone": 3.8,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 2.0701955956777445,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Shahataninja": {
+	  "exp": 61.6,
+	  "stone": 13.6,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 1,
+	  "moonstone": 4.870195595677744,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "MujicaY": {
+	  "exp": 161.2,
+	  "stone": 139.8,
+	  "gold": 9.8,
+	  "iron": 14.4,
+	  "string": 0,
+	  "moonstone": 3.4,
+	  "wood": 3.2,
+	  "fish_specimen": 0
+	 },
+	 "Emmspm": {
+	  "exp": 20,
+	  "stone": 118.2,
+	  "gold": 1,
+	  "iron": 23.2,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0.8,
+	  "fish_specimen": 0
+	 },
+	 "jrv_PIRETESAMA": {
+	  "exp": 63.2,
+	  "stone": 0,
+	  "gold": 12,
+	  "iron": 2.8,
+	  "string": 0,
+	  "moonstone": 2.2,
+	  "wood": 24,
+	  "fish_specimen": 0
+	 },
+	 "DoIIs": {
+	  "exp": 240.8,
+	  "stone": 32.2,
+	  "gold": 32,
+	  "iron": 27,
+	  "string": 0.8,
+	  "moonstone": 18.4,
+	  "wood": 26,
+	  "fish_specimen": 0
+	 },
+	 "idkhowtousenet": {
+	  "exp": 71.6,
+	  "stone": 142.2,
+	  "gold": 7.8,
+	  "iron": 23,
+	  "string": 0,
+	  "moonstone": 1,
+	  "wood": 5.2,
+	  "fish_specimen": 0
+	 },
+	 "SerMomo": {
+	  "exp": 87.8,
+	  "stone": 0,
+	  "gold": 13.2,
+	  "iron": 39.6,
+	  "string": 0.6,
+	  "moonstone": 4.2,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "greatunclehonk0": {
+	  "exp": 2.6,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 39,
+	  "fish_specimen": 0
+	 },
+	 "Marbe12": {
+	  "exp": 0,
+	  "stone": 3,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Osielcrypt": {
+	  "exp": 69.4,
+	  "stone": 7.8,
+	  "gold": 0.8,
+	  "iron": 16.2,
+	  "string": 0,
+	  "moonstone": 2.8701955956777443,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "ilioko": {
+	  "exp": 54.8,
+	  "stone": 61.8,
+	  "gold": 6.2,
+	  "iron": 13.2,
+	  "string": 0.6,
+	  "moonstone": 4.870195595677744,
+	  "wood": 2.8,
+	  "fish_specimen": 0
+	 },
+	 "Bloobooob": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "jrv783": {
+	  "exp": 10.6,
+	  "stone": 138.2,
+	  "gold": 0,
+	  "iron": 1.2,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 82.2,
+	  "fish_specimen": 0
+	 },
+	 "The_BlackDouglas": {
+	  "exp": 368.683358320839,
+	  "stone": 549.2257871064465,
+	  "gold": 42.57091454272863,
+	  "iron": 81.51994002998498,
+	  "string": 1.2401799100449784,
+	  "moonstone": 12.701955956777443,
+	  "wood": 113.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "gkhn0": {
+	  "exp": 98,
+	  "stone": 25.6,
+	  "gold": 10.8,
+	  "iron": 35.6,
+	  "string": 0.4,
+	  "moonstone": 4.0701955956777445,
+	  "wood": 7.2,
+	  "fish_specimen": 0
+	 },
+	 "Robin_Hodl": {
+	  "exp": 54.4,
+	  "stone": 18,
+	  "gold": 6.4,
+	  "iron": 5.6,
+	  "string": 0.4,
+	  "moonstone": 3.470195595677745,
+	  "wood": 40.4,
+	  "fish_specimen": 0
+	 },
+	 "Daggi5": {
+	  "exp": 414.6833583208389,
+	  "stone": 768.2257871064465,
+	  "gold": 50.970914542728636,
+	  "iron": 89.11994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 14.101955956777443,
+	  "wood": 118.00269865067462,
+	  "fish_specimen": 0
+	 },
+	 "enricripto": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 11.8,
+	  "iron": 30.6,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "968kou": {
+	  "exp": 63.6,
+	  "stone": 48.8,
+	  "gold": 8.6,
+	  "iron": 10,
+	  "string": 0,
+	  "moonstone": 4.870195595677744,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Sensei_Bebop": {
+	  "exp": 1083.450074962517,
+	  "stone": 1538.4773613193395,
+	  "gold": 126.51274362818589,
+	  "iron": 241.15982008995493,
+	  "string": 3.720539730134935,
+	  "moonstone": 39.37606346601007,
+	  "wood": 342.8080959520238,
+	  "fish_specimen": 0
+	 },
+	 "OneHashira": {
+	  "exp": 1.8,
+	  "stone": 0.8,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 14.4,
+	  "fish_specimen": 0
+	 },
+	 "IceFrosTv2": {
+	  "exp": 119.8,
+	  "stone": 25.6,
+	  "gold": 10.6,
+	  "iron": 32.6,
+	  "string": 0.6,
+	  "moonstone": 1.4701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "ElsaTheIceMeme": {
+	  "exp": 162.4,
+	  "stone": 49.2,
+	  "gold": 28.2,
+	  "iron": 47.6,
+	  "string": 0.2,
+	  "moonstone": 10.070195595677745,
+	  "wood": 4.2,
+	  "fish_specimen": 0
+	 },
+	 "brandonmora": {
+	  "exp": 48.2,
+	  "stone": 73.2,
+	  "gold": 7,
+	  "iron": 7.8,
+	  "string": 0,
+	  "moonstone": 4.670195595677744,
+	  "wood": 14.8,
+	  "fish_specimen": 0
+	 },
+	 "tannerreed31": {
+	  "exp": 350.08335832083895,
+	  "stone": 469.22578710644655,
+	  "gold": 42.17091454272863,
+	  "iron": 80.11994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 13.972151552455188,
+	  "wood": 113.80269865067461,
+	  "fish_specimen": 50
+	 },
+	 "HeathleyETH": {
+	  "exp": 23.6,
+	  "stone": 81.8,
+	  "gold": 2.6,
+	  "iron": 16.2,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Abulion1": {
+	  "exp": 350.08335832083895,
+	  "stone": 469.22578710644655,
+	  "gold": 42.17091454272863,
+	  "iron": 80.11994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 13.972151552455188,
+	  "wood": 113.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "GodsHunter": {
+	  "exp": 95.8,
+	  "stone": 44.4,
+	  "gold": 0,
+	  "iron": 20.8,
+	  "string": 0,
+	  "moonstone": 3.670195595677744,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Niburek7": {
+	  "exp": 23.6,
+	  "stone": 12.8,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 1,
+	  "moonstone": 2.0701955956777445,
+	  "wood": 10.4,
+	  "fish_specimen": 0
+	 },
+	 "Kalimoon21": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Vinyo_": {
+	  "exp": 3.6,
+	  "stone": 28.2,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0.8,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 304.4,
+	  "fish_specimen": 0
+	 },
+	 "TwiTalk": {
+	  "exp": 1.4,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 201.6,
+	  "fish_specimen": 0
+	 },
+	 "_FinBlock": {
+	  "exp": 0,
+	  "stone": 0.4,
+	  "gold": 3.2,
+	  "iron": 0,
+	  "string": 0.4,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 130.2,
+	  "fish_specimen": 0
+	 },
+	 "AiryTrillix": {
+	  "exp": 40.6,
+	  "stone": 343.8,
+	  "gold": 1.8,
+	  "iron": 15,
+	  "string": 0,
+	  "moonstone": 2.0701955956777445,
+	  "wood": 10,
+	  "fish_specimen": 0
+	 },
+	 "BREAMoonsama": {
+	  "exp": 406.683358320839,
+	  "stone": 534.2257871064465,
+	  "gold": 44.17091454272863,
+	  "iron": 80.71994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 14.701955956777443,
+	  "wood": 114.60269865067461,
+	  "fish_specimen": 0
+	 },
+	 "ArturoLima": {
+	  "exp": 0,
+	  "stone": 55.8,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 11.4,
+	  "fish_specimen": 0
+	 },
+	 "Koade": {
+	  "exp": 548.2833583208389,
+	  "stone": 527.8257871064466,
+	  "gold": 69.77091454272863,
+	  "iron": 108.31994002998498,
+	  "string": 1.4401799100449784,
+	  "moonstone": 28.972151552455188,
+	  "wood": 113.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "JAU_EXO": {
+	  "exp": 53.2,
+	  "stone": 184.6,
+	  "gold": 0.8,
+	  "iron": 27.2,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 6.6,
+	  "fish_specimen": 0
+	 },
+	 "Msama319": {
+	  "exp": 357.08335832083895,
+	  "stone": 469.22578710644655,
+	  "gold": 57.970914542728636,
+	  "iron": 85.11994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 17.30195595677744,
+	  "wood": 127.60269865067461,
+	  "fish_specimen": 0
+	 },
+	 "X_tro7": {
+	  "exp": 244.4,
+	  "stone": 15.2,
+	  "gold": 59.8,
+	  "iron": 54.8,
+	  "string": 0.8,
+	  "moonstone": 17.670195595677743,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "kmmangelwings": {
+	  "exp": 420.6833583208389,
+	  "stone": 616.2257871064465,
+	  "gold": 43.17091454272863,
+	  "iron": 88.91994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 15.172151552455187,
+	  "wood": 128.60269865067463,
+	  "fish_specimen": 0
+	 },
+	 "Chaos_Didaw": {
+	  "exp": 20.8,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "GrassySiren8644": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "chillbroexo72": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 1.8,
+	  "fish_specimen": 0
+	 },
+	 "zEyris": {
+	  "exp": 84,
+	  "stone": 0,
+	  "gold": 18.8,
+	  "iron": 5.4,
+	  "string": 0.4,
+	  "moonstone": 7.670195595677745,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Gatorkorps": {
+	  "exp": 26.6,
+	  "stone": 212,
+	  "gold": 3.4,
+	  "iron": 7.8,
+	  "string": 0,
+	  "moonstone": 3.2,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "FL0WC4RN4G3": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "EdmundOneShot": {
+	  "exp": 73.4,
+	  "stone": 98,
+	  "gold": 4.2,
+	  "iron": 16.4,
+	  "string": 0,
+	  "moonstone": 0.8,
+	  "wood": 0.6,
+	  "fish_specimen": 0
+	 },
+	 "dgenxo": {
+	  "exp": 0,
+	  "stone": 41,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 1,
+	  "fish_specimen": 0
+	 },
+	 "YarkyExo": {
+	  "exp": 94.2,
+	  "stone": 220.6,
+	  "gold": 15.4,
+	  "iron": 19.8,
+	  "string": 0,
+	  "moonstone": 5.0701955956777445,
+	  "wood": 0.8,
+	  "fish_specimen": 0
+	 },
+	 "IAmTheAurora": {
+	  "exp": 46.2,
+	  "stone": 25,
+	  "gold": 2.4,
+	  "iron": 5,
+	  "string": 0,
+	  "moonstone": 2.2,
+	  "wood": 3.2,
+	  "fish_specimen": 0
+	 },
+	 "Alaa51": {
+	  "exp": 521.2833583208389,
+	  "stone": 482.02578710644656,
+	  "gold": 51.37091454272863,
+	  "iron": 89.11994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 23.57215155245519,
+	  "wood": 115.40269865067461,
+	  "fish_specimen": 0
+	 },
+	 "MustardJsama": {
+	  "exp": 45.6,
+	  "stone": 86.6,
+	  "gold": 6,
+	  "iron": 3.6,
+	  "string": 0,
+	  "moonstone": 4.670195595677744,
+	  "wood": 5.4,
+	  "fish_specimen": 0
+	 },
+	 "Kayosama": {
+	  "exp": 62.8,
+	  "stone": 0,
+	  "gold": 5.4,
+	  "iron": 12.4,
+	  "string": 0,
+	  "moonstone": 4.670195595677744,
+	  "wood": 403.6,
+	  "fish_specimen": 0
+	 },
+	 "iamsamitpatel": {
+	  "exp": 367.48335832083893,
+	  "stone": 521.2257871064465,
+	  "gold": 42.17091454272863,
+	  "iron": 81.11994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 12.701955956777443,
+	  "wood": 113.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "ThePhunky1": {
+	  "exp": 354.28335832083894,
+	  "stone": 777.2257871064465,
+	  "gold": 42.17091454272863,
+	  "iron": 83.91994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 13.972151552455188,
+	  "wood": 120.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "Erikuzza43": {
+	  "exp": 43.8,
+	  "stone": 222.8,
+	  "gold": 0,
+	  "iron": 10.8,
+	  "string": 0,
+	  "moonstone": 2.2701955956777446,
+	  "wood": 22.4,
+	  "fish_specimen": 0
+	 },
+	 "jajakloco": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "CorpusAlbicans": {
+	  "exp": 1201.250074962517,
+	  "stone": 1433.2773613193394,
+	  "gold": 145.9127436281859,
+	  "iron": 281.55982008995494,
+	  "string": 5.120539730134935,
+	  "moonstone": 45.976063466010075,
+	  "wood": 507.8080959520238,
+	  "fish_specimen": 0
+	 },
+	 "Professor_Hughes": {
+	  "exp": 350.48335832083893,
+	  "stone": 488.6257871064465,
+	  "gold": 42.17091454272863,
+	  "iron": 80.11994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 13.972151552455188,
+	  "wood": 120.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "LMSKevin": {
+	  "exp": 1.6,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "ExosamaJona1": {
+	  "exp": 46.4,
+	  "stone": 6.8,
+	  "gold": 1.8,
+	  "iron": 12.4,
+	  "string": 0,
+	  "moonstone": 2.4,
+	  "wood": 14.4,
+	  "fish_specimen": 0
+	 },
+	 "Klingonmaxi": {
+	  "exp": 89.6,
+	  "stone": 151,
+	  "gold": 10.2,
+	  "iron": 40,
+	  "string": 0,
+	  "moonstone": 2.670195595677744,
+	  "wood": 18.4,
+	  "fish_specimen": 0
+	 },
+	 "Zell3664": {
+	  "exp": 282.6,
+	  "stone": 26.8,
+	  "gold": 41.4,
+	  "iron": 39.6,
+	  "string": 0.8,
+	  "moonstone": 6.4,
+	  "wood": 3.2,
+	  "fish_specimen": 0
+	 },
+	 "owrukuku": {
+	  "exp": 129,
+	  "stone": 249,
+	  "gold": 5.4,
+	  "iron": 5.4,
+	  "string": 0,
+	  "moonstone": 5.0701955956777445,
+	  "wood": 7,
+	  "fish_specimen": 0
+	 },
+	 "Mancander": {
+	  "exp": 25.4,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "smtan0x": {
+	  "exp": 2.2,
+	  "stone": 14.2,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0.4,
+	  "fish_specimen": 0
+	 },
+	 "DAOn2EarthCurly": {
+	  "exp": 71.8,
+	  "stone": 125,
+	  "gold": 0,
+	  "iron": 0.6,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 14.4,
+	  "fish_specimen": 0
+	 },
+	 "SDRAP_DPS": {
+	  "exp": 18,
+	  "stone": 317.8,
+	  "gold": 0,
+	  "iron": 6.6,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 7.8,
+	  "fish_specimen": 0
+	 },
+	 "C4rn4g3Fl0w": {
+	  "exp": 46.2,
+	  "stone": 16,
+	  "gold": 0,
+	  "iron": 0.6,
+	  "string": 0,
+	  "moonstone": 5,
+	  "wood": 159.4,
+	  "fish_specimen": 0
+	 },
+	 "Clixentabe": {
+	  "exp": 68.8,
+	  "stone": 9.8,
+	  "gold": 5,
+	  "iron": 0.8,
+	  "string": 0,
+	  "moonstone": 0.2,
+	  "wood": 0.6,
+	  "fish_specimen": 0
+	 },
+	 "NoobAyaka": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Alnitak34": {
+	  "exp": 224.2,
+	  "stone": 11.8,
+	  "gold": 33.6,
+	  "iron": 56.8,
+	  "string": 1.8,
+	  "moonstone": 17.070195595677745,
+	  "wood": 80.2,
+	  "fish_specimen": 0
+	 },
+	 "AmsAms": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Gklan1": {
+	  "exp": 1184.0500749625169,
+	  "stone": 1420.4773613193395,
+	  "gold": 126.9127436281859,
+	  "iron": 240.35982008995492,
+	  "string": 4.920539730134935,
+	  "moonstone": 38.50586787033233,
+	  "wood": 453.6080959520238,
+	  "fish_specimen": 0
+	 },
+	 "_minatoSAMA": {
+	  "exp": 25,
+	  "stone": 25.6,
+	  "gold": 13.2,
+	  "iron": 45.4,
+	  "string": 1,
+	  "moonstone": 4.270195595677745,
+	  "wood": 12.4,
+	  "fish_specimen": 0
+	 },
+	 "iStayFrosty": {
+	  "exp": 368.28335832083894,
+	  "stone": 470.22578710644655,
+	  "gold": 52.57091454272863,
+	  "iron": 84.11994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 18.501955956777444,
+	  "wood": 114.60269865067461,
+	  "fish_specimen": 0
+	 },
+	 "__c0d3": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "JohnnyBlazzeee1": {
+	  "exp": 176,
+	  "stone": 12.8,
+	  "gold": 39.6,
+	  "iron": 10.2,
+	  "string": 0.6,
+	  "moonstone": 12.670195595677745,
+	  "wood": 6,
+	  "fish_specimen": 0
+	 },
+	 "QuoffWaffles": {
+	  "exp": 3611.2335832083895,
+	  "stone": 4744.057871064466,
+	  "gold": 429.70914542728633,
+	  "iron": 836.7994002998497,
+	  "string": 14.201799100449785,
+	  "moonstone": 129.2195595677744,
+	  "wood": 1170.0269865067462,
+	  "fish_specimen": 0
+	 },
+	 "1gn0r4nd": {
+	  "exp": 398.683358320839,
+	  "stone": 479.6257871064465,
+	  "gold": 47.17091454272863,
+	  "iron": 91.11994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 15.772151552455188,
+	  "wood": 152.00269865067463,
+	  "fish_specimen": 2
+	 },
+	 "dwico1": {
+	  "exp": 139.6,
+	  "stone": 385.2,
+	  "gold": 10,
+	  "iron": 21.8,
+	  "string": 0,
+	  "moonstone": 2.8701955956777443,
+	  "wood": 1.2,
+	  "fish_specimen": 0
+	 },
+	 "WolfKChaosDao": {
+	  "exp": 770.5667166416779,
+	  "stone": 946.4515742128931,
+	  "gold": 87.34182908545726,
+	  "iron": 165.43988005996994,
+	  "string": 2.480359820089957,
+	  "moonstone": 27.47410750923263,
+	  "wood": 238.40539730134924,
+	  "fish_specimen": 10
+	 },
+	 "helloitsbirdo": {
+	  "exp": 53.8,
+	  "stone": 215.6,
+	  "gold": 2.8,
+	  "iron": 1,
+	  "string": 0,
+	  "moonstone": 3.8,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "TheShortRound21": {
+	  "exp": 74.6,
+	  "stone": 174.6,
+	  "gold": 8.2,
+	  "iron": 11.2,
+	  "string": 0,
+	  "moonstone": 3.2701955956777446,
+	  "wood": 16.6,
+	  "fish_specimen": 0
+	 },
+	 "Elmetapolloloko": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 2.2,
+	  "fish_specimen": 0
+	 },
+	 "Jabz004": {
+	  "exp": 1400.9334332833557,
+	  "stone": 1876.9031484257862,
+	  "gold": 168.68365817091453,
+	  "iron": 320.4797601199399,
+	  "string": 4.960719640179914,
+	  "moonstone": 52.07801942278751,
+	  "wood": 455.21079460269846,
+	  "fish_specimen": 76
+	 },
+	 "moonsama_193": {
+	  "exp": 444.483358320839,
+	  "stone": 484.42578710644653,
+	  "gold": 48.97091454272863,
+	  "iron": 82.31994002998498,
+	  "string": 1.2401799100449784,
+	  "moonstone": 19.501955956777444,
+	  "wood": 124.00269865067462,
+	  "fish_specimen": 0
+	 },
+	 "splshh": {
+	  "exp": 95.4,
+	  "stone": 0,
+	  "gold": 22.6,
+	  "iron": 7.2,
+	  "string": 0.4,
+	  "moonstone": 6.270195595677745,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "VIPSAMA0": {
+	  "exp": 296.6,
+	  "stone": 1.4,
+	  "gold": 53.4,
+	  "iron": 70.8,
+	  "string": 2.6,
+	  "moonstone": 18.6,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Chaosama": {
+	  "exp": 436.88335832083897,
+	  "stone": 560.4257871064466,
+	  "gold": 49.17091454272863,
+	  "iron": 105.71994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 15.372151552455188,
+	  "wood": 130.8026986506746,
+	  "fish_specimen": 0
+	 },
+	 "Sasukexo2": {
+	  "exp": 224.2,
+	  "stone": 73,
+	  "gold": 12.2,
+	  "iron": 38.2,
+	  "string": 0.6,
+	  "moonstone": 4.270195595677745,
+	  "wood": 1.2,
+	  "fish_specimen": 0
+	 },
+	 "Anyawakuwaku": {
+	  "exp": 37.4,
+	  "stone": 277.8,
+	  "gold": 2.6,
+	  "iron": 18.2,
+	  "string": 0.4,
+	  "moonstone": 2.0701955956777445,
+	  "wood": 39.4,
+	  "fish_specimen": 0
+	 },
+	 "ciklu": {
+	  "exp": 37.6,
+	  "stone": 0,
+	  "gold": 37.6,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 12.470195595677744,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Honeycomb_APE": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0.4,
+	  "moonstone": 0,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "MerlinHermes": {
+	  "exp": 432.6833583208389,
+	  "stone": 476.82578710644657,
+	  "gold": 49.370914542728634,
+	  "iron": 81.11994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 23.501955956777444,
+	  "wood": 117.40269865067461,
+	  "fish_specimen": 0
+	 },
+	 "raicoglez": {
+	  "exp": 368.28335832083894,
+	  "stone": 656.4257871064465,
+	  "gold": 44.370914542728634,
+	  "iron": 87.31994002998498,
+	  "string": 1.2401799100449784,
+	  "moonstone": 13.101955956777443,
+	  "wood": 129.8026986506746,
+	  "fish_specimen": 0
+	 },
+	 "TacoBunn": {
+	  "exp": 717.366716641678,
+	  "stone": 1200.251574212893,
+	  "gold": 84.34182908545726,
+	  "iron": 166.23988005996995,
+	  "string": 2.480359820089957,
+	  "moonstone": 27.274107509232632,
+	  "wood": 229.60539730134923,
+	  "fish_specimen": 0
+	 },
+	 "PharrellMoonsama": {
+	  "exp": 357.08335832083895,
+	  "stone": 747.0257871064466,
+	  "gold": 42.17091454272863,
+	  "iron": 80.11994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 12.701955956777443,
+	  "wood": 134.8026986506746,
+	  "fish_specimen": 0
+	 },
+	 "gotromotjo": {
+	  "exp": 405.08335832083895,
+	  "stone": 645.0257871064466,
+	  "gold": 42.17091454272863,
+	  "iron": 81.71994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 12.701955956777443,
+	  "wood": 376.0026986506746,
+	  "fish_specimen": 0
+	 },
+	 "Eze84": {
+	  "exp": 15.6,
+	  "stone": 438.4,
+	  "gold": 0,
+	  "iron": 6.8,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "bacchist": {
+	  "exp": 35.6,
+	  "stone": 26.8,
+	  "gold": 7,
+	  "iron": 2.6,
+	  "string": 0,
+	  "moonstone": 4.270195595677745,
+	  "wood": 4.6,
+	  "fish_specimen": 0
+	 },
+	 "kroozenschz": {
+	  "exp": 25.4,
+	  "stone": 192.6,
+	  "gold": 3.2,
+	  "iron": 2.8,
+	  "string": 0,
+	  "moonstone": 2.8701955956777443,
+	  "wood": 4.6,
+	  "fish_specimen": 0
+	 },
+	 "MonkeCrypto": {
+	  "exp": 36.2,
+	  "stone": 306.4,
+	  "gold": 4.2,
+	  "iron": 27.6,
+	  "string": 0,
+	  "moonstone": 1.6701955956777446,
+	  "wood": 0.6,
+	  "fish_specimen": 0
+	 },
+	 "ojofirme": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Pvps1": {
+	  "exp": 228.8,
+	  "stone": 65.8,
+	  "gold": 25,
+	  "iron": 143.6,
+	  "string": 0.6,
+	  "moonstone": 8.870195595677744,
+	  "wood": 8,
+	  "fish_specimen": 0
+	 },
+	 "DarkkightJr": {
+	  "exp": 116.8,
+	  "stone": 46,
+	  "gold": 9.2,
+	  "iron": 49,
+	  "string": 0.8,
+	  "moonstone": 2.8701955956777443,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "0xmrk": {
+	  "exp": 381.48335832083893,
+	  "stone": 520.2257871064465,
+	  "gold": 46.57091454272863,
+	  "iron": 86.11994002998497,
+	  "string": 1.6401799100449783,
+	  "moonstone": 16.172151552455187,
+	  "wood": 153.8026986506746,
+	  "fish_specimen": 0
+	 },
+	 "Enryu_____": {
+	  "exp": 40.8,
+	  "stone": 17.6,
+	  "gold": 0,
+	  "iron": 4,
+	  "string": 0,
+	  "moonstone": 3.670195595677744,
+	  "wood": 2.2,
+	  "fish_specimen": 0
+	 },
+	 "ExoRektor": {
+	  "exp": 120.6,
+	  "stone": 60.4,
+	  "gold": 15.8,
+	  "iron": 46.8,
+	  "string": 0,
+	  "moonstone": 2.8701955956777443,
+	  "wood": 12.8,
+	  "fish_specimen": 0
+	 },
+	 "IamLui": {
+	  "exp": 1,
+	  "stone": 11.6,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 158.2,
+	  "fish_specimen": 0
+	 },
+	 "Merkaria": {
+	  "exp": 100.2,
+	  "stone": 25.6,
+	  "gold": 12.4,
+	  "iron": 40.2,
+	  "string": 1.4,
+	  "moonstone": 4,
+	  "wood": 323.4,
+	  "fish_specimen": 0
+	 },
+	 "PolloCraft182": {
+	  "exp": 6.8,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 292,
+	  "fish_specimen": 0
+	 },
+	 "Gadotyo": {
+	  "exp": 155.2,
+	  "stone": 0,
+	  "gold": 26.8,
+	  "iron": 33.6,
+	  "string": 0,
+	  "moonstone": 7.870195595677744,
+	  "wood": 5.2,
+	  "fish_specimen": 0
+	 },
+	 "Moonsama0": {
+	  "exp": 0.2,
+	  "stone": 4.4,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 40.8,
+	  "fish_specimen": 0
+	 },
+	 "DaFFyDaF79": {
+	  "exp": 37.2,
+	  "stone": 26.6,
+	  "gold": 8.2,
+	  "iron": 2.6,
+	  "string": 0,
+	  "moonstone": 2.0701955956777445,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "MSAMA253": {
+	  "exp": 444.88335832083897,
+	  "stone": 494.82578710644657,
+	  "gold": 42.17091454272863,
+	  "iron": 80.11994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 25.701955956777443,
+	  "wood": 113.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "RichardXL1": {
+	  "exp": 48.6,
+	  "stone": 151,
+	  "gold": 6.2,
+	  "iron": 14.8,
+	  "string": 0,
+	  "moonstone": 1.8701955956777443,
+	  "wood": 183.8,
+	  "fish_specimen": 0
+	 },
+	 "VIPCarnage2": {
+	  "exp": 156.4,
+	  "stone": 204.2,
+	  "gold": 22,
+	  "iron": 59,
+	  "string": 0,
+	  "moonstone": 5.4,
+	  "wood": 11.2,
+	  "fish_specimen": 0
+	 },
+	 "D0tSama": {
+	  "exp": 727.9667166416779,
+	  "stone": 1117.451574212893,
+	  "gold": 84.94182908545726,
+	  "iron": 176.23988005996995,
+	  "string": 2.480359820089957,
+	  "moonstone": 27.67410750923263,
+	  "wood": 227.60539730134923,
+	  "fish_specimen": 0
+	 },
+	 "Sylph404": {
+	  "exp": 94.2,
+	  "stone": 236,
+	  "gold": 4.4,
+	  "iron": 24,
+	  "string": 0.8,
+	  "moonstone": 3.670195595677744,
+	  "wood": 35.8,
+	  "fish_specimen": 0
+	 },
+	 "zcocrypto": {
+	  "exp": 6341.700449775101,
+	  "stone": 8490.664167916038,
+	  "gold": 765.4764617691153,
+	  "iron": 1457.1589205397295,
+	  "string": 22.323238380809613,
+	  "moonstone": 229.03520722199397,
+	  "wood": 2052.6485757121427,
+	  "fish_specimen": 0
+	 },
+	 "iDvorsky": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "materaa": {
+	  "exp": 157.4,
+	  "stone": 8,
+	  "gold": 39,
+	  "iron": 17,
+	  "string": 1,
+	  "moonstone": 8.2,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "misterjamebkk": {
+	  "exp": 350.08335832083895,
+	  "stone": 469.22578710644655,
+	  "gold": 42.17091454272863,
+	  "iron": 80.11994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 13.972151552455188,
+	  "wood": 113.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "Madayosama": {
+	  "exp": 112.4,
+	  "stone": 0.2,
+	  "gold": 7,
+	  "iron": 14.6,
+	  "string": 0,
+	  "moonstone": 2.670195595677744,
+	  "wood": 386.8,
+	  "fish_specimen": 0
+	 },
+	 "Itachiexo1": {
+	  "exp": 101.4,
+	  "stone": 0.8,
+	  "gold": 9,
+	  "iron": 12,
+	  "string": 0.8,
+	  "moonstone": 3.0701955956777445,
+	  "wood": 0.8,
+	  "fish_specimen": 0
+	 },
+	 "SinaloaCrypto": {
+	  "exp": 78.4,
+	  "stone": 80.4,
+	  "gold": 1.8,
+	  "iron": 10,
+	  "string": 0,
+	  "moonstone": 6.670195595677745,
+	  "wood": 7.6,
+	  "fish_specimen": 0
+	 },
+	 "devilassassin616": {
+	  "exp": 50.6,
+	  "stone": 178,
+	  "gold": 0,
+	  "iron": 21.6,
+	  "string": 0.2,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "adacoy": {
+	  "exp": 40.4,
+	  "stone": 201.2,
+	  "gold": 3,
+	  "iron": 12,
+	  "string": 0,
+	  "moonstone": 0.6,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Ducktaari": {
+	  "exp": 64.6,
+	  "stone": 0,
+	  "gold": 15.8,
+	  "iron": 36.4,
+	  "string": 0.2,
+	  "moonstone": 5.670195595677745,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "RikkoTroom": {
+	  "exp": 110.6,
+	  "stone": 0,
+	  "gold": 20,
+	  "iron": 10.6,
+	  "string": 0.8,
+	  "moonstone": 6.8,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Natykurama7": {
+	  "exp": 124.4,
+	  "stone": 45,
+	  "gold": 8,
+	  "iron": 33.8,
+	  "string": 0.6,
+	  "moonstone": 0.6,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Moon_Bearer": {
+	  "exp": 529.483358320839,
+	  "stone": 866.0257871064466,
+	  "gold": 44.77091454272863,
+	  "iron": 113.71994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 14.572151552455187,
+	  "wood": 125.00269865067462,
+	  "fish_specimen": 0
+	 },
+	 "SEBICHITO154": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Acsj9988": {
+	  "exp": 87.8,
+	  "stone": 99.2,
+	  "gold": 12.2,
+	  "iron": 5.8,
+	  "string": 0,
+	  "moonstone": 5.870195595677744,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "MilkySheepoo": {
+	  "exp": 9.2,
+	  "stone": 63.8,
+	  "gold": 0,
+	  "iron": 3.4,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 7.8,
+	  "fish_specimen": 0
+	 },
+	 "JeppersDavid": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "WaffleO": {
+	  "exp": 3683.4335832083893,
+	  "stone": 4709.057871064466,
+	  "gold": 540.9091454272864,
+	  "iron": 907.9994002998496,
+	  "string": 12.801799100449784,
+	  "moonstone": 155.01955956777442,
+	  "wood": 1318.626986506746,
+	  "fish_specimen": 0
+	 },
+	 "teslanova05": {
+	  "exp": 423.483358320839,
+	  "stone": 586.0257871064465,
+	  "gold": 50.37091454272863,
+	  "iron": 91.31994002998498,
+	  "string": 1.2401799100449784,
+	  "moonstone": 15.772151552455188,
+	  "wood": 119.40269865067461,
+	  "fish_specimen": 0
+	 },
+	 "HyugaPrincesss": {
+	  "exp": 61.2,
+	  "stone": 87,
+	  "gold": 5,
+	  "iron": 13,
+	  "string": 0.4,
+	  "moonstone": 2.4701955956777444,
+	  "wood": 89.8,
+	  "fish_specimen": 0
+	 },
+	 "McShandy": {
+	  "exp": 449.28335832083894,
+	  "stone": 485.22578710644655,
+	  "gold": 44.97091454272863,
+	  "iron": 87.11994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 16.10195595677744,
+	  "wood": 123.00269865067462,
+	  "fish_specimen": 0
+	 },
+	 "HeyYoAndy": {
+	  "exp": 1,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Zo3000": {
+	  "exp": 75.8,
+	  "stone": 115.2,
+	  "gold": 6.8,
+	  "iron": 19.4,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Droel42": {
+	  "exp": 0,
+	  "stone": 6.6,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "sheklemec": {
+	  "exp": 742.9667166416779,
+	  "stone": 967.251574212893,
+	  "gold": 84.34182908545726,
+	  "iron": 160.23988005996995,
+	  "string": 2.480359820089957,
+	  "moonstone": 26.67410750923263,
+	  "wood": 231.00539730134923,
+	  "fish_specimen": 75
+	 },
+	 "castro112": {
+	  "exp": 1.4,
+	  "stone": 0.6,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 142.8,
+	  "fish_specimen": 15
+	 },
+	 "sillybigmac4": {
+	  "exp": 106.2,
+	  "stone": 190.8,
+	  "gold": 12.6,
+	  "iron": 20.6,
+	  "string": 0,
+	  "moonstone": 2.8,
+	  "wood": 0.6,
+	  "fish_specimen": 0
+	 },
+	 "Eligna88": {
+	  "exp": 29.6,
+	  "stone": 111.6,
+	  "gold": 0.2,
+	  "iron": 9.6,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 1.4,
+	  "fish_specimen": 0
+	 },
+	 "PrincipldDegen": {
+	  "exp": 9.2,
+	  "stone": 0.4,
+	  "gold": 0,
+	  "iron": 6.4,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0.2,
+	  "fish_specimen": 0
+	 },
+	 "CryptokeegOS": {
+	  "exp": 446.483358320839,
+	  "stone": 469.22578710644655,
+	  "gold": 48.57091454272863,
+	  "iron": 82.31994002998498,
+	  "string": 1.2401799100449784,
+	  "moonstone": 22.901955956777442,
+	  "wood": 117.60269865067461,
+	  "fish_specimen": 0
+	 },
+	 "CarnageTime": {
+	  "exp": 146.6,
+	  "stone": 153.6,
+	  "gold": 40.4,
+	  "iron": 0,
+	  "string": 1.2,
+	  "moonstone": 11,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "tieumapBH": {
+	  "exp": 11,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 472.8,
+	  "fish_specimen": 0
+	 },
+	 "DrCryptonite": {
+	  "exp": 440.6833583208389,
+	  "stone": 541.0257871064465,
+	  "gold": 51.57091454272863,
+	  "iron": 116.31994002998498,
+	  "string": 1.4401799100449784,
+	  "moonstone": 15.572151552455187,
+	  "wood": 113.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "0xKaito": {
+	  "exp": 92.6,
+	  "stone": 123.6,
+	  "gold": 0,
+	  "iron": 9.6,
+	  "string": 0.8,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 26.2,
+	  "fish_specimen": 0
+	 },
+	 "ParkG_": {
+	  "exp": 370.08335832083895,
+	  "stone": 489.02578710644656,
+	  "gold": 55.77091454272863,
+	  "iron": 91.51994002998498,
+	  "string": 1.6401799100449783,
+	  "moonstone": 14.301955956777443,
+	  "wood": 113.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "NobleCreature50": {
+	  "exp": 49.8,
+	  "stone": 12.6,
+	  "gold": 17.2,
+	  "iron": 13.6,
+	  "string": 0,
+	  "moonstone": 3.8701955956777443,
+	  "wood": 1.8,
+	  "fish_specimen": 0
+	 },
+	 "mgen": {
+	  "exp": 870.1667166416779,
+	  "stone": 1005.8515742128931,
+	  "gold": 123.34182908545726,
+	  "iron": 180.23988005996995,
+	  "string": 3.080359820089957,
+	  "moonstone": 36.47410750923263,
+	  "wood": 228.60539730134923,
+	  "fish_specimen": 0
+	 },
+	 "mimikaky": {
+	  "exp": 5.8,
+	  "stone": 1.2,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0.2,
+	  "moonstone": 1.4701955956777444,
+	  "wood": 229.2,
+	  "fish_specimen": 0
+	 },
+	 "Gogef": {
+	  "exp": 41,
+	  "stone": 289,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "MoldyCreations": {
+	  "exp": 45.2,
+	  "stone": 14.4,
+	  "gold": 4.6,
+	  "iron": 24.4,
+	  "string": 0,
+	  "moonstone": 3.2701955956777446,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "YuntWheat": {
+	  "exp": 700.1667166416779,
+	  "stone": 938.4515742128931,
+	  "gold": 84.34182908545726,
+	  "iron": 160.23988005996995,
+	  "string": 2.480359820089957,
+	  "moonstone": 26.67410750923263,
+	  "wood": 227.60539730134923,
+	  "fish_specimen": 0
+	 },
+	 "LiimpNoodle": {
+	  "exp": 299.2,
+	  "stone": 48.6,
+	  "gold": 31,
+	  "iron": 64.2,
+	  "string": 0.8,
+	  "moonstone": 9.870195595677744,
+	  "wood": 5.4,
+	  "fish_specimen": 0
+	 },
+	 "CChimp_OS": {
+	  "exp": 32.6,
+	  "stone": 27.6,
+	  "gold": 3,
+	  "iron": 4.4,
+	  "string": 0,
+	  "moonstone": 2.0701955956777445,
+	  "wood": 5.8,
+	  "fish_specimen": 0
+	 },
+	 "OmegaSamaMurdoch": {
+	  "exp": 0.8,
+	  "stone": 130.2,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 4.4,
+	  "fish_specimen": 0
+	 },
+	 "Dogeosama": {
+	  "exp": 0.4,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Elias1122": {
+	  "exp": 161.4,
+	  "stone": 68.6,
+	  "gold": 4,
+	  "iron": 52.8,
+	  "string": 0.2,
+	  "moonstone": 1.8701955956777443,
+	  "wood": 18,
+	  "fish_specimen": 0
+	 },
+	 "manshama": {
+	  "exp": 2,
+	  "stone": 43.4,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Plumpiii": {
+	  "exp": 74.4,
+	  "stone": 98.6,
+	  "gold": 3.8,
+	  "iron": 10.4,
+	  "string": 0,
+	  "moonstone": 5,
+	  "wood": 5.4,
+	  "fish_specimen": 0
+	 },
+	 "ZZenith22": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0.2,
+	  "fish_specimen": 0
+	 },
+	 "NerdyCram": {
+	  "exp": 95,
+	  "stone": 217.6,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 230.4,
+	  "fish_specimen": 0
+	 },
+	 "DrMup": {
+	  "exp": 27,
+	  "stone": 149,
+	  "gold": 0,
+	  "iron": 9.6,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 1.8,
+	  "fish_specimen": 0
+	 },
+	 "ElYogiDorado": {
+	  "exp": 37.4,
+	  "stone": 182,
+	  "gold": 6.4,
+	  "iron": 1.8,
+	  "string": 0,
+	  "moonstone": 3.470195595677745,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "OP440": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 18.4,
+	  "iron": 29,
+	  "string": 0.6,
+	  "moonstone": 4.4,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "BadBallzy": {
+	  "exp": 935.966716641678,
+	  "stone": 958.4515742128931,
+	  "gold": 97.74182908545727,
+	  "iron": 185.43988005996994,
+	  "string": 2.480359820089957,
+	  "moonstone": 38.07410750923263,
+	  "wood": 231.40539730134924,
+	  "fish_specimen": 0
+	 },
+	 "RAMBO_711": {
+	  "exp": 2864.6668665667116,
+	  "stone": 3763.006296851572,
+	  "gold": 344.36731634182905,
+	  "iron": 641.5595202398798,
+	  "string": 10.321439280359828,
+	  "moonstone": 105.88584324989728,
+	  "wood": 914.4215892053969,
+	  "fish_specimen": 0
+	 },
+	 "Alt_Coin_Degen": {
+	  "exp": 68.6,
+	  "stone": 14.8,
+	  "gold": 1.8,
+	  "iron": 1.8,
+	  "string": 0,
+	  "moonstone": 1.4701955956777444,
+	  "wood": 2.8,
+	  "fish_specimen": 0
+	 },
+	 "CryptoKrespo": {
+	  "exp": 783.7667166416779,
+	  "stone": 951.6515742128931,
+	  "gold": 99.54182908545727,
+	  "iron": 177.23988005996995,
+	  "string": 2.8803598200899567,
+	  "moonstone": 30.603911913554885,
+	  "wood": 240.80539730134922,
+	  "fish_specimen": 0
+	 },
+	 "ShineyD_OS": {
+	  "exp": 64.6,
+	  "stone": 38.4,
+	  "gold": 4.6,
+	  "iron": 2,
+	  "string": 0.2,
+	  "moonstone": 5.470195595677745,
+	  "wood": 0.2,
+	  "fish_specimen": 0
+	 },
+	 "EssejSemaj": {
+	  "exp": 439.6833583208389,
+	  "stone": 827.6257871064465,
+	  "gold": 43.77091454272863,
+	  "iron": 119.91994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 15.772151552455188,
+	  "wood": 113.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "StrawHatJim": {
+	  "exp": 37.6,
+	  "stone": 10.8,
+	  "gold": 0.6,
+	  "iron": 22,
+	  "string": 1.8,
+	  "moonstone": 5.670195595677745,
+	  "wood": 1.6,
+	  "fish_specimen": 0
+	 },
+	 "Exo5arna": {
+	  "exp": 270.2,
+	  "stone": 19.2,
+	  "gold": 20.6,
+	  "iron": 66.8,
+	  "string": 1.4,
+	  "moonstone": 6.0701955956777445,
+	  "wood": 7.6,
+	  "fish_specimen": 0
+	 },
+	 "StrappedYew6267": {
+	  "exp": 740.366716641678,
+	  "stone": 963.4515742128931,
+	  "gold": 92.94182908545726,
+	  "iron": 173.83988005996994,
+	  "string": 2.480359820089957,
+	  "moonstone": 26.603911913554885,
+	  "wood": 235.20539730134922,
+	  "fish_specimen": 0
+	 },
+	 "Mathox18": {
+	  "exp": 159.2,
+	  "stone": 311.8,
+	  "gold": 36.4,
+	  "iron": 46.4,
+	  "string": 1.2,
+	  "moonstone": 6.8,
+	  "wood": 10,
+	  "fish_specimen": 0
+	 },
+	 "ChrisCrypt0": {
+	  "exp": 425.28335832083894,
+	  "stone": 555.0257871064465,
+	  "gold": 55.57091454272863,
+	  "iron": 97.51994002998498,
+	  "string": 1.8401799100449785,
+	  "moonstone": 17.30195595677744,
+	  "wood": 125.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "artuc": {
+	  "exp": 88.2,
+	  "stone": 152.4,
+	  "gold": 8.6,
+	  "iron": 2.2,
+	  "string": 0,
+	  "moonstone": 2.6,
+	  "wood": 3,
+	  "fish_specimen": 0
+	 },
+	 "KennnyB": {
+	  "exp": 16,
+	  "stone": 86.2,
+	  "gold": 0.6,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 245.6,
+	  "fish_specimen": 0
+	 },
+	 "KaraSakall": {
+	  "exp": 140.8,
+	  "stone": 93.6,
+	  "gold": 19.2,
+	  "iron": 47.8,
+	  "string": 1.2,
+	  "moonstone": 3.2701955956777446,
+	  "wood": 0.6,
+	  "fish_specimen": 0
+	 },
+	 "riri_gonewilde": {
+	  "exp": 393.08335832083895,
+	  "stone": 587.6257871064465,
+	  "gold": 45.57091454272863,
+	  "iron": 99.31994002998498,
+	  "string": 1.2401799100449784,
+	  "moonstone": 13.701955956777443,
+	  "wood": 117.20269865067462,
+	  "fish_specimen": 0
+	 },
+	 "Oatzeed": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 0.6,
+	  "fish_specimen": 0
+	 },
+	 "lasereyecharlie": {
+	  "exp": 5.4,
+	  "stone": 23,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 7.8,
+	  "fish_specimen": 0
+	 },
+	 "DocAroz": {
+	  "exp": 11.4,
+	  "stone": 12.8,
+	  "gold": 0,
+	  "iron": 0.8,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 5.2,
+	  "fish_specimen": 0
+	 },
+	 "AutoBOT404": {
+	  "exp": 47.4,
+	  "stone": 31.4,
+	  "gold": 1,
+	  "iron": 1.6,
+	  "string": 0,
+	  "moonstone": 4,
+	  "wood": 2,
+	  "fish_specimen": 0
+	 },
+	 "McGinty501": {
+	  "exp": 98.4,
+	  "stone": 204.2,
+	  "gold": 11.8,
+	  "iron": 48.2,
+	  "string": 0.8,
+	  "moonstone": 2.670195595677744,
+	  "wood": 12.8,
+	  "fish_specimen": 0
+	 },
+	 "Jedisama_King": {
+	  "exp": 472.08335832083895,
+	  "stone": 483.42578710644653,
+	  "gold": 60.970914542728636,
+	  "iron": 91.71994002998497,
+	  "string": 1.4401799100449784,
+	  "moonstone": 18.372151552455186,
+	  "wood": 121.80269865067461,
+	  "fish_specimen": 45
+	 },
+	 "MoonsamaVIP": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "LuckyFriday22": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "CryptoCleaver": {
+	  "exp": 1,
+	  "stone": 69,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0.4,
+	  "fish_specimen": 25
+	 },
+	 "SummerShades": {
+	  "exp": 209.8,
+	  "stone": 49.8,
+	  "gold": 17.4,
+	  "iron": 6.6,
+	  "string": 0,
+	  "moonstone": 18.870195595677746,
+	  "wood": 20.6,
+	  "fish_specimen": 5
+	 },
+	 "Richierich69_OS": {
+	  "exp": 98.2,
+	  "stone": 44.8,
+	  "gold": 4.6,
+	  "iron": 14,
+	  "string": 0,
+	  "moonstone": 4.0701955956777445,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "maximars": {
+	  "exp": 420.88335832083897,
+	  "stone": 699.6257871064465,
+	  "gold": 56.77091454272863,
+	  "iron": 106.51994002998498,
+	  "string": 1.6401799100449783,
+	  "moonstone": 19.172151552455187,
+	  "wood": 174.00269865067463,
+	  "fish_specimen": 0
+	 },
+	 "TicklerSniffler": {
+	  "exp": 91.2,
+	  "stone": 18.6,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0.4,
+	  "moonstone": 0.2,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "XyphenatedHD": {
+	  "exp": 35.6,
+	  "stone": 12.8,
+	  "gold": 25.6,
+	  "iron": 34.6,
+	  "string": 2.2,
+	  "moonstone": 8.470195595677744,
+	  "wood": 326,
+	  "fish_specimen": 0
+	 },
+	 "CapTK13": {
+	  "exp": 397.683358320839,
+	  "stone": 500.6257871064465,
+	  "gold": 43.370914542728634,
+	  "iron": 88.71994002998497,
+	  "string": 1.4401799100449784,
+	  "moonstone": 14.172151552455187,
+	  "wood": 156.00269865067463,
+	  "fish_specimen": 50
+	 },
+	 "TheCandyman122": {
+	  "exp": 88.2,
+	  "stone": 43.2,
+	  "gold": 7.8,
+	  "iron": 47.4,
+	  "string": 1,
+	  "moonstone": 1.8701955956777443,
+	  "wood": 5.8,
+	  "fish_specimen": 0
+	 },
+	 "Michael_Omega_S": {
+	  "exp": 55,
+	  "stone": 3.8,
+	  "gold": 3,
+	  "iron": 2.6,
+	  "string": 0,
+	  "moonstone": 2.2701955956777446,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "B1ggworm": {
+	  "exp": 409.08335832083895,
+	  "stone": 520.4257871064466,
+	  "gold": 42.17091454272863,
+	  "iron": 80.11994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 16.172151552455187,
+	  "wood": 113.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "NoobsterX": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "xJoltx": {
+	  "exp": 56.4,
+	  "stone": 70.8,
+	  "gold": 1,
+	  "iron": 9.4,
+	  "string": 0.4,
+	  "moonstone": 2.670195595677744,
+	  "wood": 1,
+	  "fish_specimen": 0
+	 },
+	 "yamobe": {
+	  "exp": 117.8,
+	  "stone": 165.4,
+	  "gold": 5,
+	  "iron": 25.4,
+	  "string": 0.4,
+	  "moonstone": 4.670195595677744,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Willy_ewc": {
+	  "exp": 46,
+	  "stone": 365.4,
+	  "gold": 0,
+	  "iron": 8.6,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 10.2,
+	  "fish_specimen": 0
+	 },
+	 "LunarRain77": {
+	  "exp": 295.8,
+	  "stone": 0,
+	  "gold": 79.4,
+	  "iron": 20,
+	  "string": 2.8,
+	  "moonstone": 22,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "ChingoLink": {
+	  "exp": 350.08335832083895,
+	  "stone": 469.22578710644655,
+	  "gold": 42.17091454272863,
+	  "iron": 80.11994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 13.972151552455188,
+	  "wood": 115.60269865067461,
+	  "fish_specimen": 0
+	 },
+	 "rrift": {
+	  "exp": 120.8,
+	  "stone": 154.6,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "LuckyIntern3": {
+	  "exp": 354.48335832083893,
+	  "stone": 473.02578710644656,
+	  "gold": 43.370914542728634,
+	  "iron": 81.11994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 14.101955956777443,
+	  "wood": 118.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "Doge_Douglas": {
+	  "exp": 406.88335832083897,
+	  "stone": 503.6257871064465,
+	  "gold": 46.17091454272863,
+	  "iron": 81.91994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 16.172151552455187,
+	  "wood": 119.40269865067461,
+	  "fish_specimen": 0
+	 },
+	 "M4vis18": {
+	  "exp": 39,
+	  "stone": 344.6,
+	  "gold": 0,
+	  "iron": 18.2,
+	  "string": 0,
+	  "moonstone": 1,
+	  "wood": 3,
+	  "fish_specimen": 0
+	 },
+	 "karudanuri": {
+	  "exp": 138.2,
+	  "stone": 323,
+	  "gold": 0.2,
+	  "iron": 20.8,
+	  "string": 0.2,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 8.2,
+	  "fish_specimen": 0
+	 },
+	 "NatAnonymous": {
+	  "exp": 76.2,
+	  "stone": 10,
+	  "gold": 2.8,
+	  "iron": 33,
+	  "string": 0.2,
+	  "moonstone": 1.6701955956777446,
+	  "wood": 1.4,
+	  "fish_specimen": 0
+	 },
+	 "BruceL337": {
+	  "exp": 830.7667166416779,
+	  "stone": 1028.251574212893,
+	  "gold": 96.14182908545726,
+	  "iron": 197.63988005996995,
+	  "string": 2.480359820089957,
+	  "moonstone": 34.27410750923263,
+	  "wood": 232.40539730134924,
+	  "fish_specimen": 0
+	 },
+	 "fettyAcapone": {
+	  "exp": 31,
+	  "stone": 255.6,
+	  "gold": 2.6,
+	  "iron": 6.8,
+	  "string": 0,
+	  "moonstone": 2.4701955956777444,
+	  "wood": 5,
+	  "fish_specimen": 0
+	 },
+	 "Yurickz": {
+	  "exp": 155.4,
+	  "stone": 43,
+	  "gold": 19.6,
+	  "iron": 53.8,
+	  "string": 0.4,
+	  "moonstone": 5.870195595677744,
+	  "wood": 2,
+	  "fish_specimen": 0
+	 },
+	 "2xJDubs": {
+	  "exp": 700.5667166416779,
+	  "stone": 1129.051574212893,
+	  "gold": 84.34182908545726,
+	  "iron": 160.23988005996995,
+	  "string": 2.480359820089957,
+	  "moonstone": 26.67410750923263,
+	  "wood": 227.60539730134923,
+	  "fish_specimen": 0
+	 },
+	 "eshortyluckyfri": {
+	  "exp": 351.48335832083893,
+	  "stone": 469.22578710644655,
+	  "gold": 42.17091454272863,
+	  "iron": 80.11994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 12.701955956777443,
+	  "wood": 113.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "PengggWibuu": {
+	  "exp": 160.6,
+	  "stone": 47.6,
+	  "gold": 13.4,
+	  "iron": 38.6,
+	  "string": 0,
+	  "moonstone": 5.4,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "oozaru_sama": {
+	  "exp": 1122.8500749625168,
+	  "stone": 1470.6773613193395,
+	  "gold": 133.3127436281859,
+	  "iron": 262.35982008995495,
+	  "string": 3.720539730134935,
+	  "moonstone": 41.17606346601007,
+	  "wood": 347.4080959520238,
+	  "fish_specimen": 0
+	 },
+	 "TBirdInc": {
+	  "exp": 480.08335832083895,
+	  "stone": 533.6257871064465,
+	  "gold": 52.57091454272863,
+	  "iron": 101.91994002998497,
+	  "string": 2.0401799100449782,
+	  "moonstone": 16.172151552455187,
+	  "wood": 113.80269865067461,
+	  "fish_specimen": 11
+	 },
+	 "Dogeorama_OS": {
+	  "exp": 499.28335832083894,
+	  "stone": 520.4257871064466,
+	  "gold": 60.57091454272863,
+	  "iron": 91.11994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 23.57215155245519,
+	  "wood": 128.0026986506746,
+	  "fish_specimen": 0
+	 },
+	 "jaypengX": {
+	  "exp": 44.4,
+	  "stone": 358.4,
+	  "gold": 2,
+	  "iron": 14.4,
+	  "string": 0.6,
+	  "moonstone": 0,
+	  "wood": 4.6,
+	  "fish_specimen": 0
+	 },
+	 "NgaoNgao1210": {
+	  "exp": 11.2,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 473.6,
+	  "fish_specimen": 0
+	 },
+	 "JeremyWade420": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "KoleDestroyer": {
+	  "exp": 92,
+	  "stone": 0,
+	  "gold": 27.8,
+	  "iron": 1.6,
+	  "string": 1.4,
+	  "moonstone": 7.870195595677744,
+	  "wood": 91.8,
+	  "fish_specimen": 0
+	 },
+	 "NaomiBricks": {
+	  "exp": 13,
+	  "stone": 1,
+	  "gold": 0.6,
+	  "iron": 1.2,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 7,
+	  "fish_specimen": 0
+	 },
+	 "LuckyFriday11": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "murthzilla": {
+	  "exp": 479.88335832083897,
+	  "stone": 507.82578710644657,
+	  "gold": 65.77091454272863,
+	  "iron": 126.71994002998497,
+	  "string": 1.8401799100449785,
+	  "moonstone": 17.77215155245519,
+	  "wood": 115.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "LatinaMoli_OS": {
+	  "exp": 79.2,
+	  "stone": 14,
+	  "gold": 14.2,
+	  "iron": 15.2,
+	  "string": 0.4,
+	  "moonstone": 6.470195595677745,
+	  "wood": 3.2,
+	  "fish_specimen": 0
+	 },
+	 "Memety": {
+	  "exp": 47.8,
+	  "stone": 300.2,
+	  "gold": 0,
+	  "iron": 9.2,
+	  "string": 0,
+	  "moonstone": 2.0701955956777445,
+	  "wood": 1.8,
+	  "fish_specimen": 0
+	 },
+	 "Capone_OS": {
+	  "exp": 3.8,
+	  "stone": 146,
+	  "gold": 18.2,
+	  "iron": 35.4,
+	  "string": 0.4,
+	  "moonstone": 7.470195595677745,
+	  "wood": 7.2,
+	  "fish_specimen": 0
+	 },
+	 "DragonCanoe": {
+	  "exp": 124,
+	  "stone": 68.8,
+	  "gold": 18,
+	  "iron": 25.6,
+	  "string": 0.4,
+	  "moonstone": 6.270195595677745,
+	  "wood": 0.2,
+	  "fish_specimen": 0
+	 },
+	 "Chaggly": {
+	  "exp": 31.4,
+	  "stone": 20.6,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "unkienester": {
+	  "exp": 2.6,
+	  "stone": 23.4,
+	  "gold": 0,
+	  "iron": 0.4,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 2.8,
+	  "fish_specimen": 0
+	 },
+	 "voxellesama": {
+	  "exp": 3964.9169415292286,
+	  "stone": 5172.083658170913,
+	  "gold": 466.2800599700149,
+	  "iron": 881.7193403298347,
+	  "string": 13.641979010494762,
+	  "moonstone": 142.32151552455187,
+	  "wood": 1253.2296851574208,
+	  "fish_specimen": 275
+	 },
+	 "Pluto00800": {
+	  "exp": 1460.733433283356,
+	  "stone": 1899.3031484257863,
+	  "gold": 168.68365817091453,
+	  "iron": 320.8797601199399,
+	  "string": 4.960719640179914,
+	  "moonstone": 53.07801942278751,
+	  "wood": 455.21079460269846,
+	  "fish_specimen": 125
+	 },
+	 "Pulled_Pork": {
+	  "exp": 498.483358320839,
+	  "stone": 600.0257871064466,
+	  "gold": 52.57091454272863,
+	  "iron": 127.91994002998497,
+	  "string": 2.4401799100449786,
+	  "moonstone": 15.901955956777442,
+	  "wood": 115.00269865067462,
+	  "fish_specimen": 0
+	 },
+	 "TraderKid": {
+	  "exp": 102.2,
+	  "stone": 31.4,
+	  "gold": 2.8,
+	  "iron": 14,
+	  "string": 0.2,
+	  "moonstone": 4.8,
+	  "wood": 4.4,
+	  "fish_specimen": 0
+	 },
+	 "chlodwigII": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 3,
+	  "fish_specimen": 0
+	 },
+	 "Buzza_": {
+	  "exp": 50.6,
+	  "stone": 250.2,
+	  "gold": 4.2,
+	  "iron": 11.8,
+	  "string": 0,
+	  "moonstone": 2.8701955956777443,
+	  "wood": 6,
+	  "fish_specimen": 0
+	 },
+	 "ThePaleoCube": {
+	  "exp": 2.4,
+	  "stone": 7.2,
+	  "gold": 7.4,
+	  "iron": 15.6,
+	  "string": 0.8,
+	  "moonstone": 0.6,
+	  "wood": 4.8,
+	  "fish_specimen": 0
+	 },
+	 "TheCryptoChad": {
+	  "exp": 95.2,
+	  "stone": 23.2,
+	  "gold": 8,
+	  "iron": 13.6,
+	  "string": 0,
+	  "moonstone": 5.0701955956777445,
+	  "wood": 12.4,
+	  "fish_specimen": 0
+	 },
+	 "sauciejam": {
+	  "exp": 526.2833583208389,
+	  "stone": 509.22578710644655,
+	  "gold": 81.57091454272863,
+	  "iron": 157.319940029985,
+	  "string": 1.6401799100449783,
+	  "moonstone": 20.57215155245519,
+	  "wood": 113.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "Ornal_Juice": {
+	  "exp": 350.08335832083895,
+	  "stone": 469.22578710644655,
+	  "gold": 42.17091454272863,
+	  "iron": 80.11994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 13.972151552455188,
+	  "wood": 113.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "KuroCrypto": {
+	  "exp": 74.6,
+	  "stone": 245.8,
+	  "gold": 6.4,
+	  "iron": 11.4,
+	  "string": 0,
+	  "moonstone": 3,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "BitEfi": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Sharpnoa": {
+	  "exp": 36,
+	  "stone": 49.4,
+	  "gold": 5,
+	  "iron": 5,
+	  "string": 0.4,
+	  "moonstone": 2.670195595677744,
+	  "wood": 25.6,
+	  "fish_specimen": 0
+	 },
+	 "BABOKUKI": {
+	  "exp": 74.4,
+	  "stone": 110.6,
+	  "gold": 17.8,
+	  "iron": 16.4,
+	  "string": 0.4,
+	  "moonstone": 1.6,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Resypto_": {
+	  "exp": 387.28335832083894,
+	  "stone": 493.02578710644656,
+	  "gold": 47.57091454272863,
+	  "iron": 85.11994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 13.901955956777442,
+	  "wood": 116.60269865067461,
+	  "fish_specimen": 0
+	 },
+	 "Robster007": {
+	  "exp": 1185.8500749625168,
+	  "stone": 1602.4773613193395,
+	  "gold": 140.5127436281859,
+	  "iron": 273.9598200899549,
+	  "string": 3.720539730134935,
+	  "moonstone": 42.17606346601007,
+	  "wood": 341.4080959520238,
+	  "fish_specimen": 0
+	 },
+	 "YunGuap10": {
+	  "exp": 24,
+	  "stone": 448,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 12.8,
+	  "fish_specimen": 0
+	 },
+	 "HungryManul": {
+	  "exp": 1.2,
+	  "stone": 5.2,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0.4,
+	  "fish_specimen": 0
+	 },
+	 "MrGexosama": {
+	  "exp": 120.6,
+	  "stone": 19.6,
+	  "gold": 12.2,
+	  "iron": 17.2,
+	  "string": 1.6,
+	  "moonstone": 8.470195595677744,
+	  "wood": 19.4,
+	  "fish_specimen": 0
+	 },
+	 "Moonsama263": {
+	  "exp": 85.6,
+	  "stone": 12.8,
+	  "gold": 7,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 7.2,
+	  "wood": 2.6,
+	  "fish_specimen": 0
+	 },
+	 "HiddenDisclaimer": {
+	  "exp": 122.8,
+	  "stone": 157.4,
+	  "gold": 10.8,
+	  "iron": 41.2,
+	  "string": 0.6,
+	  "moonstone": 3.470195595677745,
+	  "wood": 18.2,
+	  "fish_specimen": 0
+	 },
+	 "BuilderBeanie": {
+	  "exp": 350.08335832083895,
+	  "stone": 469.22578710644655,
+	  "gold": 42.17091454272863,
+	  "iron": 80.11994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 12.701955956777443,
+	  "wood": 113.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "exosamaa": {
+	  "exp": 1.4,
+	  "stone": 0.4,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 38,
+	  "fish_specimen": 3
+	 },
+	 "yefersonrivera": {
+	  "exp": 91.8,
+	  "stone": 7,
+	  "gold": 17.4,
+	  "iron": 17.6,
+	  "string": 1.4,
+	  "moonstone": 4.0701955956777445,
+	  "wood": 0.6,
+	  "fish_specimen": 25
+	 },
+	 "FlipperBoot7504": {
+	  "exp": 13.2,
+	  "stone": 96.4,
+	  "gold": 0.6,
+	  "iron": 2.2,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 18.4,
+	  "fish_specimen": 0
+	 },
+	 "ADS_Andy": {
+	  "exp": 1096.650074962517,
+	  "stone": 1656.4773613193395,
+	  "gold": 136.9127436281859,
+	  "iron": 268.35982008995495,
+	  "string": 4.520539730134935,
+	  "moonstone": 41.17606346601007,
+	  "wood": 341.4080959520238,
+	  "fish_specimen": 0
+	 },
+	 "HenkTheTank23": {
+	  "exp": 495.6833583208389,
+	  "stone": 590.0257871064465,
+	  "gold": 57.37091454272863,
+	  "iron": 123.11994002998497,
+	  "string": 2.0401799100449782,
+	  "moonstone": 19.501955956777444,
+	  "wood": 113.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "panda4738": {
+	  "exp": 9.8,
+	  "stone": 135.6,
+	  "gold": 1,
+	  "iron": 0.8,
+	  "string": 0,
+	  "moonstone": 0.2,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Valerieum": {
+	  "exp": 31.2,
+	  "stone": 89.6,
+	  "gold": 0.8,
+	  "iron": 4.6,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 3.2,
+	  "fish_specimen": 0
+	 },
+	 "NDCrypto": {
+	  "exp": 453.28335832083894,
+	  "stone": 672.2257871064465,
+	  "gold": 52.37091454272863,
+	  "iron": 100.31994002998498,
+	  "string": 1.8401799100449785,
+	  "moonstone": 15.572151552455187,
+	  "wood": 119.40269865067461,
+	  "fish_specimen": 1
+	 },
+	 "Liptik": {
+	  "exp": 9.2,
+	  "stone": 9.6,
+	  "gold": 0,
+	  "iron": 0.4,
+	  "string": 0,
+	  "moonstone": 0.4,
+	  "wood": 101.8,
+	  "fish_specimen": 0
+	 },
+	 "D3adGhast": {
+	  "exp": 35.8,
+	  "stone": 48.2,
+	  "gold": 0,
+	  "iron": 9.2,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 53,
+	  "fish_specimen": 0
+	 },
+	 "TheFreeOwl": {
+	  "exp": 56.2,
+	  "stone": 0,
+	  "gold": 41.4,
+	  "iron": 18,
+	  "string": 0.2,
+	  "moonstone": 4.8,
+	  "wood": 2.2,
+	  "fish_specimen": 0
+	 },
+	 "kingmsmithe": {
+	  "exp": 3509.4335832083893,
+	  "stone": 5034.657871064465,
+	  "gold": 421.70914542728633,
+	  "iron": 801.1994002998497,
+	  "string": 12.401799100449784,
+	  "moonstone": 128.28975516345216,
+	  "wood": 1139.2269865067462,
+	  "fish_specimen": 0
+	 },
+	 "PattayaPasta": {
+	  "exp": 55.6,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 0,
+	  "fish_specimen": 25
+	 },
+	 "GK033": {
+	  "exp": 485.483358320839,
+	  "stone": 520.4257871064466,
+	  "gold": 64.37091454272863,
+	  "iron": 96.31994002998498,
+	  "string": 1.8401799100449785,
+	  "moonstone": 23.57215155245519,
+	  "wood": 132.20269865067462,
+	  "fish_specimen": 0
+	 },
+	 "MrCandymaaan": {
+	  "exp": 760.366716641678,
+	  "stone": 989.6515742128931,
+	  "gold": 87.94182908545726,
+	  "iron": 161.03988005996996,
+	  "string": 2.480359820089957,
+	  "moonstone": 29.403911913554886,
+	  "wood": 236.40539730134924,
+	  "fish_specimen": 0
+	 },
+	 "doodmax": {
+	  "exp": 767.366716641678,
+	  "stone": 943.0515742128931,
+	  "gold": 86.14182908545726,
+	  "iron": 162.03988005996996,
+	  "string": 2.480359820089957,
+	  "moonstone": 26.67410750923263,
+	  "wood": 231.20539730134922,
+	  "fish_specimen": 75
+	 },
+	 "Desp3rad0": {
+	  "exp": 439.6833583208389,
+	  "stone": 491.02578710644656,
+	  "gold": 53.77091454272863,
+	  "iron": 80.91994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 19.172151552455187,
+	  "wood": 121.40269865067461,
+	  "fish_specimen": 50
+	 },
+	 "ThinkWildCrypto": {
+	  "exp": 76.6,
+	  "stone": 409.6,
+	  "gold": 10.8,
+	  "iron": 25,
+	  "string": 0,
+	  "moonstone": 4,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "mikedayday11": {
+	  "exp": 69,
+	  "stone": 0.6,
+	  "gold": 8.8,
+	  "iron": 17.4,
+	  "string": 0.4,
+	  "moonstone": 4.870195595677744,
+	  "wood": 32.2,
+	  "fish_specimen": 0
+	 },
+	 "DotsamaDood": {
+	  "exp": 23.6,
+	  "stone": 435.2,
+	  "gold": 0,
+	  "iron": 2.2,
+	  "string": 0.2,
+	  "moonstone": 0,
+	  "wood": 9,
+	  "fish_specimen": 0
+	 },
+	 "DontChaH8Pants": {
+	  "exp": 27.6,
+	  "stone": 91.2,
+	  "gold": 1.8,
+	  "iron": 4.8,
+	  "string": 0.2,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "PJSdotsama": {
+	  "exp": 67.2,
+	  "stone": 59.4,
+	  "gold": 1,
+	  "iron": 3.8,
+	  "string": 0,
+	  "moonstone": 2.4,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Zee_Llama": {
+	  "exp": 3.2,
+	  "stone": 7.4,
+	  "gold": 0,
+	  "iron": 0.4,
+	  "string": 0,
+	  "moonstone": 0.4,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "duosev": {
+	  "exp": 99.8,
+	  "stone": 102.4,
+	  "gold": 18.2,
+	  "iron": 13.6,
+	  "string": 0.2,
+	  "moonstone": 5.470195595677745,
+	  "wood": 4,
+	  "fish_specimen": 0
+	 },
+	 "Stav__": {
+	  "exp": 435.6833583208389,
+	  "stone": 668.6257871064465,
+	  "gold": 50.37091454272863,
+	  "iron": 102.71994002998497,
+	  "string": 1.6401799100449783,
+	  "moonstone": 18.972151552455188,
+	  "wood": 113.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "psaikoteddy": {
+	  "exp": 3,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 4.8,
+	  "fish_specimen": 0
+	 },
+	 "mrmjrsn": {
+	  "exp": 36,
+	  "stone": 110.8,
+	  "gold": 8.6,
+	  "iron": 6.8,
+	  "string": 0.2,
+	  "moonstone": 2.8701955956777443,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Prashant2001": {
+	  "exp": 4,
+	  "stone": 29.2,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "vagif6511": {
+	  "exp": 14.4,
+	  "stone": 54,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 8.8,
+	  "fish_specimen": 0
+	 },
+	 "Keach__": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 3.8,
+	  "fish_specimen": 0
+	 },
+	 "Gganbu_MOVR": {
+	  "exp": 404.683358320839,
+	  "stone": 470.6257871064465,
+	  "gold": 47.97091454272863,
+	  "iron": 99.31994002998498,
+	  "string": 1.2401799100449784,
+	  "moonstone": 15.172151552455187,
+	  "wood": 113.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "viindiesel": {
+	  "exp": 110.4,
+	  "stone": 0,
+	  "gold": 13.8,
+	  "iron": 41.6,
+	  "string": 0,
+	  "moonstone": 0.6,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "YuRu7777": {
+	  "exp": 68,
+	  "stone": 73.6,
+	  "gold": 3,
+	  "iron": 12.6,
+	  "string": 0.8,
+	  "moonstone": 4.270195595677745,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "IncredibleMook": {
+	  "exp": 98.2,
+	  "stone": 328.2,
+	  "gold": 12.4,
+	  "iron": 31.4,
+	  "string": 0,
+	  "moonstone": 4.670195595677744,
+	  "wood": 21,
+	  "fish_specimen": 0
+	 },
+	 "Panopticus": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "FoxVEE538": {
+	  "exp": 528.2833583208389,
+	  "stone": 810.4257871064465,
+	  "gold": 57.17091454272863,
+	  "iron": 130.91994002998496,
+	  "string": 2.4401799100449786,
+	  "moonstone": 16.172151552455187,
+	  "wood": 118.00269865067462,
+	  "fish_specimen": 0
+	 },
+	 "Vesta__": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Ctoxity": {
+	  "exp": 445.483358320839,
+	  "stone": 558.8257871064466,
+	  "gold": 46.77091454272863,
+	  "iron": 88.51994002998498,
+	  "string": 1.2401799100449784,
+	  "moonstone": 19.172151552455187,
+	  "wood": 120.60269865067461,
+	  "fish_specimen": 0
+	 },
+	 "JEFE_CHAOS": {
+	  "exp": 416.28335832083894,
+	  "stone": 681.0257871064466,
+	  "gold": 42.17091454272863,
+	  "iron": 80.11994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 13.972151552455188,
+	  "wood": 126.60269865067461,
+	  "fish_specimen": 0
+	 },
+	 "moonsamamoon": {
+	  "exp": 1095.650074962517,
+	  "stone": 1442.2773613193394,
+	  "gold": 126.51274362818589,
+	  "iron": 247.35982008995492,
+	  "string": 4.320539730134935,
+	  "moonstone": 38.705867870332334,
+	  "wood": 663.2080959520238,
+	  "fish_specimen": 0
+	 },
+	 "S500": {
+	  "exp": 39.4,
+	  "stone": 43.8,
+	  "gold": 68.6,
+	  "iron": 78.4,
+	  "string": 3.2,
+	  "moonstone": 24.6,
+	  "wood": 29.4,
+	  "fish_specimen": 0
+	 },
+	 "Jabberwockeeee": {
+	  "exp": 38.4,
+	  "stone": 280.2,
+	  "gold": 1,
+	  "iron": 5,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 9,
+	  "fish_specimen": 0
+	 },
+	 "MoonsamaMilker": {
+	  "exp": 372.08335832083895,
+	  "stone": 578.6257871064465,
+	  "gold": 43.77091454272863,
+	  "iron": 82.51994002998498,
+	  "string": 1.6401799100449783,
+	  "moonstone": 12.701955956777443,
+	  "wood": 297.2026986506746,
+	  "fish_specimen": 0
+	 },
+	 "FlouryWinner7": {
+	  "exp": 19.6,
+	  "stone": 73.4,
+	  "gold": 4.2,
+	  "iron": 3.2,
+	  "string": 0,
+	  "moonstone": 0.4,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "exofran1": {
+	  "exp": 165.4,
+	  "stone": 344,
+	  "gold": 25.2,
+	  "iron": 22.8,
+	  "string": 0.8,
+	  "moonstone": 10.270195595677745,
+	  "wood": 17.8,
+	  "fish_specimen": 0
+	 },
+	 "KingCryptok": {
+	  "exp": 495.08335832083895,
+	  "stone": 471.42578710644653,
+	  "gold": 54.37091454272863,
+	  "iron": 97.31994002998498,
+	  "string": 2.0401799100449782,
+	  "moonstone": 20.101955956777445,
+	  "wood": 113.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "TidyG": {
+	  "exp": 375.28335832083894,
+	  "stone": 872.2257871064465,
+	  "gold": 45.77091454272863,
+	  "iron": 84.91994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 14.172151552455187,
+	  "wood": 115.20269865067462,
+	  "fish_specimen": 0
+	 },
+	 "KiingZay": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Dedyganchik": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "nicomoon": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Monisama1": {
+	  "exp": 0,
+	  "stone": 0.2,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "M4D2510": {
+	  "exp": 5.6,
+	  "stone": 0.4,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0.8,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 63.8,
+	  "fish_specimen": 0
+	 },
+	 "Jon666es": {
+	  "exp": 756.7667166416779,
+	  "stone": 1168.8515742128932,
+	  "gold": 84.34182908545726,
+	  "iron": 162.43988005996994,
+	  "string": 2.480359820089957,
+	  "moonstone": 26.67410750923263,
+	  "wood": 227.60539730134923,
+	  "fish_specimen": 0
+	 },
+	 "buraksezgin": {
+	  "exp": 74.2,
+	  "stone": 44,
+	  "gold": 13,
+	  "iron": 32,
+	  "string": 0,
+	  "moonstone": 3.8701955956777443,
+	  "wood": 8.6,
+	  "fish_specimen": 0
+	 },
+	 "Ricanito": {
+	  "exp": 1483.1334332833558,
+	  "stone": 2286.503148425786,
+	  "gold": 171.28365817091452,
+	  "iron": 330.2797601199399,
+	  "string": 4.960719640179914,
+	  "moonstone": 50.80782382710977,
+	  "wood": 480.41079460269845,
+	  "fish_specimen": 0
+	 },
+	 "WangWei0075": {
+	  "exp": 6.4,
+	  "stone": 220,
+	  "gold": 0,
+	  "iron": 0.2,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Hanjimono": {
+	  "exp": 2.4,
+	  "stone": 110.2,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 68.6,
+	  "fish_specimen": 0
+	 },
+	 "Bubz589": {
+	  "exp": 429.28335832083894,
+	  "stone": 620.8257871064466,
+	  "gold": 48.97091454272863,
+	  "iron": 94.11994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 14.972151552455188,
+	  "wood": 181.8026986506746,
+	  "fish_specimen": 5
+	 },
+	 "Limeydom": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 1.8,
+	  "fish_specimen": 0
+	 },
+	 "Wilbur710": {
+	  "exp": 745.366716641678,
+	  "stone": 942.8515742128931,
+	  "gold": 88.34182908545726,
+	  "iron": 174.63988005996995,
+	  "string": 2.480359820089957,
+	  "moonstone": 27.274107509232632,
+	  "wood": 227.60539730134923,
+	  "fish_specimen": 0
+	 },
+	 "ColdArtPulse": {
+	  "exp": 412.28335832083894,
+	  "stone": 484.6257871064465,
+	  "gold": 46.97091454272863,
+	  "iron": 83.31994002998498,
+	  "string": 1.6401799100449783,
+	  "moonstone": 16.501955956777444,
+	  "wood": 113.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "AMUlll": {
+	  "exp": 28.4,
+	  "stone": 60.6,
+	  "gold": 2,
+	  "iron": 17.6,
+	  "string": 0,
+	  "moonstone": 1.6701955956777446,
+	  "wood": 4,
+	  "fish_specimen": 2
+	 },
+	 "Ticket28": {
+	  "exp": 3.4,
+	  "stone": 2,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 165.2,
+	  "fish_specimen": 0
+	 },
+	 "SnakesNTornadoes": {
+	  "exp": 734.366716641678,
+	  "stone": 944.8515742128931,
+	  "gold": 87.94182908545726,
+	  "iron": 161.83988005996994,
+	  "string": 2.480359820089957,
+	  "moonstone": 28.203911913554887,
+	  "wood": 233.20539730134922,
+	  "fish_specimen": 0
+	 },
+	 "y_uncle_fester": {
+	  "exp": 730.1667166416779,
+	  "stone": 1094.6515742128931,
+	  "gold": 84.74182908545727,
+	  "iron": 161.43988005996994,
+	  "string": 2.480359820089957,
+	  "moonstone": 27.803911913554884,
+	  "wood": 252.60539730134923,
+	  "fish_specimen": 0
+	 },
+	 "Buzzaismydad": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "Cypher_Reader": {
+	  "exp": 109.2,
+	  "stone": 232.6,
+	  "gold": 8.6,
+	  "iron": 13,
+	  "string": 0,
+	  "moonstone": 4.270195595677745,
+	  "wood": 1.4,
+	  "fish_specimen": 0
+	 },
+	 "Piermatei": {
+	  "exp": 46.6,
+	  "stone": 162.6,
+	  "gold": 2.6,
+	  "iron": 11,
+	  "string": 0,
+	  "moonstone": 3.0701955956777445,
+	  "wood": 22.2,
+	  "fish_specimen": 0
+	 },
+	 "truedegen001": {
+	  "exp": 123,
+	  "stone": 19.8,
+	  "gold": 10.2,
+	  "iron": 35,
+	  "string": 0.4,
+	  "moonstone": 5.870195595677744,
+	  "wood": 2.6,
+	  "fish_specimen": 0
+	 },
+	 "DSama": {
+	  "exp": 446.08335832083895,
+	  "stone": 618.4257871064465,
+	  "gold": 51.57091454272863,
+	  "iron": 112.11994002998497,
+	  "string": 2.0401799100449782,
+	  "moonstone": 15.972151552455188,
+	  "wood": 157.00269865067463,
+	  "fish_specimen": 0
+	 },
+	 "Floresko": {
+	  "exp": 14.8,
+	  "stone": 16.6,
+	  "gold": 0,
+	  "iron": 5,
+	  "string": 0,
+	  "moonstone": 3.0701955956777445,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "AlansamaX": {
+	  "exp": 151.4,
+	  "stone": 29.6,
+	  "gold": 18.8,
+	  "iron": 35,
+	  "string": 0.2,
+	  "moonstone": 6.670195595677745,
+	  "wood": 51.2,
+	  "fish_specimen": 0
+	 },
+	 "Leviticus2933": {
+	  "exp": 11,
+	  "stone": 15.2,
+	  "gold": 0,
+	  "iron": 2,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 0.8,
+	  "fish_specimen": 0
+	 },
+	 "wangdoodle": {
+	  "exp": 500.88335832083897,
+	  "stone": 520.0257871064465,
+	  "gold": 70.77091454272863,
+	  "iron": 163.71994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 16.301955956777444,
+	  "wood": 113.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "MOVR2moon": {
+	  "exp": 12,
+	  "stone": 204.8,
+	  "gold": 0,
+	  "iron": 0.4,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0.2,
+	  "fish_specimen": 0
+	 },
+	 "JwestPhillySama": {
+	  "exp": 402.683358320839,
+	  "stone": 506.22578710644655,
+	  "gold": 51.77091454272863,
+	  "iron": 97.91994002998497,
+	  "string": 1.2401799100449784,
+	  "moonstone": 20.30195595677744,
+	  "wood": 114.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "Punkable": {
+	  "exp": 56.2,
+	  "stone": 83.4,
+	  "gold": 7.4,
+	  "iron": 19.4,
+	  "string": 0.8,
+	  "moonstone": 2.8701955956777443,
+	  "wood": 1.2,
+	  "fish_specimen": 0
+	 },
+	 "Metroid88": {
+	  "exp": 88.2,
+	  "stone": 94,
+	  "gold": 25.2,
+	  "iron": 44,
+	  "string": 0,
+	  "moonstone": 4.470195595677745,
+	  "wood": 7.2,
+	  "fish_specimen": 0
+	 },
+	 "gonzirasama": {
+	  "exp": 24.8,
+	  "stone": 20.2,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0.6,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 218.4,
+	  "fish_specimen": 0
+	 },
+	 "Diabetic_Medic69": {
+	  "exp": 104.6,
+	  "stone": 0,
+	  "gold": 11.6,
+	  "iron": 8,
+	  "string": 1,
+	  "moonstone": 2,
+	  "wood": 28.2,
+	  "fish_specimen": 25
+	 },
+	 "joey_pooq": {
+	  "exp": 422.6833583208389,
+	  "stone": 505.42578710644653,
+	  "gold": 57.970914542728636,
+	  "iron": 88.31994002998498,
+	  "string": 1.6401799100449783,
+	  "moonstone": 17.501955956777444,
+	  "wood": 113.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "ADACOY_EXO": {
+	  "exp": 38,
+	  "stone": 316.6,
+	  "gold": 2.2,
+	  "iron": 5.6,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 42.8,
+	  "fish_specimen": 0
+	 },
+	 "BiscuitDealz": {
+	  "exp": 2628.7835082458723,
+	  "stone": 3512.7805097451255,
+	  "gold": 318.79640179910047,
+	  "iron": 620.2395802098948,
+	  "string": 9.481259370314849,
+	  "moonstone": 94.18388729311984,
+	  "wood": 801.6188905547223,
+	  "fish_specimen": 0
+	 },
+	 "SnarlSama": {
+	  "exp": 1055.250074962517,
+	  "stone": 1766.0773613193396,
+	  "gold": 126.71274362818589,
+	  "iron": 244.95982008995492,
+	  "string": 3.720539730134935,
+	  "moonstone": 39.37606346601007,
+	  "wood": 354.2080959520238,
+	  "fish_specimen": 0
+	 },
+	 "ChaoticSama": {
+	  "exp": 16.4,
+	  "stone": 114.2,
+	  "gold": 0.6,
+	  "iron": 6.2,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 25.2,
+	  "fish_specimen": 0
+	 },
+	 "AndreyOTD": {
+	  "exp": 800.9667166416779,
+	  "stone": 959.4515742128931,
+	  "gold": 92.54182908545727,
+	  "iron": 169.23988005996995,
+	  "string": 3.680359820089957,
+	  "moonstone": 30.403911913554886,
+	  "wood": 238.20539730134922,
+	  "fish_specimen": 0
+	 },
+	 "n8playzz": {
+	  "exp": 44.4,
+	  "stone": 195,
+	  "gold": 2.8,
+	  "iron": 8,
+	  "string": 0,
+	  "moonstone": 1.4701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "NativeMonster5": {
+	  "exp": 354.683358320839,
+	  "stone": 731.4257871064465,
+	  "gold": 42.17091454272863,
+	  "iron": 82.31994002998498,
+	  "string": 1.2401799100449784,
+	  "moonstone": 12.701955956777443,
+	  "wood": 113.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "KSMvsthewrld": {
+	  "exp": 722.366716641678,
+	  "stone": 949.4515742128931,
+	  "gold": 84.34182908545726,
+	  "iron": 160.23988005996995,
+	  "string": 2.480359820089957,
+	  "moonstone": 25.403911913554886,
+	  "wood": 250.00539730134923,
+	  "fish_specimen": 0
+	 },
+	 "CheeseUnder": {
+	  "exp": 700.1667166416779,
+	  "stone": 938.4515742128931,
+	  "gold": 84.34182908545726,
+	  "iron": 160.23988005996995,
+	  "string": 2.480359820089957,
+	  "moonstone": 25.403911913554886,
+	  "wood": 227.60539730134923,
+	  "fish_specimen": 0
+	 },
+	 "MoonMission": {
+	  "exp": 0,
+	  "stone": 3.2,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 1.4,
+	  "fish_specimen": 0
+	 },
+	 "Ezesama1": {
+	  "exp": 174.8,
+	  "stone": 6.6,
+	  "gold": 32.2,
+	  "iron": 58.4,
+	  "string": 0.4,
+	  "moonstone": 9.4,
+	  "wood": 1.8,
+	  "fish_specimen": 0
+	 },
+	 "JAMESDDZA": {
+	  "exp": 16.2,
+	  "stone": 256,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "TheExoBob": {
+	  "exp": 42,
+	  "stone": 321.4,
+	  "gold": 0,
+	  "iron": 14.6,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "wgwelku": {
+	  "exp": 437.483358320839,
+	  "stone": 808.0257871064466,
+	  "gold": 50.37091454272863,
+	  "iron": 107.51994002998498,
+	  "string": 1.8401799100449785,
+	  "moonstone": 13.101955956777443,
+	  "wood": 120.60269865067461,
+	  "fish_specimen": 0
+	 },
+	 "FilthyNiki": {
+	  "exp": 58.2,
+	  "stone": 448,
+	  "gold": 0,
+	  "iron": 6.8,
+	  "string": 0,
+	  "moonstone": 2.2701955956777446,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "aBitBlinded": {
+	  "exp": 53.2,
+	  "stone": 0,
+	  "gold": 6.8,
+	  "iron": 2.8,
+	  "string": 0,
+	  "moonstone": 2.4701955956777444,
+	  "wood": 24,
+	  "fish_specimen": 25
+	 },
+	 "AslanHz": {
+	  "exp": 115.2,
+	  "stone": 5.4,
+	  "gold": 14.4,
+	  "iron": 13.6,
+	  "string": 0.4,
+	  "moonstone": 9.870195595677744,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "MRBronson": {
+	  "exp": 71.2,
+	  "stone": 0.8,
+	  "gold": 2.4,
+	  "iron": 3.2,
+	  "string": 0,
+	  "moonstone": 3.470195595677745,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "WIldDotAppeared": {
+	  "exp": 35.6,
+	  "stone": 83,
+	  "gold": 0,
+	  "iron": 1.8,
+	  "string": 0.2,
+	  "moonstone": 0,
+	  "wood": 14.8,
+	  "fish_specimen": 0
+	 },
+	 "MaxMadison450": {
+	  "exp": 90,
+	  "stone": 32,
+	  "gold": 12.2,
+	  "iron": 23.2,
+	  "string": 0.4,
+	  "moonstone": 3.2701955956777446,
+	  "wood": 2.8,
+	  "fish_specimen": 0
+	 },
+	 "JanosVNeumann": {
+	  "exp": 544.2833583208389,
+	  "stone": 534.2257871064465,
+	  "gold": 48.97091454272863,
+	  "iron": 119.71994002998497,
+	  "string": 2.2401799100449784,
+	  "moonstone": 14.901955956777442,
+	  "wood": 114.80269865067461,
+	  "fish_specimen": 0
+	 },
+	 "MoonsamX": {
+	  "exp": 540.6833583208389,
+	  "stone": 469.22578710644655,
+	  "gold": 83.57091454272863,
+	  "iron": 97.91994002998497,
+	  "string": 1.4401799100449784,
+	  "moonstone": 17.501955956777444,
+	  "wood": 120.00269865067462,
+	  "fish_specimen": 0
+	 },
+	 "SupersaiyaTH": {
+	  "exp": 113.8,
+	  "stone": 64,
+	  "gold": 21.8,
+	  "iron": 24.4,
+	  "string": 0,
+	  "moonstone": 5.870195595677744,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "_swey": {
+	  "exp": 0,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "levoit574": {
+	  "exp": 7.4,
+	  "stone": 125,
+	  "gold": 0.8,
+	  "iron": 1.8,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 17.2,
+	  "fish_specimen": 0
+	 },
+	 "Moonoituxido": {
+	  "exp": 7.2,
+	  "stone": 153.4,
+	  "gold": 1.4,
+	  "iron": 20.4,
+	  "string": 0,
+	  "moonstone": 0,
+	  "wood": 16,
+	  "fish_specimen": 0
+	 },
+	 "mzidov80": {
+	  "exp": 5,
+	  "stone": 0,
+	  "gold": 0,
+	  "iron": 0.2,
+	  "string": 0,
+	  "moonstone": 1.2701955956777444,
+	  "wood": 0,
+	  "fish_specimen": 0
+	 },
+	 "H3adHunter": {
+	  "exp": 185.2,
+	  "stone": 25.6,
+	  "gold": 19.4,
+	  "iron": 47.8,
+	  "string": 0.4,
+	  "moonstone": 3.4,
+	  "wood": 9.4,
+	  "fish_specimen": 0
+	 }
+	}
+]

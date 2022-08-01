@@ -1,0 +1,4444 @@
+[
+	{
+	 "Ishemaru": {
+	  "exp": 89.6,
+	  "wood": 44.6,
+	  "fish_specimen": 75,
+	  "stone": 17,
+	  "gold": 5.4,
+	  "iron": 1,
+	  "string": 0.4
+	 },
+	 "Mooncreap": {
+	  "exp": 55,
+	  "stone": 7.6,
+	  "fish_specimen": 50,
+	  "wood": 1
+	 },
+	 "kokopikos": {
+	  "exp": 77.2,
+	  "stone": 89.6,
+	  "wood": 5.4
+	 },
+	 "CalicoJackDPS": {
+	  "wood": 38,
+	  "stone": 2.2
+	 },
+	 "Julitoo98": {
+	  "wood": 23.6
+	 },
+	 "Robster007": {
+	  "exp": 139.4,
+	  "stone": 142.8,
+	  "fish_specimen": 100,
+	  "gold": 4.4,
+	  "iron": 16.8
+	 },
+	 "Hagenoma": {
+	  "exp": 112.4,
+	  "fish_specimen": 50
+	 },
+	 "EXOKINGDOMS": {
+	  "exp": 44.6,
+	  "stone": 38.4,
+	  "wood": 54.4,
+	  "gold": 2.6,
+	  "iron": 1.4
+	 },
+	 "Guitarman_wc": {
+	  "exp": 16.4,
+	  "wood": 22.8,
+	  "stone": 113.6,
+	  "iron": 1
+	 },
+	 "dinonutsinho": {
+	  "exp": 291.2,
+	  "wood": 36.2,
+	  "stone": 23,
+	  "iron": 28.2,
+	  "fish_specimen": 100,
+	  "gold": 6.4,
+	  "string": 0.4
+	 },
+	 "HenkTheTank23": {
+	  "exp": 144.8,
+	  "stone": 168.8,
+	  "wood": 32.4,
+	  "gold": 1.4,
+	  "iron": 20.6,
+	  "fish_specimen": 50
+	 },
+	 "Orangenox1": {
+	  "exp": 278.6
+	 },
+	 "MarcoRo": {
+	  "exp": 2.6,
+	  "stone": 174.8,
+	  "iron": 1.8
+	 },
+	 "Ant_Y": [],
+	 "elektropedro": {
+	  "exp": 63.6,
+	  "stone": 23,
+	  "wood": 3.2,
+	  "iron": 23.6,
+	  "gold": 4.2
+	 },
+	 "GreedyJoshua": {
+	  "exp": 44,
+	  "stone": 88.6,
+	  "iron": 2,
+	  "gold": 3.6
+	 },
+	 "NonFungibleTom": {
+	  "exp": 51.4,
+	  "wood": 2.4,
+	  "gold": 1,
+	  "stone": 2.6,
+	  "iron": 13
+	 },
+	 "NDCrypto": {
+	  "exp": 1,
+	  "wood": 10.8,
+	  "fish_specimen": 50,
+	  "stone": 10.6
+	 },
+	 "DaveyDC_": {
+	  "exp": 107.4,
+	  "fish_specimen": 125,
+	  "stone": 3
+	 },
+	 "fr0ntrunn3r": {
+	  "exp": 71.6,
+	  "string": 0.8,
+	  "gold": 7.2,
+	  "iron": 5
+	 },
+	 "MZIEMSKI": {
+	  "exp": 7.8,
+	  "stone": 10.4,
+	  "iron": 0.2,
+	  "wood": 1.2
+	 },
+	 "FanaticDuck7476": {
+	  "exp": 41.2,
+	  "stone": 19.2,
+	  "iron": 27,
+	  "fish_specimen": 50,
+	  "string": 0.4,
+	  "gold": 21.4
+	 },
+	 "w3njuzu": {
+	  "exp": 169.2,
+	  "iron": 0.4,
+	  "fish_specimen": 50,
+	  "wood": 48.6,
+	  "stone": 38.4,
+	  "string": 7,
+	  "gold": 3.2
+	 },
+	 "Donniebigbags": {
+	  "exp": 705.6,
+	  "fish_specimen": 899
+	 },
+	 "Ace556": {
+	  "exp": 313.6,
+	  "iron": 76.6,
+	  "gold": 18.4,
+	  "fish_specimen": 75,
+	  "stone": 1.2,
+	  "string": 0.8
+	 },
+	 "masama001": {
+	  "exp": 128.8,
+	  "stone": 0.6,
+	  "iron": 0.4,
+	  "string": 1.8,
+	  "gold": 4
+	 },
+	 "buchachoss": {
+	  "exp": 15
+	 },
+	 "Momsama": {
+	  "exp": 102.2,
+	  "stone": 100.6,
+	  "string": 0.4,
+	  "wood": 0.6,
+	  "iron": 4.2,
+	  "gold": 3.2,
+	  "fish_specimen": 75
+	 },
+	 "theJimmo": {
+	  "exp": 231.4,
+	  "stone": 3.2,
+	  "fish_specimen": 75,
+	  "iron": 56,
+	  "gold": 10,
+	  "string": 0.2
+	 },
+	 "Rawanid": [],
+	 "Gabatronik13": {
+	  "wood": 3.6
+	 },
+	 "Ayrrrr": [],
+	 "Synaptic0n": {
+	  "exp": 117.2,
+	  "fish_specimen": 50,
+	  "gold": 2.6,
+	  "iron": 16,
+	  "stone": 137
+	 },
+	 "YMSpring1": {
+	  "exp": 317.8,
+	  "gold": 34.2,
+	  "iron": 72.4,
+	  "string": 0.6,
+	  "wood": 1.4,
+	  "stone": 39.8
+	 },
+	 "Frnndoo": {
+	  "exp": 76.2,
+	  "stone": 333.6,
+	  "string": 0.2,
+	  "wood": 7.4,
+	  "gold": 8,
+	  "iron": 14.4
+	 },
+	 "CrudeArtist4591": {
+	  "wood": 2
+	 },
+	 "Klinggaard": {
+	  "exp": 220.6,
+	  "wood": 82.6,
+	  "gold": 43.4,
+	  "string": 1.6,
+	  "stone": 0.8,
+	  "iron": 93.4
+	 },
+	 "mrsergiomottola": {
+	  "exp": 2.8,
+	  "stone": 10
+	 },
+	 "BigSals1": {
+	  "exp": 7.4,
+	  "stone": 139.4,
+	  "iron": 3,
+	  "wood": 23.6
+	 },
+	 "SophonTrisol": {
+	  "exp": 8,
+	  "stone": 62.6,
+	  "wood": 5.4,
+	  "iron": 1
+	 },
+	 "SniffSama": {
+	  "exp": 106.2,
+	  "stone": 24.6,
+	  "fish_specimen": 50,
+	  "string": 0.4,
+	  "wood": 3,
+	  "gold": 12.8,
+	  "iron": 6.6
+	 },
+	 "AmsAms": [],
+	 "Pattaya69": {
+	  "exp": 182.4,
+	  "fish_specimen": 232
+	 },
+	 "Desp3rad0": {
+	  "exp": 92.8,
+	  "stone": 66,
+	  "fish_specimen": 49,
+	  "string": 1.2,
+	  "iron": 7.2,
+	  "gold": 4.8
+	 },
+	 "ZahPiratesama": {
+	  "stone": 2.8
+	 },
+	 "Baba_MIES": {
+	  "exp": 182.8,
+	  "stone": 271.4,
+	  "string": 0.4,
+	  "fish_specimen": 25,
+	  "iron": 42,
+	  "wood": 20.4,
+	  "gold": 13.4
+	 },
+	 "opositor69": {
+	  "exp": 6,
+	  "stone": 53,
+	  "wood": 28.2,
+	  "iron": 1.8
+	 },
+	 "chagenko": {
+	  "exp": 67.2,
+	  "stone": 105.2,
+	  "wood": 2.8,
+	  "gold": 2,
+	  "iron": 10.8
+	 },
+	 "HeaX_MC": [],
+	 "Shahataninja": {
+	  "exp": 2.4,
+	  "stone": 77,
+	  "wood": 1.6
+	 },
+	 "nassama": {
+	  "exp": 8.4,
+	  "stone": 26.6,
+	  "wood": 3.8,
+	  "iron": 1.2
+	 },
+	 "Pochorunner9": {
+	  "exp": 10.8,
+	  "stone": 1,
+	  "iron": 2.6
+	 },
+	 "BUBBOsama": {
+	  "fish_specimen": 100
+	 },
+	 "Klepic": {
+	  "exp": 68.6,
+	  "fish_specimen": 50,
+	  "stone": 10,
+	  "wood": 0.2,
+	  "iron": 19.6,
+	  "gold": 5.4
+	 },
+	 "RoastedGganbu": {
+	  "exp": 56.2,
+	  "wood": 113.8,
+	  "stone": 53.4,
+	  "iron": 6.8,
+	  "gold": 8.8,
+	  "string": 0.2
+	 },
+	 "NiftyBoom": {
+	  "exp": 43.4,
+	  "wood": 6.8,
+	  "fish_specimen": 50
+	 },
+	 "Cotton118443": {
+	  "exp": 57,
+	  "stone": 48.4,
+	  "iron": 6.4,
+	  "wood": 204.8,
+	  "fish_specimen": 121
+	 },
+	 "Slooties": {
+	  "exp": 185.6,
+	  "stone": 133.2,
+	  "wood": 27.6,
+	  "gold": 16.2,
+	  "string": 0.4,
+	  "iron": 43.4,
+	  "fish_specimen": 50
+	 },
+	 "koiranluumies69": {
+	  "exp": 219.8,
+	  "stone": 297.4,
+	  "iron": 74.4,
+	  "gold": 22.2
+	 },
+	 "pluzbrut": {
+	  "exp": 4.8,
+	  "stone": 230.4,
+	  "iron": 0.2
+	 },
+	 "Homidzo": {
+	  "exp": 73.4,
+	  "gold": 30.6,
+	  "iron": 30.2
+	 },
+	 "McGee118": [],
+	 "30Doradus": {
+	  "exp": 125.2,
+	  "stone": 148.6,
+	  "fish_specimen": 50,
+	  "wood": 17.4,
+	  "iron": 15.4,
+	  "gold": 7.4
+	 },
+	 "JordiHidalgo": {
+	  "exp": 19,
+	  "wood": 3.4,
+	  "stone": 323.8,
+	  "iron": 3.2
+	 },
+	 "GLEXOCEAN": {
+	  "exp": 159.2,
+	  "stone": 106.4,
+	  "gold": 12.4,
+	  "iron": 83.2
+	 },
+	 "juudje82": {
+	  "exp": 173.2,
+	  "stone": 126,
+	  "fish_specimen": 50,
+	  "string": 0.4,
+	  "iron": 19.2,
+	  "wood": 8.8,
+	  "gold": 0.2
+	 },
+	 "polka_spin": {
+	  "exp": 115.4,
+	  "stone": 10,
+	  "fish_specimen": 100,
+	  "iron": 24.2,
+	  "gold": 5.2
+	 },
+	 "Kany8909": {
+	  "exp": 22,
+	  "stone": 189.2,
+	  "gold": 5.2,
+	  "iron": 4.4
+	 },
+	 "PharrellMoonsama": [],
+	 "sundayspecial01": {
+	  "exp": 150.4,
+	  "wood": 0.4,
+	  "stone": 4.2
+	 },
+	 "CiaoCiaoGrande": {
+	  "exp": 56.4,
+	  "stone": 220.4,
+	  "fish_specimen": 50,
+	  "string": 0.4,
+	  "iron": 4,
+	  "wood": 143.4
+	 },
+	 "Lokitohunter": {
+	  "exp": 19.8,
+	  "stone": 84.8,
+	  "wood": 31,
+	  "string": 0.4,
+	  "iron": 2.8,
+	  "gold": 0.4
+	 },
+	 "sardibelin2": [],
+	 "Sagey420": {
+	  "exp": 26.6,
+	  "stone": 110.4,
+	  "wood": 9.8
+	 },
+	 "UnicornG9923": [],
+	 "ddc_23": {
+	  "exp": 98.6,
+	  "stone": 226.6,
+	  "iron": 20,
+	  "wood": 3
+	 },
+	 "GnomeFrits": {
+	  "exp": 194,
+	  "stone": 204.8,
+	  "iron": 19.2,
+	  "gold": 9.6,
+	  "wood": 49.8,
+	  "string": 0.2
+	 },
+	 "0xxDarklight88xx": {
+	  "exp": 2.4,
+	  "gold": 0.6
+	 },
+	 "SnakesNTornadoes": {
+	  "exp": 88.6,
+	  "stone": 8.6,
+	  "wood": 4,
+	  "fish_specimen": 75,
+	  "gold": 3,
+	  "iron": 1.8
+	 },
+	 "vision2003": {
+	  "exp": 0.6
+	 },
+	 "TumzCartier": {
+	  "exp": 0.4,
+	  "stone": 460.8,
+	  "wood": 8.2
+	 },
+	 "Camionazo69": {
+	  "exp": 18.2,
+	  "stone": 141.4,
+	  "iron": 0.8,
+	  "wood": 111.6
+	 },
+	 "yellowvirus": {
+	  "exp": 15.4,
+	  "wood": 38,
+	  "stone": 85.6,
+	  "string": 0.2,
+	  "fish_specimen": 10
+	 },
+	 "exoivansama": {
+	  "wood": 3
+	 },
+	 "OzOn185Hz": {
+	  "exp": 342,
+	  "stone": 137,
+	  "iron": 67.8,
+	  "string": 2.4,
+	  "wood": 4.8,
+	  "gold": 26.8
+	 },
+	 "axantasama": {
+	  "exp": 81.2,
+	  "stone": 65.2,
+	  "iron": 28,
+	  "gold": 7.6,
+	  "wood": 15
+	 },
+	 "CryptoHunterG1": [],
+	 "RedHarvest11": {
+	  "exp": 49,
+	  "stone": 53.8,
+	  "gold": 4.4,
+	  "iron": 5.8
+	 },
+	 "Toritoo": {
+	  "exp": 32.6,
+	  "iron": 47,
+	  "gold": 5.2,
+	  "stone": 108,
+	  "string": 0.8
+	 },
+	 "Rigo0": {
+	  "exp": 173.4,
+	  "stone": 95.6,
+	  "fish_specimen": 50,
+	  "iron": 31.4,
+	  "wood": 9.2,
+	  "gold": 0.8,
+	  "string": 0.8
+	 },
+	 "Svenripa1": {
+	  "stone": 14.2
+	 },
+	 "Abulion1": {
+	  "fish_specimen": 49
+	 },
+	 "KingCanaris1985": {
+	  "exp": 87.4,
+	  "iron": 33.4,
+	  "string": 1.2,
+	  "stone": 104,
+	  "gold": 12.8,
+	  "wood": 8.6
+	 },
+	 "JohnnyDot92": {
+	  "exp": 5.2,
+	  "stone": 18.8,
+	  "gold": 2,
+	  "iron": 17
+	 },
+	 "Sanpitaxx": {
+	  "exp": 26.8,
+	  "stone": 55.6,
+	  "wood": 1,
+	  "iron": 2.4,
+	  "gold": 0.8
+	 },
+	 "XelooCrypto": {
+	  "exp": 18.4,
+	  "string": 0.8,
+	  "fish_specimen": 50,
+	  "stone": 0.6,
+	  "wood": 3.4
+	 },
+	 "DipsetLoei": {
+	  "exp": 47.2,
+	  "stone": 92.6,
+	  "gold": 6.4,
+	  "wood": 38.4,
+	  "iron": 23.4,
+	  "fish_specimen": 50
+	 },
+	 "BiscuitDealz": {
+	  "exp": 256.8,
+	  "stone": 180,
+	  "string": 0.2,
+	  "fish_specimen": 50,
+	  "iron": 74.4,
+	  "gold": 13
+	 },
+	 "MoonVikinG1": {
+	  "exp": 311.2,
+	  "stone": 61.6,
+	  "iron": 81.8,
+	  "fish_specimen": 50,
+	  "gold": 34,
+	  "string": 1.2,
+	  "wood": 3.2
+	 },
+	 "ElMel444": {
+	  "exp": 5.4,
+	  "stone": 229.6
+	 },
+	 "Madfires": {
+	  "exp": 174.8,
+	  "iron": 27.4,
+	  "stone": 17.8,
+	  "string": 1.8,
+	  "wood": 11.6,
+	  "gold": 2.4
+	 },
+	 "BruceL337": {
+	  "exp": 143.8,
+	  "stone": 192,
+	  "fish_specimen": 75,
+	  "iron": 20.8,
+	  "wood": 89.6,
+	  "gold": 1.6,
+	  "string": 0.2
+	 },
+	 "boostdmg01": {
+	  "exp": 128.8,
+	  "stone": 268.8,
+	  "string": 1,
+	  "iron": 34,
+	  "wood": 24.4,
+	  "gold": 18.8,
+	  "fish_specimen": 20
+	 },
+	 "edocean": {
+	  "exp": 74.6,
+	  "gold": 3.2,
+	  "wood": 16.6,
+	  "stone": 49.6,
+	  "string": 1,
+	  "iron": 10.2
+	 },
+	 "EXOkarass91": {
+	  "exp": 77.8,
+	  "gold": 9.6,
+	  "iron": 4.8
+	 },
+	 "CryptoSnoes": {
+	  "exp": 29.2,
+	  "fish_specimen": 37
+	 },
+	 "CarlesRM96": {
+	  "exp": 66.2,
+	  "stone": 221.4,
+	  "wood": 9.4,
+	  "iron": 15.6,
+	  "string": 0.2,
+	  "gold": 5.2
+	 },
+	 "samasamajef": {
+	  "wood": 0.4
+	 },
+	 "GXG_I_WILL_DM_U": {
+	  "exp": 117.4,
+	  "stone": 191.4,
+	  "gold": 13.8,
+	  "iron": 13.4
+	 },
+	 "Zampatortitas": {
+	  "exp": 130.2,
+	  "stone": 120,
+	  "iron": 57.4,
+	  "string": 0.4,
+	  "wood": 1,
+	  "gold": 22.4
+	 },
+	 "PilotSaucer485": {
+	  "exp": 5,
+	  "stone": 7.2
+	 },
+	 "Gamsamt": {
+	  "exp": 38.8,
+	  "stone": 242.8,
+	  "gold": 0.8,
+	  "iron": 11
+	 },
+	 "Shosho75": {
+	  "exp": 28.2,
+	  "iron": 0.4,
+	  "stone": 12.6,
+	  "gold": 1.6,
+	  "wood": 12.8
+	 },
+	 "MrAlbertipolet98": {
+	  "exp": 110.2,
+	  "stone": 142.2,
+	  "gold": 16.8,
+	  "iron": 67.2,
+	  "string": 0.2,
+	  "wood": 26
+	 },
+	 "Waxiers": {
+	  "exp": 40.8,
+	  "gold": 1.8,
+	  "stone": 95.2,
+	  "iron": 9.8
+	 },
+	 "Energyjack707": {
+	  "exp": 52.4,
+	  "iron": 59.8,
+	  "stone": 25.6,
+	  "gold": 12.8
+	 },
+	 "migueldotdot": {
+	  "exp": 35.8,
+	  "wood": 2.2,
+	  "stone": 2.8,
+	  "iron": 8,
+	  "gold": 0.8
+	 },
+	 "BlackbeardDPS": {
+	  "exp": 108.6,
+	  "stone": 209.2,
+	  "wood": 8.2,
+	  "string": 0.8,
+	  "iron": 24.4,
+	  "gold": 0.8
+	 },
+	 "oozaru_sama": {
+	  "exp": 113.6,
+	  "iron": 6,
+	  "gold": 5.6,
+	  "wood": 15.6,
+	  "stone": 69.4,
+	  "fish_specimen": 100
+	 },
+	 "FilthyNiki": {
+	  "exp": 28.2,
+	  "iron": 6.8,
+	  "stone": 460.8
+	 },
+	 "AsierAvila": [],
+	 "aggelosspirog1": {
+	  "exp": 49.8,
+	  "stone": 26.6,
+	  "gold": 2,
+	  "iron": 7.2
+	 },
+	 "Moonsama764": [],
+	 "Woden76": {
+	  "exp": 129.6,
+	  "stone": 299.6,
+	  "gold": 2.4,
+	  "wood": 2.6,
+	  "iron": 17.4,
+	  "fish_specimen": 100
+	 },
+	 "0xTonesama": {
+	  "exp": 104.8,
+	  "stone": 0.8,
+	  "iron": 1.2,
+	  "fish_specimen": 110
+	 },
+	 "MarcMarcelle": {
+	  "exp": 2.2,
+	  "fish_specimen": 50,
+	  "stone": 95.6,
+	  "iron": 14
+	 },
+	 "Jlsalcedo1997": {
+	  "exp": 106,
+	  "iron": 40.6,
+	  "stone": 96,
+	  "gold": 7.4,
+	  "string": 1.2
+	 },
+	 "Aadii8430": {
+	  "exp": 25.4,
+	  "stone": 122.2,
+	  "iron": 4
+	 },
+	 "Abbas_TF": {
+	  "exp": 32.4,
+	  "stone": 195.6,
+	  "iron": 4.8
+	 },
+	 "w124eth": {
+	  "exp": 26.6,
+	  "stone": 355
+	 },
+	 "MikeyScoot3127": {
+	  "exp": 165.6,
+	  "string": 1.2,
+	  "iron": 25.2,
+	  "gold": 20.2,
+	  "wood": 3,
+	  "fish_specimen": 50
+	 },
+	 "Thegardenome": {
+	  "exp": 35.6,
+	  "wood": 3.4,
+	  "stone": 217.6,
+	  "iron": 7.4
+	 },
+	 "McShandy": {
+	  "exp": 23.2,
+	  "stone": 254.4,
+	  "fish_specimen": 50,
+	  "wood": 11.8
+	 },
+	 "KstarMc": {
+	  "exp": 1,
+	  "iron": 17.2,
+	  "gold": 6.2,
+	  "wood": 21.8
+	 },
+	 "B4ngbra": [],
+	 "bytaurus13": {
+	  "exp": 3.2,
+	  "wood": 9.2,
+	  "stone": 23.6
+	 },
+	 "aemonk1": {
+	  "exp": 53.4,
+	  "stone": 327.6,
+	  "wood": 17.6,
+	  "iron": 2.4
+	 },
+	 "KinoFelix": {
+	  "exp": 4.2,
+	  "wood": 69.6,
+	  "stone": 43.6,
+	  "string": 0.2
+	 },
+	 "satchitanandaa": {
+	  "exp": 137.4,
+	  "gold": 12.6,
+	  "string": 0.2,
+	  "iron": 36.4,
+	  "wood": 3.4,
+	  "stone": 37.2
+	 },
+	 "asitxu50": {
+	  "wood": 11
+	 },
+	 "Tjolpie": {
+	  "exp": 95.2,
+	  "iron": 15.6,
+	  "stone": 126.8,
+	  "wood": 16.4,
+	  "gold": 6.6
+	 },
+	 "BetrayedOrc": {
+	  "exp": 88.4,
+	  "stone": 303.6,
+	  "iron": 6.4,
+	  "gold": 2.8,
+	  "string": 0.4
+	 },
+	 "K2saman": {
+	  "exp": 47.2,
+	  "iron": 10.6,
+	  "stone": 40.6,
+	  "wood": 31.4
+	 },
+	 "SubstraKnight": [],
+	 "Gatorkorps": {
+	  "exp": 27.2,
+	  "stone": 409.6,
+	  "gold": 1.2,
+	  "wood": 6.8,
+	  "iron": 8
+	 },
+	 "VIPSAMA": {
+	  "exp": 12.2,
+	  "wood": 5.8,
+	  "gold": 9,
+	  "stone": 9.8
+	 },
+	 "Samaforlife": {
+	  "exp": 110,
+	  "string": 4.2,
+	  "wood": 30
+	 },
+	 "DolfieChaos": {
+	  "exp": 2.4,
+	  "wood": 7.2,
+	  "stone": 204.8
+	 },
+	 "Bubbl3_eth": {
+	  "exp": 65,
+	  "stone": 177.4,
+	  "gold": 6.6,
+	  "wood": 6.6,
+	  "iron": 15
+	 },
+	 "TicketSmasher": {
+	  "exp": 21.4,
+	  "wood": 246.8,
+	  "iron": 43.2,
+	  "gold": 3.6,
+	  "string": 1
+	 },
+	 "MeijerTime": {
+	  "exp": 21.2,
+	  "stone": 138.4,
+	  "iron": 9.6,
+	  "gold": 1.2,
+	  "wood": 12.6
+	 },
+	 "polkamendot": {
+	  "exp": 12.6,
+	  "stone": 46.2,
+	  "iron": 7.6,
+	  "gold": 2
+	 },
+	 "PabloFF9": {
+	  "exp": 1.4,
+	  "stone": 32.4
+	 },
+	 "Dion_sama": {
+	  "exp": 140,
+	  "stone": 128.4,
+	  "wood": 2.4,
+	  "iron": 48.4,
+	  "gold": 7.2
+	 },
+	 "StonyLobster822": {
+	  "exp": 1,
+	  "string": 0.2
+	 },
+	 "GarSitor": {
+	  "exp": 3.2,
+	  "iron": 2.6,
+	  "gold": 1.6,
+	  "wood": 30,
+	  "stone": 0.2
+	 },
+	 "CarnageTime": {
+	  "exp": 81.2,
+	  "wood": 360.8,
+	  "iron": 17.6,
+	  "string": 0.4,
+	  "gold": 5.8
+	 },
+	 "Yeeeyiii": {
+	  "exp": 31.8,
+	  "stone": 78.6,
+	  "wood": 9
+	 },
+	 "Moizak": {
+	  "exp": 14.8,
+	  "stone": 230,
+	  "wood": 0.4,
+	  "iron": 3.2
+	 },
+	 "Kolumbas4": {
+	  "iron": 39.2,
+	  "gold": 5.4,
+	  "wood": 24,
+	  "stone": 22.4,
+	  "string": 0.4
+	 },
+	 "Moonsama263": {
+	  "exp": 82.2,
+	  "wood": 4.2,
+	  "string": 0.2,
+	  "iron": 6,
+	  "gold": 36.6
+	 },
+	 "Sc0tciad6": {
+	  "exp": 6.6,
+	  "stone": 118.8,
+	  "iron": 1
+	 },
+	 "ThePhunky1": {
+	  "exp": 4.8,
+	  "stone": 45.8
+	 },
+	 "Grandlz": {
+	  "exp": 11.8,
+	  "wood": 45.6,
+	  "stone": 87.4,
+	  "gold": 1.8,
+	  "iron": 3.2
+	 },
+	 "SoberPhil": {
+	  "exp": 104.8,
+	  "wood": 15.2,
+	  "stone": 160.4,
+	  "iron": 21.6,
+	  "fish_specimen": 50
+	 },
+	 "Koxed": [],
+	 "DarnSama": {
+	  "exp": 103.2,
+	  "stone": 24.6,
+	  "string": 0.4,
+	  "fish_specimen": 25,
+	  "gold": 5.2,
+	  "iron": 11.8
+	 },
+	 "JuliooCrypto": {
+	  "exp": 36.8,
+	  "fish_specimen": 50
+	 },
+	 "Dudelydoo": {
+	  "exp": 43.4,
+	  "stone": 153.6,
+	  "iron": 8.4,
+	  "gold": 1.2,
+	  "string": 1,
+	  "fish_specimen": 21,
+	  "wood": 162.8
+	 },
+	 "vonyi": {
+	  "exp": 6.4,
+	  "fish_specimen": 109
+	 },
+	 "Sappyo": {
+	  "exp": 7.6,
+	  "wood": 64
+	 },
+	 "D3adGhast": {
+	  "exp": 0.6,
+	  "wood": 41.6
+	 },
+	 "LJSilverDPS": {
+	  "exp": 55.2,
+	  "stone": 133.4,
+	  "gold": 0.8,
+	  "string": 0.4,
+	  "iron": 9.6
+	 },
+	 "smtan0x": {
+	  "exp": 1.4,
+	  "wood": 0.6,
+	  "stone": 299.2
+	 },
+	 "magicpini": [],
+	 "BABY_LOKITO": {
+	  "exp": 1.4,
+	  "stone": 1.6,
+	  "wood": 0.8,
+	  "fish_specimen": 70
+	 },
+	 "TonyMo0ntana33": {
+	  "fish_specimen": 50
+	 },
+	 "TurkeyBurglar": {
+	  "exp": 8,
+	  "wood": 6.6,
+	  "stone": 16.2,
+	  "fish_specimen": 124,
+	  "iron": 2.8
+	 },
+	 "Divisor9804": {
+	  "exp": 49,
+	  "stone": 371.2,
+	  "string": 0.8,
+	  "wood": 25.6,
+	  "gold": 2.2,
+	  "iron": 12.4
+	 },
+	 "TurnipSwede": {
+	  "wood": 2.2
+	 },
+	 "cobracapital": {
+	  "exp": 8
+	 },
+	 "BeyondTeam": {
+	  "exp": 20.4,
+	  "stone": 9.4,
+	  "wood": 2.4,
+	  "iron": 9.8,
+	  "gold": 1.4
+	 },
+	 "KillerSama66": {
+	  "exp": 238,
+	  "wood": 185.2,
+	  "gold": 30.6,
+	  "fish_specimen": 50,
+	  "string": 3
+	 },
+	 "MellowYellow556": {
+	  "exp": 35,
+	  "stone": 25.6,
+	  "wood": 151.8,
+	  "gold": 1.8,
+	  "string": 0.8,
+	  "iron": 7.8
+	 },
+	 "Miamisamaa": {
+	  "exp": 0.6,
+	  "stone": 23.6
+	 },
+	 "Ratatoesker": {
+	  "exp": 23.2,
+	  "stone": 79.2,
+	  "wood": 1
+	 },
+	 "BigLeague8": {
+	  "fish_specimen": 150
+	 },
+	 "MistaPocketsDPS": [],
+	 "McBeaster": [],
+	 "DrSeray": {
+	  "exp": 35,
+	  "stone": 371.2,
+	  "string": 0.4,
+	  "iron": 7.6,
+	  "wood": 47.4,
+	  "gold": 1.4
+	 },
+	 "Niphalite": {
+	  "wood": 151.4
+	 },
+	 "Cojak0028": {
+	  "exp": 23,
+	  "stone": 46.2,
+	  "iron": 2.8,
+	  "wood": 5.6
+	 },
+	 "RentasamaOnTop": {
+	  "exp": 42,
+	  "string": 0.8,
+	  "stone": 1,
+	  "wood": 5.8,
+	  "iron": 5.2
+	 },
+	 "DMA02": {
+	  "exp": 54.4,
+	  "stone": 95.8,
+	  "wood": 12.2,
+	  "string": 0.8,
+	  "iron": 13.8,
+	  "gold": 6.4
+	 },
+	 "SamaSuccess": {
+	  "exp": 10.2,
+	  "string": 0.4,
+	  "stone": 0.6
+	 },
+	 "JohnnyBlazzeee1": {
+	  "string": 1.4,
+	  "gold": 1
+	 },
+	 "Heilagr": {
+	  "exp": 15.8,
+	  "wood": 6.4,
+	  "stone": 8.4
+	 },
+	 "OneEyeRobbie": {
+	  "exp": 26.2,
+	  "stone": 461.4
+	 },
+	 "young_modesty": {
+	  "exp": 11.6,
+	  "stone": 401.2,
+	  "iron": 6.2
+	 },
+	 "RealDavyJones": [],
+	 "BlueBeardie": {
+	  "exp": 58.8,
+	  "stone": 87.6,
+	  "wood": 17.6,
+	  "string": 0.4
+	 },
+	 "CaptaineMoula": {
+	  "exp": 2.6,
+	  "stone": 43.6,
+	  "wood": 1.2
+	 },
+	 "EternalDragon43": {
+	  "exp": 3.4,
+	  "string": 0.4,
+	  "wood": 61.6
+	 },
+	 "GameOverMachine": {
+	  "exp": 199.4,
+	  "stone": 166.6,
+	  "gold": 10.8,
+	  "iron": 11.8,
+	  "string": 0.2
+	 },
+	 "fernandocripto": {
+	  "exp": 0.8,
+	  "wood": 104.4,
+	  "fish_specimen": 75,
+	  "stone": 0.6
+	 },
+	 "viindiesel": {
+	  "exp": 78.6,
+	  "stone": 217.6,
+	  "gold": 13.6,
+	  "string": 1,
+	  "iron": 29.2
+	 },
+	 "Mr_Martin3062": {
+	  "exp": 119.4,
+	  "stone": 74,
+	  "wood": 1.4,
+	  "gold": 6.6,
+	  "iron": 18.2,
+	  "fish_specimen": 75
+	 },
+	 "MacePenniless": {
+	  "exp": 23.4,
+	  "stone": 166.4,
+	  "wood": 2.2,
+	  "iron": 12.6,
+	  "gold": 1.8
+	 },
+	 "WolfKChaosDao": {
+	  "exp": 29.2,
+	  "stone": 281.6,
+	  "iron": 13.4,
+	  "wood": 30
+	 },
+	 "horimat": {
+	  "exp": 51.8,
+	  "wood": 10.8,
+	  "gold": 7.4,
+	  "stone": 41.6,
+	  "iron": 0.4
+	 },
+	 "GourmetPapi": {
+	  "exp": 68.8,
+	  "gold": 3.8,
+	  "stone": 77.6,
+	  "fish_specimen": 50,
+	  "iron": 22.6
+	 },
+	 "LAURENS_88": {
+	  "exp": 19.6,
+	  "stone": 418.6,
+	  "wood": 3.6
+	 },
+	 "JOHNY_TURBO": {
+	  "fish_specimen": 120
+	 },
+	 "IncredibleMook": {
+	  "exp": 36,
+	  "stone": 346.4,
+	  "iron": 21.4,
+	  "gold": 3.4
+	 },
+	 "SamaSlayer": {
+	  "exp": 231.2,
+	  "stone": 0.4,
+	  "string": 1.4,
+	  "gold": 12.8,
+	  "wood": 16
+	 },
+	 "Iluschi1": {
+	  "fish_specimen": 60
+	 },
+	 "chavoz1": {
+	  "exp": 101.6,
+	  "stone": 18.6,
+	  "gold": 4.8,
+	  "string": 1,
+	  "fish_specimen": 50,
+	  "iron": 15.8
+	 },
+	 "moonsama_193": {
+	  "exp": 68,
+	  "stone": 409.6,
+	  "wood": 7,
+	  "iron": 25.6,
+	  "gold": 1
+	 },
+	 "FoxVEE538": {
+	  "exp": 131.4,
+	  "stone": 358.4,
+	  "iron": 49.6,
+	  "string": 0.8,
+	  "gold": 28.8,
+	  "wood": 6
+	 },
+	 "MooNFTuur": {
+	  "exp": 25.6,
+	  "stone": 95.4,
+	  "wood": 4.6,
+	  "iron": 7.8
+	 },
+	 "zakji": {
+	  "exp": 46.8,
+	  "stone": 234.2,
+	  "iron": 3.8
+	 },
+	 "MoonsamaJona": {
+	  "exp": 67.8,
+	  "stone": 396.8,
+	  "wood": 9.4,
+	  "fish_specimen": 44,
+	  "iron": 13.6,
+	  "gold": 5.4
+	 },
+	 "Chopsama": {
+	  "exp": 26.2,
+	  "stone": 188.4,
+	  "string": 0.8
+	 },
+	 "VIPSAMA0": [],
+	 "pMrNL": {
+	  "exp": 32,
+	  "wood": 2.2,
+	  "stone": 40.4,
+	  "gold": 9.4,
+	  "iron": 5.8
+	 },
+	 "lesnik_utsa": {
+	  "exp": 19.8,
+	  "stone": 140.8,
+	  "iron": 0.4
+	 },
+	 "DotoshiKusamoto": {
+	  "exp": 12.2,
+	  "wood": 2.2,
+	  "stone": 55,
+	  "iron": 2.8
+	 },
+	 "DarkoStosic": {
+	  "string": 4.4,
+	  "iron": 29.8
+	 },
+	 "Bajaga": {
+	  "exp": 242.6,
+	  "wood": 19.6,
+	  "stone": 109.8,
+	  "gold": 20.8,
+	  "iron": 36.8,
+	  "string": 1.4
+	 },
+	 "JediSama": {
+	  "exp": 2,
+	  "wood": 13.8,
+	  "string": 0.2,
+	  "fish_specimen": 12
+	 },
+	 "TybibouneDPS": {
+	  "exp": 55,
+	  "stone": 274.4,
+	  "string": 0.2,
+	  "iron": 6
+	 },
+	 "Dedyganchik": {
+	  "exp": 87.4,
+	  "gold": 3.4,
+	  "iron": 0.2
+	 },
+	 "Jose_Hung": [],
+	 "Honeycomb_APE": {
+	  "exp": 0.6,
+	  "wood": 7
+	 },
+	 "Juan_Bokeboss": {
+	  "exp": 3.2,
+	  "stone": 77.2,
+	  "wood": 3
+	 },
+	 "Fetagreta": {
+	  "exp": 115,
+	  "stone": 360.8,
+	  "iron": 30.4,
+	  "wood": 1.2,
+	  "gold": 8.4
+	 },
+	 "GitanoTactico": [],
+	 "SammydSalmon": {
+	  "exp": 0.4,
+	  "wood": 0.2
+	 },
+	 "WarDaddy__": {
+	  "exp": 30.4,
+	  "stone": 381.4,
+	  "iron": 10.6
+	 },
+	 "jovenlancero": {
+	  "exp": 132.4,
+	  "stone": 76.2,
+	  "string": 0.6,
+	  "fish_specimen": 50,
+	  "iron": 30,
+	  "gold": 7.2,
+	  "wood": 9.8
+	 },
+	 "M4D2510": {
+	  "exp": 56.6,
+	  "iron": 3.4,
+	  "gold": 3.8,
+	  "stone": 38.4
+	 },
+	 "kokonutx": {
+	  "stone": 9.8,
+	  "fish_specimen": 99
+	 },
+	 "MHTowing": {
+	  "exp": 17.8,
+	  "stone": 246.6,
+	  "iron": 5.4,
+	  "gold": 2.6
+	 },
+	 "BirdmanRicky": {
+	  "exp": 39.6,
+	  "stone": 196.4,
+	  "wood": 1.6,
+	  "iron": 10.8,
+	  "gold": 3.8
+	 },
+	 "SooperSama": {
+	  "exp": 222.2,
+	  "stone": 10.4,
+	  "string": 1.4,
+	  "fish_specimen": 25,
+	  "iron": 0.6,
+	  "gold": 32
+	 },
+	 "buraksezgin": {
+	  "exp": 30.8,
+	  "iron": 1.8,
+	  "gold": 2.8,
+	  "stone": 17.8,
+	  "wood": 0.4
+	 },
+	 "ApeHodling": {
+	  "exp": 28.4,
+	  "string": 0.6,
+	  "gold": 1.6,
+	  "iron": 8
+	 },
+	 "DnbWizard": {
+	  "exp": 32.6,
+	  "wood": 11.4,
+	  "fish_specimen": 33
+	 },
+	 "gkhn0": {
+	  "wood": 7.8
+	 },
+	 "dutchiekiwi": {
+	  "exp": 54.2,
+	  "stone": 430.6,
+	  "iron": 19.8,
+	  "gold": 3.2
+	 },
+	 "MrTiggah": {
+	  "exp": 13.2,
+	  "fish_specimen": 93
+	 },
+	 "bacchist": {
+	  "exp": 24.8,
+	  "stone": 343.8,
+	  "wood": 0.8,
+	  "iron": 6
+	 },
+	 "OhhMushyPeas": {
+	  "exp": 53.6,
+	  "wood": 167.4,
+	  "gold": 1.8,
+	  "fish_specimen": 21,
+	  "string": 2.6,
+	  "iron": 5.6
+	 },
+	 "McForge_": {
+	  "exp": 24.4,
+	  "stone": 187.6,
+	  "iron": 7,
+	  "gold": 1.8,
+	  "wood": 0.6
+	 },
+	 "FinalBossSama": {
+	  "exp": 159.6,
+	  "string": 1.4,
+	  "wood": 1.6,
+	  "iron": 7.4
+	 },
+	 "Jedisama_King": {
+	  "exp": 22.2,
+	  "stone": 107.4,
+	  "wood": 2,
+	  "iron": 11.6,
+	  "gold": 2.6,
+	  "fish_specimen": 40
+	 },
+	 "KimmPr0": {
+	  "exp": 53,
+	  "wood": 13.6,
+	  "stone": 182,
+	  "iron": 4.4
+	 },
+	 "IndikoJohansen": {
+	  "exp": 73.4,
+	  "stone": 75.6,
+	  "string": 0.8,
+	  "iron": 31.2,
+	  "gold": 8.6,
+	  "wood": 0.2
+	 },
+	 "Sama4Life": {
+	  "exp": 21.4,
+	  "iron": 3.4,
+	  "wood": 73.8,
+	  "string": 0.8,
+	  "stone": 10
+	 },
+	 "Spitfire423": {
+	  "exp": 271.8,
+	  "iron": 14.8,
+	  "string": 4,
+	  "gold": 20.8,
+	  "wood": 22.8
+	 },
+	 "Mokujean": {
+	  "wood": 0.8
+	 },
+	 "Mushymag": {
+	  "exp": 102,
+	  "stone": 153.6,
+	  "iron": 26.8,
+	  "string": 0.4,
+	  "gold": 4,
+	  "wood": 2.2,
+	  "fish_specimen": 40
+	 },
+	 "ZenBerlin": {
+	  "exp": 40,
+	  "gold": 5.2,
+	  "stone": 146.4,
+	  "iron": 7.4
+	 },
+	 "SiNoVA79": {
+	  "exp": 14,
+	  "wood": 3.4,
+	  "iron": 1.8,
+	  "stone": 65
+	 },
+	 "Lemzypo": {
+	  "exp": 111.8,
+	  "stone": 109.2,
+	  "iron": 2.2,
+	  "string": 0.2,
+	  "wood": 31
+	 },
+	 "izmoonBoi": {
+	  "exp": 105.8,
+	  "wood": 2.8,
+	  "fish_specimen": 25,
+	  "iron": 0.4,
+	  "string": 0.2,
+	  "gold": 5.6
+	 },
+	 "YumiArts": {
+	  "exp": 39.4,
+	  "fish_specimen": 50,
+	  "stone": 55.2,
+	  "iron": 6.4
+	 },
+	 "TheShermannn": {
+	  "exp": 18.8,
+	  "stone": 179.2,
+	  "wood": 196.8,
+	  "iron": 42,
+	  "gold": 10,
+	  "string": 0.4
+	 },
+	 "MightyThanos20": {
+	  "exp": 103.2,
+	  "string": 3.6,
+	  "wood": 7.4,
+	  "stone": 12.2,
+	  "iron": 15,
+	  "gold": 20.8
+	 },
+	 "DejahThoris": {
+	  "exp": 0.8,
+	  "wood": 146.8,
+	  "stone": 32.6,
+	  "iron": 1.8
+	 },
+	 "Leviticus2933": [],
+	 "UnicFb910": {
+	  "exp": 28.8,
+	  "wood": 268.4,
+	  "fish_specimen": 50,
+	  "string": 0.4
+	 },
+	 "HeathleyETH": {
+	  "exp": 9.8,
+	  "stone": 22
+	 },
+	 "graficobibo": {
+	  "exp": 9.6,
+	  "stone": 38.4
+	 },
+	 "Man0nthem00ns": {
+	  "exp": 40.2,
+	  "wood": 4.8,
+	  "stone": 246.2,
+	  "gold": 1.2,
+	  "iron": 3.6
+	 },
+	 "LunarRain77": {
+	  "exp": 195.8,
+	  "wood": 254.8,
+	  "iron": 5.2,
+	  "gold": 4.6,
+	  "string": 0.6
+	 },
+	 "AaronTheDegen": {
+	  "exp": 17.2,
+	  "stone": 332.8,
+	  "iron": 2.6,
+	  "wood": 11.2
+	 },
+	 "Samagotshi": {
+	  "exp": 37.6,
+	  "stone": 27,
+	  "iron": 17.2,
+	  "wood": 9.4,
+	  "string": 1.2,
+	  "gold": 1.2
+	 },
+	 "JohnGalt9": {
+	  "exp": 146.8,
+	  "string": 5.4,
+	  "wood": 131.6
+	 },
+	 "MSAMA253": {
+	  "exp": 72.8,
+	  "fish_specimen": 50,
+	  "string": 0.4,
+	  "stone": 0.8,
+	  "gold": 16.6,
+	  "iron": 19.6
+	 },
+	 "elrupero": {
+	  "exp": 127,
+	  "stone": 216.8,
+	  "gold": 6.6,
+	  "iron": 21.6,
+	  "wood": 4.8,
+	  "string": 0.2
+	 },
+	 "xBardosama": {
+	  "exp": 52.6,
+	  "stone": 37,
+	  "wood": 5.4,
+	  "iron": 2,
+	  "gold": 2.6
+	 },
+	 "BeastMode006": {
+	  "exp": 10.4,
+	  "stone": 0.8,
+	  "string": 1.8,
+	  "gold": 8.4,
+	  "wood": 110.6,
+	  "iron": 16.4
+	 },
+	 "dgrmnwcz": {
+	  "stone": 6
+	 },
+	 "shtangla": {
+	  "exp": 69.6
+	 },
+	 "Tycho_S3050": {
+	  "exp": 90.8,
+	  "stone": 200.4,
+	  "string": 0.2,
+	  "wood": 7.2,
+	  "iron": 11.4
+	 },
+	 "masama003": {
+	  "exp": 213.6,
+	  "gold": 36.4,
+	  "iron": 11.8,
+	  "wood": 2.6,
+	  "string": 0.4,
+	  "stone": 12.8
+	 },
+	 "SuperSizeMe212": {
+	  "exp": 66.2,
+	  "stone": 12.8,
+	  "iron": 1.4,
+	  "wood": 26,
+	  "string": 4
+	 },
+	 "Moeeinvest": {
+	  "exp": 51.6,
+	  "stone": 324.6,
+	  "gold": 3.6,
+	  "iron": 24,
+	  "wood": 3.8
+	 },
+	 "TsyBeck": {
+	  "exp": 9,
+	  "stone": 326.6
+	 },
+	 "Bajadera96": {
+	  "exp": 190.8,
+	  "gold": 20.2,
+	  "iron": 76.6,
+	  "stone": 4.4,
+	  "string": 1
+	 },
+	 "Somsin_": {
+	  "fish_specimen": 125
+	 },
+	 "Joven_Disfruton": {
+	  "exp": 6,
+	  "stone": 194.2,
+	  "iron": 22.2,
+	  "wood": 2.8,
+	  "gold": 3
+	 },
+	 "coca_so": {
+	  "exp": 1,
+	  "stone": 0.6,
+	  "wood": 94.4,
+	  "string": 2.6,
+	  "iron": 23
+	 },
+	 "FrankiFresh": {
+	  "exp": 75.4,
+	  "iron": 15.6,
+	  "stone": 98.6,
+	  "gold": 6.6,
+	  "fish_specimen": 20,
+	  "string": 0.2,
+	  "wood": 3.2
+	 },
+	 "MonteCrypto": [],
+	 "Ezesama1": {
+	  "exp": 13.6,
+	  "stone": 324.2,
+	  "iron": 0.2
+	 },
+	 "PapaClarky": {
+	  "exp": 20.8,
+	  "stone": 65.4,
+	  "iron": 1.6,
+	  "wood": 1.2,
+	  "gold": 1
+	 },
+	 "aDestroyaa": {
+	  "exp": 19.6,
+	  "stone": 228.2,
+	  "gold": 2.6,
+	  "iron": 10.2
+	 },
+	 "MoonSamaMax": {
+	  "exp": 61.8,
+	  "stone": 273.6,
+	  "fish_specimen": 43,
+	  "iron": 19,
+	  "gold": 1
+	 },
+	 "Haze_666": {
+	  "exp": 5.2,
+	  "stone": 390.2,
+	  "string": 0.2
+	 },
+	 "amurioh": [],
+	 "KusamaMatata": {
+	  "exp": 2.8,
+	  "wood": 8.2,
+	  "stone": 89.6
+	 },
+	 "RikkoTroom": {
+	  "exp": 39.4,
+	  "gold": 45.8,
+	  "stone": 69,
+	  "iron": 43.6,
+	  "string": 0.4
+	 },
+	 "Moon_Bearer": {
+	  "exp": 42.6,
+	  "wood": 4.4,
+	  "stone": 99,
+	  "iron": 15
+	 },
+	 "Omnislasher45": {
+	  "exp": 145.8,
+	  "stone": 28.6,
+	  "wood": 16.2,
+	  "string": 3.2,
+	  "gold": 22
+	 },
+	 "Loco078": {
+	  "stone": 27.4
+	 },
+	 "bastralcs": [],
+	 "Maja__1234": [],
+	 "Padddo": {
+	  "exp": 18,
+	  "iron": 14,
+	  "stone": 264.4,
+	  "wood": 99.4
+	 },
+	 "ZainabM786": {
+	  "exp": 29
+	 },
+	 "DCstar84": {
+	  "exp": 5.4,
+	  "stone": 44.4
+	 },
+	 "MarluaMK": {
+	  "exp": 95.4,
+	  "stone": 281.8,
+	  "iron": 13.8,
+	  "fish_specimen": 27,
+	  "gold": 4,
+	  "wood": 12.8
+	 },
+	 "LunaticHigh12": {
+	  "exp": 148.6,
+	  "iron": 21.2,
+	  "stone": 6.4,
+	  "string": 1.2,
+	  "wood": 12.8,
+	  "gold": 3.6
+	 },
+	 "Jeroobie": {
+	  "exp": 48.8,
+	  "stone": 268.8,
+	  "wood": 7,
+	  "iron": 13.4,
+	  "gold": 7.8
+	 },
+	 "Viniuwuni": {
+	  "exp": 81.4,
+	  "stone": 35.2,
+	  "iron": 2.6,
+	  "wood": 56.4,
+	  "string": 0.4,
+	  "gold": 2.4
+	 },
+	 "Dragonmother555": {
+	  "exp": 3.2,
+	  "fish_specimen": 39
+	 },
+	 "MrIsmail786": {
+	  "exp": 38.6,
+	  "stone": 68,
+	  "wood": 12.2,
+	  "gold": 6.2,
+	  "iron": 20.6
+	 },
+	 "Donny_Dukes": {
+	  "wood": 18.8,
+	  "fish_specimen": 75
+	 },
+	 "S01stac3": {
+	  "wood": 1
+	 },
+	 "zCocopops": {
+	  "exp": 136,
+	  "wood": 9.4,
+	  "gold": 10,
+	  "stone": 6,
+	  "string": 2.8,
+	  "fish_specimen": 50
+	 },
+	 "Dissingz": {
+	  "exp": 113.4,
+	  "stone": 85.8,
+	  "string": 2.4,
+	  "wood": 64,
+	  "iron": 3.2
+	 },
+	 "enote17": {
+	  "exp": 90.6,
+	  "stone": 47.2,
+	  "wood": 205.8,
+	  "string": 0.8,
+	  "gold": 3.6,
+	  "iron": 8.6
+	 },
+	 "SquidSubsquid": {
+	  "exp": 9.2,
+	  "stone": 76.8
+	 },
+	 "Barbarossa69695": {
+	  "exp": 190.6,
+	  "iron": 35.8,
+	  "string": 0.6,
+	  "gold": 29.2,
+	  "stone": 17
+	 },
+	 "FarmerMaeGGe": {
+	  "exp": 3.8,
+	  "wood": 28.2,
+	  "stone": 1.4
+	 },
+	 "GPOLNFT": {
+	  "exp": 1.8,
+	  "stone": 48.2,
+	  "iron": 1.8
+	 },
+	 "ronaldtheduck55": [],
+	 "Cr1xtv": {
+	  "exp": 12,
+	  "gold": 0.4,
+	  "stone": 0.4,
+	  "iron": 0.6,
+	  "string": 0.8
+	 },
+	 "MoonBarmer": {
+	  "exp": 171.6
+	 },
+	 "TheOnizukaTicket": {
+	  "exp": 84.6,
+	  "wood": 340,
+	  "stone": 12.8,
+	  "gold": 2.8,
+	  "iron": 0.8
+	 },
+	 "Diogaite4win": {
+	  "exp": 84.6,
+	  "iron": 29.8,
+	  "gold": 5.8,
+	  "string": 0.8,
+	  "stone": 5.6
+	 },
+	 "DaddySpeed": [],
+	 "DorseyLife": {
+	  "exp": 17.6,
+	  "stone": 58.8,
+	  "string": 0.8,
+	  "wood": 206,
+	  "iron": 8.4,
+	  "gold": 3.6
+	 },
+	 "ikhaled28": {
+	  "exp": 5.8,
+	  "stone": 43.8,
+	  "iron": 0.8
+	 },
+	 "HLX_": {
+	  "exp": 23.4,
+	  "stone": 115.8,
+	  "wood": 69,
+	  "fish_specimen": 100,
+	  "iron": 1.6
+	 },
+	 "jlv55": {
+	  "exp": 58.2,
+	  "iron": 16,
+	  "stone": 148.6,
+	  "wood": 99,
+	  "string": 0.2,
+	  "gold": 4.4
+	 },
+	 "Agent3O3": [],
+	 "Leonidas_97": {
+	  "exp": 351.8,
+	  "stone": 66.8,
+	  "string": 1.2,
+	  "iron": 79.2,
+	  "wood": 2.2,
+	  "gold": 27.2
+	 },
+	 "Onizuka171": {
+	  "exp": 38.6,
+	  "wood": 339,
+	  "stone": 0.4,
+	  "fish_specimen": 41,
+	  "string": 1.4
+	 },
+	 "MrBStone69": {
+	  "exp": 0.2
+	 },
+	 "Doggyte": {
+	  "exp": 3.4,
+	  "stone": 63.2,
+	  "wood": 230.4,
+	  "gold": 0.4
+	 },
+	 "JeroenMS28": {
+	  "fish_specimen": 50
+	 },
+	 "CragBarbarian": {
+	  "exp": 40.6,
+	  "iron": 14.8,
+	  "gold": 2.4,
+	  "stone": 182.8,
+	  "fish_specimen": 50,
+	  "wood": 5.8
+	 },
+	 "PiniPong": {
+	  "exp": 141.4,
+	  "wood": 307.2,
+	  "stone": 26,
+	  "string": 0.8,
+	  "iron": 36,
+	  "gold": 15
+	 },
+	 "DeiSlayer": {
+	  "exp": 153,
+	  "stone": 9.6,
+	  "wood": 12.8,
+	  "string": 0.4,
+	  "gold": 15.4,
+	  "iron": 53.4
+	 },
+	 "ThomasM_es": {
+	  "exp": 126,
+	  "stone": 357.4,
+	  "string": 0.4,
+	  "gold": 20.4,
+	  "iron": 18
+	 },
+	 "MrKusama": {
+	  "wood": 0.4
+	 },
+	 "MF_1337": [],
+	 "FrikinSama": {
+	  "fish_specimen": 25,
+	  "iron": 1.8
+	 },
+	 "Rayzor536": {
+	  "exp": 160,
+	  "stone": 282.6,
+	  "iron": 60.8,
+	  "wood": 5,
+	  "gold": 12.6
+	 },
+	 "CryptasNFT": {
+	  "exp": 24.2,
+	  "stone": 73.2,
+	  "iron": 7,
+	  "gold": 1
+	 },
+	 "Bilquis_": {
+	  "exp": 31.4,
+	  "stone": 37.2,
+	  "gold": 4.2,
+	  "iron": 9.4
+	 },
+	 "zwaxelander": {
+	  "stone": 13.6
+	 },
+	 "SuperiorSama": {
+	  "exp": 88.8,
+	  "wood": 19.2,
+	  "iron": 1.4,
+	  "string": 2.4
+	 },
+	 "Barbarossa69696": {
+	  "exp": 30.2,
+	  "fish_specimen": 50,
+	  "stone": 9.2,
+	  "iron": 17.2,
+	  "gold": 6.2
+	 },
+	 "ForzaGolda": {
+	  "exp": 43.8,
+	  "wood": 374,
+	  "stone": 89.6
+	 },
+	 "Yudh360": {
+	  "exp": 69.6,
+	  "fish_specimen": 75,
+	  "wood": 43.8
+	 },
+	 "ToxicBirdie999": {
+	  "wood": 18.2,
+	  "stone": 0.2
+	 },
+	 "TerranSpy": [],
+	 "Barbarossa696969": [],
+	 "MichielB": {
+	  "exp": 27.6,
+	  "stone": 264,
+	  "iron": 13.6,
+	  "wood": 11.2
+	 },
+	 "CHEEKYCHEEBA": [],
+	 "SyntropySAMA": {
+	  "exp": 69.6,
+	  "stone": 38.4,
+	  "iron": 38.4,
+	  "gold": 17.8,
+	  "wood": 2.8,
+	  "fish_specimen": 50
+	 },
+	 "Doylerk": {
+	  "exp": 327.6,
+	  "wood": 123.8,
+	  "string": 1.4,
+	  "gold": 35.4,
+	  "iron": 12.8
+	 },
+	 "BeanieSama": {
+	  "exp": 39,
+	  "fish_specimen": 50
+	 },
+	 "GeorgeMoret": {
+	  "exp": 180.6,
+	  "stone": 378.4,
+	  "gold": 8.6,
+	  "string": 1.6,
+	  "iron": 60.2
+	 },
+	 "AlbinoCanario": {
+	  "exp": 41.6,
+	  "wood": 334.2,
+	  "iron": 0.8,
+	  "gold": 2.8,
+	  "stone": 22.6
+	 },
+	 "FrostXtreme": {
+	  "exp": 355.2,
+	  "iron": 115.6,
+	  "stone": 13,
+	  "string": 0.8,
+	  "gold": 37.8,
+	  "wood": 2.2
+	 },
+	 "FCKFTMNY": {
+	  "wood": 38,
+	  "fish_specimen": 75
+	 },
+	 "Jon666es": {
+	  "exp": 33.6,
+	  "stone": 147.4,
+	  "fish_specimen": 75
+	 },
+	 "D1oGorilla": {
+	  "stone": 2,
+	  "wood": 157.6,
+	  "string": 2.6
+	 },
+	 "Onizukaticket": {
+	  "exp": 7,
+	  "wood": 282.2,
+	  "string": 1.8,
+	  "stone": 1.8
+	 },
+	 "GuiLuXxe34": {
+	  "exp": 117.4,
+	  "stone": 19.2,
+	  "iron": 0.6
+	 },
+	 "lasereyecharlie": {
+	  "exp": 136.6,
+	  "wood": 65,
+	  "string": 0.2,
+	  "stone": 85.4,
+	  "iron": 28.2,
+	  "gold": 5.6
+	 },
+	 "an999eth": {
+	  "exp": 21.8,
+	  "wood": 2.8,
+	  "stone": 76.8
+	 },
+	 "zTheDarkAlex": {
+	  "exp": 16.4,
+	  "gold": 8.2,
+	  "fish_specimen": 50,
+	  "wood": 9.4,
+	  "stone": 0.6,
+	  "string": 0.2,
+	  "iron": 0.8
+	 },
+	 "DemonRey": {
+	  "exp": 0.4,
+	  "wood": 65.4,
+	  "iron": 24.6
+	 },
+	 "SummerShades": {
+	  "exp": 199.8,
+	  "string": 2.2,
+	  "stone": 43.8,
+	  "wood": 128.6,
+	  "iron": 25,
+	  "gold": 22.2
+	 },
+	 "gnooee": {
+	  "fish_specimen": 48
+	 },
+	 "FatLostPatato": {
+	  "wood": 45,
+	  "stone": 6.8,
+	  "string": 1.4
+	 },
+	 "Mrcrymountain": {
+	  "exp": 139.6,
+	  "stone": 135.6,
+	  "fish_specimen": 175,
+	  "string": 0.6,
+	  "wood": 6.4,
+	  "iron": 0.4,
+	  "gold": 1.6
+	 },
+	 "BondBear": {
+	  "exp": 9.8
+	 },
+	 "JocaOnSticks": {
+	  "exp": 149.4,
+	  "stone": 10.8,
+	  "string": 0.4,
+	  "iron": 46.2,
+	  "wood": 11.8,
+	  "gold": 34.2
+	 },
+	 "JhonBadGuy": {
+	  "exp": 140.6,
+	  "stone": 38.4,
+	  "wood": 422.4,
+	  "string": 0.4
+	 },
+	 "RichardBenson69": {
+	  "exp": 1,
+	  "wood": 0.4
+	 },
+	 "Pyykkikone": {
+	  "exp": 1.6,
+	  "stone": 21.4,
+	  "iron": 0.2
+	 },
+	 "Rektormoon": {
+	  "exp": 7.6,
+	  "stone": 59.6
+	 },
+	 "MattyDuck": {
+	  "exp": 153.2,
+	  "string": 1.2,
+	  "stone": 6,
+	  "iron": 17.2,
+	  "gold": 20
+	 },
+	 "IgorDubai2": {
+	  "exp": 1.4,
+	  "wood": 50.4,
+	  "fish_specimen": 50,
+	  "stone": 1.6,
+	  "string": 1.2
+	 },
+	 "MRJCflaco": {
+	  "exp": 4.4,
+	  "wood": 11.6,
+	  "stone": 33
+	 },
+	 "ConfiTuur": {
+	  "exp": 55,
+	  "wood": 0.2,
+	  "fish_specimen": 100
+	 },
+	 "LostMarigold552": {
+	  "exp": 32.6,
+	  "fish_specimen": 50,
+	  "stone": 21,
+	  "wood": 29,
+	  "iron": 0.6
+	 },
+	 "SnarlSama": {
+	  "exp": 6.4,
+	  "fish_specimen": 75,
+	  "stone": 248.6
+	 },
+	 "BigTava": {
+	  "exp": 21.2,
+	  "iron": 0.4,
+	  "stone": 10.6,
+	  "string": 0.4,
+	  "wood": 67
+	 },
+	 "GhulagMe": {
+	  "exp": 10.4,
+	  "wood": 208.2,
+	  "stone": 56,
+	  "gold": 0.4
+	 },
+	 "CarnageCaptain3": {
+	  "exp": 70.4,
+	  "string": 0.2,
+	  "iron": 0.2,
+	  "wood": 8.2,
+	  "fish_specimen": 23,
+	  "stone": 3.4
+	 },
+	 "craftedsama": {
+	  "exp": 54.4,
+	  "wood": 1,
+	  "stone": 57.6,
+	  "gold": 8.6,
+	  "iron": 6.2
+	 },
+	 "NativeMonster5": {
+	  "exp": 2.6,
+	  "stone": 21.6
+	 },
+	 "FisherMsama": {
+	  "exp": 9.2,
+	  "stone": 312.8,
+	  "fish_specimen": 50,
+	  "string": 0.2,
+	  "iron": 2,
+	  "wood": 30.6
+	 },
+	 "Windows95Man": {
+	  "exp": 207.2,
+	  "iron": 73.6,
+	  "gold": 18.8,
+	  "wood": 16.6,
+	  "stone": 192,
+	  "fish_specimen": 50,
+	  "string": 0.6
+	 },
+	 "Benbossac": {
+	  "exp": 89.2,
+	  "wood": 51,
+	  "string": 0.8,
+	  "gold": 6.4,
+	  "iron": 6.8
+	 },
+	 "Jack192mo": {
+	  "exp": 0.2,
+	  "stone": 111.8,
+	  "wood": 230.4,
+	  "gold": 0.4
+	 },
+	 "BenGunnDPS": {
+	  "exp": 10.8,
+	  "wood": 0.8
+	 },
+	 "Koade": {
+	  "exp": 86,
+	  "wood": 117.4,
+	  "stone": 178.2,
+	  "string": 1,
+	  "gold": 12.8,
+	  "iron": 25.6
+	 },
+	 "Eben_Lt": {
+	  "exp": 59.4,
+	  "stone": 276.4,
+	  "gold": 2.4,
+	  "wood": 9,
+	  "iron": 20.2
+	 },
+	 "Fury4Sama": {
+	  "exp": 168.8,
+	  "stone": 5.4,
+	  "gold": 15.6,
+	  "fish_specimen": 25,
+	  "iron": 19.2,
+	  "string": 2
+	 },
+	 "CryptoManiaques": {
+	  "exp": 37.8,
+	  "fish_specimen": 47,
+	  "iron": 13.2,
+	  "wood": 7.4,
+	  "gold": 12.6,
+	  "string": 1.6
+	 },
+	 "Mbmachiavelli": {
+	  "exp": 268.2,
+	  "wood": 10.4,
+	  "fish_specimen": 50,
+	  "gold": 15,
+	  "iron": 8.2,
+	  "string": 1.4,
+	  "stone": 17.4
+	 },
+	 "loeckie98": {
+	  "exp": 8.4,
+	  "stone": 72,
+	  "iron": 16.2,
+	  "gold": 2,
+	  "wood": 55.2
+	 },
+	 "Cry4max88": {
+	  "exp": 33.8,
+	  "stone": 202.4,
+	  "iron": 12
+	 },
+	 "Groofyy": {
+	  "exp": 84.8,
+	  "stone": 115.2,
+	  "wood": 272.8,
+	  "gold": 8.2,
+	  "iron": 38.2,
+	  "string": 0.4
+	 },
+	 "ilvascio": {
+	  "exp": 277.4,
+	  "iron": 71.4,
+	  "string": 2.8,
+	  "gold": 37.6
+	 },
+	 "EXOMonster": {
+	  "exp": 194.6,
+	  "stone": 85.4,
+	  "wood": 3,
+	  "iron": 87.6,
+	  "gold": 16.6,
+	  "string": 1
+	 },
+	 "f0lmerMC": {
+	  "exp": 154.8,
+	  "stone": 167.8,
+	  "wood": 20.8,
+	  "string": 0.2,
+	  "iron": 35,
+	  "gold": 10.8
+	 },
+	 "meld169": {
+	  "exp": 30.8,
+	  "wood": 12.8,
+	  "stone": 141,
+	  "gold": 3.2,
+	  "iron": 4.4
+	 },
+	 "Jadvee": {
+	  "exp": 0.2,
+	  "wood": 15.6,
+	  "stone": 2.8
+	 },
+	 "JR_Borg": {
+	  "exp": 87,
+	  "fish_specimen": 50,
+	  "iron": 37,
+	  "stone": 101.8,
+	  "gold": 3.6,
+	  "wood": 5.2
+	 },
+	 "Beriitu": {
+	  "exp": 2.6,
+	  "wood": 198.4
+	 },
+	 "MischievousMrkt": {
+	  "exp": 97.4,
+	  "stone": 251.4,
+	  "wood": 14.4,
+	  "iron": 1,
+	  "gold": 7,
+	  "fish_specimen": 75
+	 },
+	 "_Djarin_": {
+	  "exp": 96.4,
+	  "fish_specimen": 25
+	 },
+	 "MustardJsama": {
+	  "exp": 18.2,
+	  "stone": 46.4,
+	  "iron": 0.8
+	 },
+	 "LilianLondon": {
+	  "exp": 77.6,
+	  "string": 0.2,
+	  "wood": 25.6,
+	  "iron": 0.2
+	 },
+	 "EnduringWrick": {
+	  "exp": 127.8,
+	  "stone": 345.6,
+	  "iron": 39.4,
+	  "wood": 38,
+	  "gold": 7.2,
+	  "fish_specimen": 50
+	 },
+	 "JuhuLove": {
+	  "exp": 94.4,
+	  "stone": 26.6,
+	  "wood": 4.4,
+	  "string": 0.6
+	 },
+	 "Kartus": {
+	  "exp": 45.8,
+	  "fish_specimen": 50
+	 },
+	 "kingmsmithe": {
+	  "exp": 0.2,
+	  "fish_specimen": 200
+	 },
+	 "97pacoap": {
+	  "exp": 53.6,
+	  "wood": 280.2,
+	  "stone": 3.2
+	 },
+	 "romerassso": {
+	  "exp": 53.2,
+	  "wood": 8.6,
+	  "iron": 24.4,
+	  "gold": 5.8,
+	  "stone": 52.6
+	 },
+	 "k0rrup7": {
+	  "exp": 3,
+	  "fish_specimen": 50,
+	  "string": 1
+	 },
+	 "KaliBat": {
+	  "exp": 55.8,
+	  "stone": 1.8,
+	  "string": 1,
+	  "wood": 216,
+	  "iron": 0.2
+	 },
+	 "jangermaister": {
+	  "exp": 269.6,
+	  "stone": 37.6,
+	  "gold": 13.4,
+	  "iron": 107.8,
+	  "string": 1
+	 },
+	 "Ciel_Marcheur": {
+	  "exp": 18.6,
+	  "wood": 2.2,
+	  "stone": 38.8,
+	  "iron": 4.4
+	 },
+	 "Drogon1050": {
+	  "exp": 62.2,
+	  "stone": 383,
+	  "iron": 31.2,
+	  "wood": 16.4,
+	  "gold": 9.4
+	 },
+	 "CryptoBeliever": {
+	  "exp": 133.2,
+	  "fish_specimen": 74,
+	  "iron": 9.4,
+	  "stone": 164.4,
+	  "wood": 1,
+	  "gold": 0.6
+	 },
+	 "CrixusKSM": {
+	  "exp": 168.2,
+	  "iron": 26.4,
+	  "stone": 13.2,
+	  "wood": 8.4,
+	  "gold": 4.8,
+	  "string": 1
+	 },
+	 "LilyRockW": {
+	  "stone": 230.4
+	 },
+	 "22cmdeamor": {
+	  "exp": 114.6,
+	  "stone": 130.8,
+	  "iron": 32.2,
+	  "fish_specimen": 50,
+	  "wood": 214.4,
+	  "gold": 8.2,
+	  "string": 2.6
+	 },
+	 "psaikoteddy": {
+	  "exp": 7.4,
+	  "wood": 0.2
+	 },
+	 "vagif6511": {
+	  "exp": 11.6,
+	  "stone": 264.4
+	 },
+	 "MrMoonShark": {
+	  "exp": 2,
+	  "wood": 73.4,
+	  "fish_specimen": 50,
+	  "stone": 0.2
+	 },
+	 "swaggymay91": {
+	  "exp": 39.4,
+	  "stone": 367.8,
+	  "fish_specimen": 25
+	 },
+	 "MichMash8759": {
+	  "exp": 26.6,
+	  "stone": 226.6,
+	  "iron": 4.6
+	 },
+	 "MysteryC1840": [],
+	 "TacticalRipper": {
+	  "exp": 43,
+	  "stone": 143.6,
+	  "iron": 21.4,
+	  "gold": 7.2,
+	  "string": 0.2,
+	  "wood": 3.8
+	 },
+	 "WhatafaaakTicket": {
+	  "exp": 18.8,
+	  "stone": 183.4,
+	  "wood": 204.8,
+	  "gold": 12,
+	  "iron": 5.8
+	 },
+	 "kl7uk3c": {
+	  "exp": 44.2,
+	  "stone": 329.6,
+	  "iron": 3
+	 },
+	 "ellenador": [],
+	 "WazeMooniee": [],
+	 "SebaCryptoCat": {
+	  "exp": 1,
+	  "wood": 0.4
+	 },
+	 "EadwenWTF": {
+	  "exp": 71,
+	  "stone": 207.8,
+	  "iron": 13,
+	  "wood": 42.4,
+	  "gold": 3.6,
+	  "string": 0.4
+	 },
+	 "derekyoo": {
+	  "wood": 1.8
+	 },
+	 "WhatafaakTicket2": {
+	  "exp": 37,
+	  "stone": 228.8,
+	  "wood": 129.6,
+	  "iron": 2.2
+	 },
+	 "Molanderwow": {
+	  "exp": 45.6,
+	  "wood": 0.8,
+	  "fish_specimen": 99,
+	  "stone": 70.8,
+	  "iron": 21.2,
+	  "gold": 7.2
+	 },
+	 "Piwni": {
+	  "exp": 33.4,
+	  "stone": 238.2,
+	  "iron": 3.4,
+	  "wood": 3.8
+	 },
+	 "VitruviusBeanie": {
+	  "exp": 39.4,
+	  "fish_specimen": 50,
+	  "wood": 1.2
+	 },
+	 "Wangul": {
+	  "exp": 5.8,
+	  "wood": 29.6,
+	  "iron": 7.8,
+	  "string": 1.4
+	 },
+	 "MoonShakalaka": {
+	  "exp": 5.4,
+	  "gold": 2.8,
+	  "stone": 86.6,
+	  "iron": 7.2,
+	  "wood": 9.2,
+	  "string": 0.2
+	 },
+	 "Fred_Fred_": {
+	  "exp": 31.8,
+	  "wood": 16.8,
+	  "stone": 25.6,
+	  "iron": 5.2,
+	  "string": 0.2,
+	  "gold": 1.4
+	 },
+	 "yikew": {
+	  "exp": 38.4,
+	  "stone": 293,
+	  "iron": 4,
+	  "wood": 38.2
+	 },
+	 "B3NNN3T": {
+	  "exp": 279.8,
+	  "fish_specimen": 50,
+	  "string": 2.2,
+	  "iron": 167.8,
+	  "gold": 55,
+	  "stone": 1.2
+	 },
+	 "FuddytheBear": [],
+	 "mcnaggets": {
+	  "exp": 19.2,
+	  "stone": 8.8,
+	  "fish_specimen": 22
+	 },
+	 "angrynanons": {
+	  "exp": 0.2,
+	  "stone": 77.4,
+	  "wood": 6.4,
+	  "fish_specimen": 75
+	 },
+	 "Halaster23": {
+	  "exp": 128.8,
+	  "gold": 1.4,
+	  "wood": 135.8,
+	  "string": 0.2,
+	  "fish_specimen": 75,
+	  "stone": 97.2,
+	  "iron": 3.4
+	 },
+	 "mrk7838": {
+	  "exp": 38.6,
+	  "stone": 430.4,
+	  "iron": 4.6,
+	  "gold": 1.4
+	 },
+	 "Whatafaaak": {
+	  "wood": 373.2,
+	  "fish_specimen": 50,
+	  "stone": 57.2,
+	  "gold": 4.4
+	 },
+	 "Jaystezy": {
+	  "exp": 101.4,
+	  "wood": 2.8,
+	  "iron": 46.6,
+	  "string": 1,
+	  "gold": 21.8
+	 },
+	 "Tibo66": {
+	  "exp": 260.6,
+	  "wood": 0.4,
+	  "stone": 2.4,
+	  "fish_specimen": 100,
+	  "iron": 56.4,
+	  "string": 0.4,
+	  "gold": 20
+	 },
+	 "Mothball87": {
+	  "exp": 158,
+	  "wood": 37.8,
+	  "iron": 42.8,
+	  "gold": 8,
+	  "stone": 16.4
+	 },
+	 "OldSpiceVendor": {
+	  "exp": 124.2,
+	  "fish_specimen": 49,
+	  "string": 0.2,
+	  "gold": 11.6,
+	  "iron": 6,
+	  "stone": 0.4
+	 },
+	 "CastorTrojan": {
+	  "exp": 1.4,
+	  "wood": 19.6
+	 },
+	 "DeathKnight745": [],
+	 "BermiBill": {
+	  "exp": 23.2,
+	  "stone": 79.4,
+	  "wood": 41.6,
+	  "iron": 8,
+	  "fish_specimen": 25,
+	  "string": 0.4
+	 },
+	 "miha013": {
+	  "exp": 97.4,
+	  "fish_specimen": 74,
+	  "stone": 23.4,
+	  "iron": 1.2,
+	  "wood": 14.2,
+	  "gold": 1.4
+	 },
+	 "Gargavlin": {
+	  "exp": 13.4,
+	  "stone": 115.2,
+	  "iron": 4.6,
+	  "wood": 33.8
+	 },
+	 "Moonsama425": {
+	  "exp": 83.4,
+	  "stone": 119.2,
+	  "wood": 122,
+	  "string": 1,
+	  "iron": 29,
+	  "gold": 3
+	 },
+	 "_frsh": {
+	  "exp": 335,
+	  "gold": 70.4,
+	  "wood": 149.2,
+	  "stone": 89.6,
+	  "string": 5.8,
+	  "iron": 88.6
+	 },
+	 "turrizt": {
+	  "wood": 0.6
+	 },
+	 "_qazer": {
+	  "exp": 216.2,
+	  "stone": 51.2,
+	  "wood": 102.4,
+	  "iron": 137.8,
+	  "string": 1.4,
+	  "gold": 46.2,
+	  "fish_specimen": 24
+	 },
+	 "SwissSMPler": {
+	  "exp": 75,
+	  "wood": 122,
+	  "iron": 10.8,
+	  "string": 0.6,
+	  "gold": 1.6,
+	  "stone": 33.4
+	 },
+	 "EnduringSama": {
+	  "exp": 37.4,
+	  "stone": 307.2,
+	  "iron": 14.4,
+	  "wood": 111,
+	  "string": 0.8,
+	  "gold": 1.6
+	 },
+	 "Unimatos": {
+	  "exp": 10,
+	  "wood": 16,
+	  "fish_specimen": 50,
+	  "string": 0.2,
+	  "stone": 2
+	 },
+	 "vlasnikinternet": {
+	  "exp": 160.2,
+	  "stone": 101,
+	  "iron": 54,
+	  "wood": 8.4,
+	  "fish_specimen": 75,
+	  "gold": 9.4,
+	  "string": 0.6
+	 },
+	 "StanoStano123": {
+	  "exp": 8.2,
+	  "stone": 38.4
+	 },
+	 "Bulldozaurus": {
+	  "wood": 6.8
+	 },
+	 "donchirlas": [],
+	 "Kyilkhor": {
+	  "exp": 385,
+	  "fish_specimen": 481,
+	  "stone": 1.6
+	 },
+	 "Bilokob": {
+	  "wood": 0.2
+	 },
+	 "SrogiLomot": [],
+	 "Skarlex99": {
+	  "fish_specimen": 75,
+	  "wood": 120.4
+	 },
+	 "NautilusMoonSama": {
+	  "exp": 221.4,
+	  "fish_specimen": 300
+	 },
+	 "AG_____": {
+	  "exp": 413.2,
+	  "fish_specimen": 490
+	 },
+	 "NagyKiki": {
+	  "exp": 128.4,
+	  "fish_specimen": 50,
+	  "wood": 16.8,
+	  "string": 0.2,
+	  "iron": 6.4,
+	  "stone": 22.4,
+	  "gold": 21
+	 },
+	 "pepper0nipizza": {
+	  "exp": 51,
+	  "fish_specimen": 75,
+	  "wood": 135.8,
+	  "iron": 3.6,
+	  "gold": 1.6,
+	  "stone": 97.2
+	 },
+	 "Msama319": {
+	  "exp": 20.6,
+	  "stone": 7.4,
+	  "string": 0.6,
+	  "wood": 1.4,
+	  "iron": 0.4
+	 },
+	 "Dolenec_33": {
+	  "exp": 19.6,
+	  "fish_specimen": 50,
+	  "wood": 35.8,
+	  "stone": 2.6
+	 },
+	 "TheCryptoKrill": {
+	  "exp": 4
+	 },
+	 "Zo3000": {
+	  "exp": 19.2,
+	  "stone": 96,
+	  "wood": 0.4,
+	  "iron": 5.8
+	 },
+	 "sheklemec": {
+	  "exp": 95.8,
+	  "stone": 193,
+	  "iron": 3.8,
+	  "fish_specimen": 75
+	 },
+	 "TraderKid": {
+	  "exp": 27,
+	  "wood": 2,
+	  "gold": 1.4,
+	  "stone": 113,
+	  "iron": 8.2
+	 },
+	 "bobomarley11": {
+	  "exp": 0.6,
+	  "wood": 8.6
+	 },
+	 "Ragn0rekt": {
+	  "exp": 142.2,
+	  "iron": 26,
+	  "stone": 222.6,
+	  "wood": 11,
+	  "string": 1.8,
+	  "gold": 10.2
+	 },
+	 "PrincipldDegen": {
+	  "wood": 240.2,
+	  "stone": 34.8,
+	  "iron": 3.2
+	 },
+	 "EdmundOneShot": {
+	  "exp": 12.2,
+	  "stone": 114.6,
+	  "wood": 25.2,
+	  "string": 0.4,
+	  "iron": 2.4
+	 },
+	 "CryptoKeeg": {
+	  "stone": 101.4,
+	  "wood": 6.4,
+	  "gold": 4.4,
+	  "iron": 12.8
+	 },
+	 "BABOKUKI": {
+	  "exp": 35.6,
+	  "stone": 7.4,
+	  "iron": 10.8,
+	  "wood": 247
+	 },
+	 "Resypto_": {
+	  "exp": 65.4,
+	  "wood": 181.8,
+	  "stone": 42.2,
+	  "iron": 2.2,
+	  "fish_specimen": 50
+	 },
+	 "Delia987124786": {
+	  "exp": 0.2,
+	  "fish_specimen": 100
+	 },
+	 "REDFACEDDAVE": [],
+	 "smomelette": {
+	  "exp": 36.8,
+	  "stone": 25.8,
+	  "iron": 3.8,
+	  "gold": 3,
+	  "string": 0.2,
+	  "wood": 1.4
+	 },
+	 "masama004": {
+	  "exp": 285.2,
+	  "string": 5,
+	  "gold": 40,
+	  "iron": 60.6,
+	  "wood": 25.6
+	 },
+	 "CrPap19": {
+	  "exp": 33.6,
+	  "fish_specimen": 25
+	 },
+	 "0xKaito": {
+	  "exp": 115.2,
+	  "stone": 176.8,
+	  "gold": 1,
+	  "wood": 12.8,
+	  "iron": 7,
+	  "string": 0.2
+	 },
+	 "Bloob_bloo_balls": {
+	  "exp": 115.8,
+	  "wood": 247,
+	  "stone": 36.6,
+	  "iron": 3,
+	  "fish_specimen": 50,
+	  "string": 1.2
+	 },
+	 "V4qr0": {
+	  "exp": 1.6
+	 },
+	 "Zell3664": {
+	  "exp": 152.2,
+	  "iron": 54.6,
+	  "gold": 23.8,
+	  "stone": 11.2
+	 },
+	 "MiguelDot": {
+	  "exp": 50.2,
+	  "stone": 200,
+	  "wood": 6.2,
+	  "iron": 7,
+	  "fish_specimen": 10
+	 },
+	 "Mancander": {
+	  "exp": 5.6,
+	  "stone": 400,
+	  "iron": 0.2
+	 },
+	 "BoyEscandalo": [],
+	 "GK033": {
+	  "exp": 46.4,
+	  "fish_specimen": 50,
+	  "wood": 2.2
+	 },
+	 "YuntWheat": {
+	  "exp": 20,
+	  "fish_specimen": 25,
+	  "stone": 4.4
+	 },
+	 "NoobAyaka": {
+	  "exp": 22.4,
+	  "stone": 110.6,
+	  "wood": 24.4,
+	  "iron": 10.4
+	 },
+	 "sea_creature": {
+	  "exp": 52,
+	  "stone": 323.6,
+	  "gold": 3.6,
+	  "iron": 10.8,
+	  "wood": 1.8
+	 },
+	 "LiimpNoodle": {
+	  "stone": 52,
+	  "wood": 3.8
+	 },
+	 "FrankSintaraNYC": {
+	  "wood": 0.2
+	 },
+	 "doodmax": {
+	  "exp": 131,
+	  "fish_specimen": 68,
+	  "wood": 188.8,
+	  "stone": 112.8,
+	  "string": 0.6,
+	  "iron": 12,
+	  "gold": 2.2
+	 },
+	 "NicoPlusOne": {
+	  "exp": 59.8
+	 },
+	 "Mishy888": {
+	  "fish_specimen": 1
+	 },
+	 "Dirtbag187": {
+	  "exp": 16.8,
+	  "stone": 16.4,
+	  "iron": 11.2,
+	  "gold": 1,
+	  "wood": 5
+	 },
+	 "CChimp1095": {
+	  "iron": 6.4,
+	  "wood": 3.4,
+	  "stone": 47.4,
+	  "gold": 2.2
+	 },
+	 "Gklan1": {
+	  "exp": 9,
+	  "iron": 46.2,
+	  "gold": 34.8,
+	  "string": 0.8
+	 },
+	 "invisibleman313": {
+	  "exp": 77.4,
+	  "string": 0.4,
+	  "gold": 0.8,
+	  "iron": 13.4,
+	  "stone": 49.4,
+	  "wood": 1.6
+	 },
+	 "wills2k0": {
+	  "exp": 39.2,
+	  "stone": 114,
+	  "gold": 0.8
+	 },
+	 "MrKiltMaster": {
+	  "exp": 69.2,
+	  "wood": 3,
+	  "fish_specimen": 50,
+	  "iron": 48.4,
+	  "gold": 16.8,
+	  "string": 1
+	 },
+	 "samamoonsama": {
+	  "exp": 281.4,
+	  "wood": 2,
+	  "stone": 31.2,
+	  "fish_specimen": 325
+	 },
+	 "iStayFrosty": {
+	  "exp": 5.8,
+	  "fish_specimen": 46
+	 },
+	 "PJSdotsama": {
+	  "exp": 41,
+	  "stone": 38.4,
+	  "iron": 6,
+	  "gold": 4
+	 },
+	 "7xBlazegenesis": {
+	  "exp": 71,
+	  "stone": 192,
+	  "wood": 20,
+	  "iron": 38.6,
+	  "string": 0.4,
+	  "gold": 9.6
+	 },
+	 "QuoffWaffles": {
+	  "fish_specimen": 250,
+	  "gold": 35.2,
+	  "iron": 38.4,
+	  "string": 0.8
+	 },
+	 "ThePaleSinger": {
+	  "exp": 4.8,
+	  "stone": 241,
+	  "fish_specimen": 50,
+	  "wood": 8
+	 },
+	 "kakyoin_turtle": {
+	  "exp": 68.6,
+	  "wood": 62.8,
+	  "stone": 90.8,
+	  "iron": 6,
+	  "gold": 6
+	 },
+	 "Panopticus": {
+	  "exp": 87,
+	  "stone": 17,
+	  "wood": 76.2,
+	  "string": 0.2,
+	  "fish_specimen": 100,
+	  "iron": 3.6,
+	  "gold": 5.8
+	 },
+	 "Jabz004": {
+	  "wood": 0.4,
+	  "fish_specimen": 75
+	 },
+	 "Ctoxity": {
+	  "exp": 44,
+	  "stone": 207.4,
+	  "fish_specimen": 50,
+	  "iron": 9,
+	  "wood": 0.4
+	 },
+	 "Chaosama": {
+	  "exp": 207.8,
+	  "stone": 192.8,
+	  "fish_specimen": 50,
+	  "string": 0.4,
+	  "wood": 8.8,
+	  "gold": 11.8,
+	  "iron": 43.8
+	 },
+	 "Altfatherus": {
+	  "exp": 202.6,
+	  "fish_specimen": 225,
+	  "wood": 14,
+	  "stone": 64,
+	  "string": 0.4
+	 },
+	 "CryptoKrespo": {
+	  "exp": 83.6,
+	  "stone": 256,
+	  "fish_specimen": 25,
+	  "string": 0.2,
+	  "iron": 29.8,
+	  "gold": 4
+	 },
+	 "msama_speedrun": {
+	  "exp": 427,
+	  "stone": 137.8,
+	  "wood": 13,
+	  "iron": 56.8,
+	  "string": 3.6,
+	  "gold": 25.4
+	 },
+	 "Shineyd1111": {
+	  "exp": 50.8,
+	  "stone": 91.6,
+	  "fish_specimen": 21,
+	  "wood": 2.2,
+	  "iron": 13.8
+	 },
+	 "Osielcrypt": {
+	  "exp": 12.2,
+	  "wood": 79.6,
+	  "stone": 66.8,
+	  "iron": 0.4
+	 },
+	 "HanzGoGetEm": {
+	  "exp": 8.8,
+	  "wood": 1.8,
+	  "iron": 1.8,
+	  "stone": 51
+	 },
+	 "Anyawakuwaku": {
+	  "exp": 6.8,
+	  "string": 0.2,
+	  "stone": 1.6,
+	  "wood": 1
+	 },
+	 "novelty77": {
+	  "exp": 6,
+	  "stone": 1.4,
+	  "iron": 3
+	 },
+	 "ilioko": [],
+	 "KingCryptok": {
+	  "exp": 63.8,
+	  "stone": 188.4,
+	  "gold": 3,
+	  "iron": 20.2,
+	  "string": 0.2,
+	  "wood": 70
+	 },
+	 "EssejSemaj": {
+	  "exp": 113.6,
+	  "stone": 152,
+	  "wood": 5,
+	  "fish_specimen": 50,
+	  "gold": 5.4,
+	  "iron": 23.2
+	 },
+	 "MGC1838": {
+	  "stone": 53
+	 },
+	 "StrappedYew6267": {
+	  "exp": 105,
+	  "stone": 323.2,
+	  "iron": 6.4,
+	  "fish_specimen": 50,
+	  "gold": 2.2
+	 },
+	 "ChrisCrypt0": {
+	  "exp": 59.2,
+	  "stone": 172.6,
+	  "wood": 1.6,
+	  "string": 0.2,
+	  "gold": 4,
+	  "iron": 30.6
+	 },
+	 "jrv783": {
+	  "exp": 9.6,
+	  "stone": 124.6,
+	  "wood": 43.4
+	 },
+	 "Yinzhen": {
+	  "exp": 87.6,
+	  "stone": 201.8,
+	  "gold": 6.6,
+	  "iron": 20.8,
+	  "wood": 1.2
+	 },
+	 "yappymon": [],
+	 "Dominant30": {
+	  "exp": 1,
+	  "stone": 4.8
+	 },
+	 "Ricanito": {
+	  "exp": 27.2,
+	  "stone": 299.8,
+	  "wood": 14.2,
+	  "iron": 6,
+	  "fish_specimen": 30,
+	  "string": 0.2
+	 },
+	 "NastasiaTFUltras": {
+	  "exp": 9.6,
+	  "stone": 51.4
+	 },
+	 "Russle3437": {
+	  "wood": 0.2,
+	  "stone": 4.6
+	 },
+	 "Daya2001": [],
+	 "Bubz589": {
+	  "fish_specimen": 50,
+	  "stone": 112.6,
+	  "wood": 74.8,
+	  "iron": 5
+	 },
+	 "AutoBOT404": {
+	  "exp": 198,
+	  "string": 0.4,
+	  "wood": 45.8,
+	  "stone": 20.4,
+	  "gold": 0.6,
+	  "iron": 10.8
+	 },
+	 "Wilbur710": {
+	  "exp": 114,
+	  "stone": 76.4,
+	  "string": 1.6,
+	  "fish_specimen": 25,
+	  "iron": 3.8,
+	  "gold": 6.8
+	 },
+	 "SwampKetchup": {
+	  "exp": 1.8,
+	  "wood": 5,
+	  "stone": 2.4
+	 },
+	 "Enryu_____": {
+	  "exp": 119.2,
+	  "stone": 186,
+	  "wood": 18.6,
+	  "gold": 6.6,
+	  "iron": 61
+	 },
+	 "ExoRektor": {
+	  "exp": 0.4
+	 },
+	 "Geforce_Ti": [],
+	 "y_uncle_fester": {
+	  "exp": 41,
+	  "stone": 327.4,
+	  "iron": 11,
+	  "wood": 3.2,
+	  "gold": 3
+	 },
+	 "XyphenatedHD": {
+	  "exp": 63.8,
+	  "wood": 186.2,
+	  "stone": 77,
+	  "string": 0.4,
+	  "gold": 4,
+	  "iron": 10.2
+	 },
+	 "TheCandyman122": {
+	  "exp": 99.6,
+	  "wood": 2.2,
+	  "stone": 85,
+	  "gold": 3.8,
+	  "iron": 8.2,
+	  "string": 0.4
+	 },
+	 "bowtotheo": {
+	  "exp": 51,
+	  "stone": 345.6,
+	  "iron": 17.4,
+	  "wood": 25.6,
+	  "gold": 2.6
+	 },
+	 "CryptoHour11": {
+	  "exp": 12,
+	  "string": 0.4,
+	  "iron": 6.2,
+	  "wood": 3.2,
+	  "gold": 2.4,
+	  "stone": 12.8
+	 },
+	 "brandonmora": {
+	  "exp": 18.4,
+	  "stone": 102,
+	  "wood": 5,
+	  "iron": 5.6
+	 },
+	 "Arpman": {
+	  "exp": 169,
+	  "stone": 185,
+	  "iron": 56.6,
+	  "string": 0.6,
+	  "wood": 20.8,
+	  "gold": 16
+	 },
+	 "xJoltx": {
+	  "stone": 51.4,
+	  "gold": 5.4
+	 },
+	 "JwestPhillySama": {
+	  "exp": 21.6,
+	  "fish_specimen": 21,
+	  "stone": 0.4,
+	  "gold": 1.8,
+	  "iron": 1.4
+	 },
+	 "DaFFyDaF79": {
+	  "exp": 0.6,
+	  "wood": 0.6
+	 },
+	 "Tychi26": {
+	  "stone": 107.4,
+	  "iron": 15.6,
+	  "gold": 14
+	 },
+	 "JoanKing08": {
+	  "wood": 0.6
+	 },
+	 "SutraderX": {
+	  "exp": 60,
+	  "stone": 16.2,
+	  "gold": 11.4,
+	  "iron": 29.4,
+	  "wood": 66.4
+	 },
+	 "joey_pooq": {
+	  "exp": 111.4,
+	  "gold": 4.8,
+	  "stone": 115.2,
+	  "iron": 39.6,
+	  "wood": 133.6
+	 },
+	 "TheApeofNSt": {
+	  "exp": 20,
+	  "stone": 62.4
+	 },
+	 "jbblah": {
+	  "wood": 6
+	 },
+	 "karudanuri": {
+	  "exp": 255.2,
+	  "stone": 422.4,
+	  "wood": 12.8,
+	  "iron": 23,
+	  "gold": 1.2
+	 },
+	 "CryptoX007": {
+	  "exp": 49.4,
+	  "stone": 6.6
+	 },
+	 "jiexawow": {
+	  "exp": 23.6,
+	  "iron": 0.2,
+	  "stone": 2.4,
+	  "gold": 2.8
+	 },
+	 "theMoonsama414": {
+	  "exp": 53.4,
+	  "stone": 185.6,
+	  "fish_specimen": 50,
+	  "wood": 36.8,
+	  "iron": 1.8
+	 },
+	 "OscarAstronotus": {
+	  "exp": 2.4,
+	  "stone": 40,
+	  "wood": 1.4
+	 },
+	 "Ducktaari": [],
+	 "Natykurama7": {
+	  "stone": 0.2
+	 },
+	 "MiniKealad": [],
+	 "MoonsamaMama": {
+	  "exp": 0.8,
+	  "wood": 54.2,
+	  "stone": 0.2,
+	  "fish_specimen": 10
+	 },
+	 "MilkySheepoo": {
+	  "exp": 73.6,
+	  "wood": 25.6,
+	  "stone": 21,
+	  "iron": 10.2,
+	  "gold": 17.2,
+	  "string": 0.8
+	 },
+	 "TBirdInc": {
+	  "exp": 136.4,
+	  "fish_specimen": 30,
+	  "gold": 25.6,
+	  "stone": 190,
+	  "iron": 38.4,
+	  "string": 1.2
+	 },
+	 "HoLeeChow": {
+	  "exp": 93,
+	  "stone": 278.4,
+	  "iron": 24.8,
+	  "wood": 12.8,
+	  "string": 0.2,
+	  "gold": 9.8
+	 },
+	 "jaypengX": {
+	  "exp": 25.2,
+	  "wood": 2,
+	  "iron": 0.6,
+	  "stone": 345.4
+	 },
+	 "AlexMtz__": {
+	  "exp": 19.6,
+	  "wood": 328.2,
+	  "string": 0.4,
+	  "stone": 3.4
+	 },
+	 "NaomiBricks": {
+	  "exp": 10,
+	  "iron": 12.8,
+	  "stone": 145,
+	  "gold": 4.4,
+	  "wood": 1.6
+	 },
+	 "LuckyFriday11": [],
+	 "GrumblyRogue98": {
+	  "wood": 38.8,
+	  "stone": 82.6,
+	  "string": 0.8
+	 },
+	 "TomDBomb11": {
+	  "exp": 142.6,
+	  "stone": 30.4,
+	  "wood": 117.8,
+	  "gold": 12.2,
+	  "iron": 21
+	 },
+	 "LatinaMoli": {
+	  "exp": 20.8,
+	  "wood": 59.4,
+	  "stone": 24,
+	  "iron": 10.4,
+	  "gold": 1
+	 },
+	 "JeppersDavid": {
+	  "exp": 17.2,
+	  "stone": 74.8
+	 },
+	 "DutchTFUltras": {
+	  "exp": 1.4,
+	  "wood": 1.4,
+	  "stone": 0.2
+	 },
+	 "SupersaiyaTH": {
+	  "exp": 12.2,
+	  "fish_specimen": 49,
+	  "iron": 1.8,
+	  "wood": 120,
+	  "gold": 0.4,
+	  "stone": 52.6
+	 },
+	 "Sharkotoshi": {
+	  "exp": 8.8,
+	  "stone": 55.8,
+	  "wood": 0.2,
+	  "iron": 3
+	 },
+	 "WaffleO": {
+	  "exp": 225.4,
+	  "stone": 84.8,
+	  "wood": 50.4,
+	  "gold": 24.6,
+	  "iron": 65.8,
+	  "string": 2
+	 },
+	 "DrinkAndStake": {
+	  "exp": 15.4,
+	  "gold": 1,
+	  "stone": 140.8,
+	  "iron": 4.8,
+	  "wood": 2.8
+	 },
+	 "yaboiarpman1": {
+	  "exp": 2,
+	  "wood": 61.2,
+	  "stone": 0.8
+	 },
+	 "Cal0pro6": [],
+	 "Moonoituxido": {
+	  "stone": 7.6
+	 },
+	 "HyugaPrincesss": {
+	  "exp": 5.2,
+	  "wood": 3,
+	  "stone": 343.2,
+	  "iron": 4.2
+	 },
+	 "cdgCapone": {
+	  "exp": 10.2,
+	  "wood": 3,
+	  "stone": 71.6,
+	  "gold": 1,
+	  "iron": 3.2
+	 },
+	 "GrassySiren8644": {
+	  "exp": 18.6,
+	  "string": 0.4,
+	  "wood": 0.2,
+	  "fish_specimen": 25
+	 },
+	 "Yarkyuzumaki": {
+	  "exp": 127,
+	  "stone": 38.4,
+	  "iron": 18.8,
+	  "gold": 15.2,
+	  "wood": 1.2,
+	  "string": 0.2
+	 },
+	 "homebisquit": {
+	  "exp": 1.4,
+	  "string": 0.2
+	 },
+	 "Bowser_Staxx": {
+	  "exp": 21.6,
+	  "stone": 162.2,
+	  "iron": 2.2
+	 },
+	 "Pulled_Pork": {
+	  "exp": 279.4,
+	  "iron": 55.4,
+	  "gold": 22.8,
+	  "stone": 74.6,
+	  "string": 1
+	 },
+	 "TheVoxelle": {
+	  "exp": 255.6,
+	  "fish_specimen": 300,
+	  "wood": 0.4,
+	  "stone": 0.4
+	 },
+	 "MrBathinApe": {
+	  "exp": 137,
+	  "wood": 124.6,
+	  "stone": 68.6,
+	  "iron": 33.8,
+	  "string": 0.4,
+	  "gold": 5.8
+	 },
+	 "sauciejam": {
+	  "exp": 172.4,
+	  "stone": 86.4,
+	  "iron": 84.4,
+	  "gold": 15.8,
+	  "string": 0.4,
+	  "fish_specimen": 50
+	 },
+	 "Ornal_Juice": {
+	  "exp": 216.4,
+	  "stone": 161.6,
+	  "string": 1,
+	  "iron": 49.6,
+	  "fish_specimen": 50,
+	  "gold": 38.6
+	 },
+	 "Coconutlina": {
+	  "exp": 11,
+	  "wood": 2
+	 },
+	 "KuroCrypto": {
+	  "exp": 8,
+	  "stone": 169,
+	  "iron": 16
+	 },
+	 "DotSama": {
+	  "exp": 177.2,
+	  "stone": 212.2,
+	  "wood": 45.6,
+	  "iron": 42,
+	  "fish_specimen": 50,
+	  "string": 0.2,
+	  "gold": 8.2
+	 },
+	 "SinghzUnited": {
+	  "exp": 2.4
+	 },
+	 "Alaa51": {
+	  "fish_specimen": 50
+	 },
+	 "tieumapBH": {
+	  "exp": 17,
+	  "wood": 259.2,
+	  "string": 2,
+	  "iron": 0.8,
+	  "stone": 29.8
+	 },
+	 "DrCryptonite": {
+	  "exp": 76.2,
+	  "stone": 96.8,
+	  "iron": 9.2,
+	  "gold": 2,
+	  "wood": 10.2,
+	  "fish_specimen": 50,
+	  "string": 0.4
+	 },
+	 "CorpusAlbicans": {
+	  "exp": 2.6,
+	  "fish_specimen": 75,
+	  "iron": 0.2,
+	  "stone": 9.6
+	 },
+	 "ParkG_": {
+	  "exp": 9.6,
+	  "stone": 52.2,
+	  "wood": 34.4,
+	  "iron": 1.6,
+	  "gold": 1.4
+	 },
+	 "_CoinHunter_": [],
+	 "Zechelon_": {
+	  "exp": 25.2,
+	  "stone": 20.8,
+	  "iron": 12.6
+	 },
+	 "Professor_Hughes": {
+	  "exp": 43.4,
+	  "wood": 9,
+	  "stone": 41.4,
+	  "gold": 0.4,
+	  "iron": 5.4
+	 },
+	 "Klingonmaxi": {
+	  "exp": 67.2,
+	  "stone": 234.4,
+	  "gold": 8.4,
+	  "iron": 17.8,
+	  "wood": 5.8
+	 },
+	 "ManOnTheDOT": {
+	  "exp": 3.8,
+	  "stone": 72.2,
+	  "iron": 0.2
+	 },
+	 "SP33QR": {
+	  "wood": 2.4,
+	  "stone": 21.8
+	 },
+	 "titus70": [],
+	 "mgen": {
+	  "exp": 234.2,
+	  "wood": 2,
+	  "stone": 54.8,
+	  "gold": 15,
+	  "iron": 89.8,
+	  "string": 1.2
+	 },
+	 "CRUSTYYYTTTTT": {
+	  "exp": 51.2,
+	  "iron": 12.8
+	 },
+	 "Ladyboy_": {
+	  "exp": 4.4,
+	  "fish_specimen": 50
+	 },
+	 "TheFreeOwl": {
+	  "exp": 17.2,
+	  "wood": 36.4,
+	  "iron": 1.2,
+	  "stone": 2.4,
+	  "gold": 1.8
+	 },
+	 "RICHARDXL": {
+	  "exp": 18.2,
+	  "stone": 42.6,
+	  "iron": 1.6,
+	  "string": 0.6,
+	  "wood": 0.6
+	 },
+	 "MaxyKeiser": {
+	  "exp": 66.4,
+	  "wood": 51.2,
+	  "stone": 358.4,
+	  "gold": 2.6,
+	  "iron": 9.4
+	 },
+	 "huskersama": {
+	  "exp": 6.6,
+	  "stone": 5.6,
+	  "wood": 3.6
+	 },
+	 "BzChaos87": {
+	  "exp": 31.8,
+	  "stone": 119,
+	  "wood": 180.2,
+	  "iron": 4.4
+	 },
+	 "Vesp_Vesp": [],
+	 "MrCandymaaan": {
+	  "exp": 91.2,
+	  "fish_specimen": 25,
+	  "wood": 28.2,
+	  "stone": 92,
+	  "iron": 7.6,
+	  "gold": 3.8
+	 },
+	 "Kraaijtj": {
+	  "exp": 52.6,
+	  "stone": 185.4,
+	  "wood": 45.6,
+	  "iron": 41.8,
+	  "gold": 8.2,
+	  "string": 0.4
+	 },
+	 "CyanDanBagHunter": {
+	  "exp": 131.4,
+	  "wood": 3.6,
+	  "gold": 6.6,
+	  "iron": 25,
+	  "string": 0.4,
+	  "stone": 69.2,
+	  "fish_specimen": 50
+	 },
+	 "JayChrawnna": [],
+	 "DoctorJones1513": {
+	  "exp": 72.6,
+	  "iron": 8.4,
+	  "gold": 4.6,
+	  "wood": 10.6,
+	  "stone": 165.4
+	 },
+	 "AirmanAuthor900": {
+	  "exp": 4,
+	  "stone": 221.6,
+	  "iron": 5,
+	  "wood": 48.6,
+	  "gold": 1
+	 },
+	 "LikeARagingBull": {
+	  "exp": 3,
+	  "wood": 134.6,
+	  "stone": 2.2
+	 },
+	 "Zee_Llama": {
+	  "exp": 10,
+	  "iron": 5.6,
+	  "stone": 14,
+	  "wood": 2.2
+	 },
+	 "duosev": {
+	  "exp": 59.6,
+	  "gold": 12,
+	  "iron": 11.6,
+	  "stone": 7.2
+	 },
+	 "Stav__": {
+	  "exp": 112.4,
+	  "fish_specimen": 50,
+	  "wood": 143.4,
+	  "iron": 14.8,
+	  "string": 0.2,
+	  "stone": 49.2,
+	  "gold": 7.4
+	 },
+	 "Jdeen74": [],
+	 "1gn0r4nd": {
+	  "exp": 212,
+	  "stone": 311,
+	  "iron": 26.2,
+	  "string": 1,
+	  "fish_specimen": 75,
+	  "gold": 17.8,
+	  "wood": 50.8
+	 },
+	 "Moonbeanie": {
+	  "exp": 17.4,
+	  "wood": 347,
+	  "string": 0.2,
+	  "iron": 0.4,
+	  "stone": 4
+	 },
+	 "Emmspm": {
+	  "exp": 4.8,
+	  "wood": 28.6,
+	  "string": 0.6,
+	  "stone": 0.4
+	 },
+	 "Keach__": {
+	  "exp": 1,
+	  "stone": 7.8,
+	  "wood": 135.2
+	 },
+	 "Gganbu_MOVR": {
+	  "exp": 208.4,
+	  "string": 0.4,
+	  "stone": 88.4,
+	  "fish_specimen": 50,
+	  "iron": 23.8,
+	  "gold": 2
+	 },
+	 "aes_dana": [],
+	 "Mikee10": {
+	  "exp": 86.4,
+	  "stone": 80.6,
+	  "wood": 60.2,
+	  "iron": 24.4,
+	  "string": 0.2,
+	  "gold": 7.6
+	 },
+	 "crustholeer": {
+	  "exp": 102.6,
+	  "wood": 3,
+	  "iron": 32.2,
+	  "string": 0.6,
+	  "gold": 29
+	 },
+	 "idkhowtousenet": {
+	  "exp": 42.4,
+	  "stone": 242,
+	  "iron": 19,
+	  "string": 0.2,
+	  "gold": 1.2,
+	  "wood": 6
+	 },
+	 "OP440": {
+	  "exp": 3.4,
+	  "wood": 348.4,
+	  "stone": 38
+	 },
+	 "JEFE_CHAOS": {
+	  "exp": 58.4,
+	  "wood": 74.4,
+	  "stone": 60,
+	  "string": 0.6,
+	  "iron": 2.6,
+	  "gold": 0.8,
+	  "fish_specimen": 50
+	 },
+	 "moonsamamoon": {
+	  "exp": 136.6,
+	  "stone": 146,
+	  "wood": 15.2,
+	  "iron": 5.4,
+	  "gold": 7.2,
+	  "string": 0.6
+	 },
+	 "SlayKlausSchwab": {
+	  "exp": 4.2,
+	  "stone": 27.6,
+	  "wood": 6.2
+	 },
+	 "BadBallzy": {
+	  "exp": 141.2,
+	  "wood": 216,
+	  "stone": 51.2,
+	  "iron": 10.8,
+	  "gold": 0.4,
+	  "string": 0.4,
+	  "fish_specimen": 75
+	 },
+	 "MoonsamaMilker": {
+	  "exp": 47.2,
+	  "wood": 6.2,
+	  "stone": 14.6,
+	  "gold": 7.6,
+	  "iron": 2.2
+	 },
+	 "Epic_Monty": {
+	  "exp": 210,
+	  "iron": 9,
+	  "gold": 20.2,
+	  "string": 1,
+	  "fish_specimen": 175,
+	  "wood": 293.8
+	 },
+	 "ElijahTheMonk": {
+	  "exp": 46.2,
+	  "stone": 37.8,
+	  "iron": 25.2,
+	  "gold": 5.8,
+	  "wood": 11.6
+	 },
+	 "JDiggityy": {
+	  "exp": 54.8,
+	  "wood": 3.2,
+	  "iron": 10,
+	  "gold": 0.2
+	 },
+	 "Sai8712": {
+	  "exp": 13.6,
+	  "stone": 13
+	 },
+	 "MerlinHermes": {
+	  "exp": 80,
+	  "wood": 180.8,
+	  "fish_specimen": 50,
+	  "stone": 39.2,
+	  "string": 0.6,
+	  "iron": 0.4
+	 },
+	 "raicoglez": [],
+	 "TacoBunn": {
+	  "exp": 114.6,
+	  "stone": 384,
+	  "iron": 4.6,
+	  "fish_specimen": 74
+	 },
+	 "Nemytis": {
+	  "exp": 58.6,
+	  "stone": 379.8,
+	  "gold": 5.6,
+	  "iron": 5.8,
+	  "wood": 8.2
+	 },
+	 "Msama656": {
+	  "exp": 6.8
+	 },
+	 "gotromotjo": {
+	  "exp": 34,
+	  "stone": 339.2,
+	  "wood": 25,
+	  "fish_specimen": 25,
+	  "iron": 27.6,
+	  "gold": 3.6
+	 },
+	 "PorMiFamilia": {
+	  "exp": 44,
+	  "gold": 4,
+	  "wood": 6.2,
+	  "iron": 14.6
+	 },
+	 "w3ekarasakal": {
+	  "exp": 2.4,
+	  "wood": 1.4,
+	  "stone": 17.4,
+	  "string": 0.2
+	 },
+	 "d0r10n": {
+	  "exp": 22.6,
+	  "stone": 397.8,
+	  "wood": 1
+	 },
+	 "Robin_Hodl": {
+	  "exp": 67.6,
+	  "stone": 72.6,
+	  "wood": 105.6,
+	  "iron": 10.6,
+	  "fish_specimen": 25,
+	  "string": 0.8
+	 },
+	 "kroozenschz": {
+	  "exp": 16,
+	  "stone": 460.8,
+	  "iron": 12.8
+	 },
+	 "Daggi5": {
+	  "exp": 128.6,
+	  "wood": 23.4,
+	  "iron": 23.6,
+	  "stone": 89.6,
+	  "gold": 7,
+	  "string": 0.6
+	 },
+	 "MonkeCrypto": {
+	  "exp": 184,
+	  "stone": 2.2,
+	  "gold": 9,
+	  "iron": 36,
+	  "wood": 137,
+	  "string": 0.2
+	 },
+	 "CHS_delete": {
+	  "exp": 81.8,
+	  "wood": 48.6,
+	  "stone": 20.4,
+	  "string": 0.4,
+	  "iron": 31.4
+	 },
+	 "ojofirme": {
+	  "exp": 33.4,
+	  "stone": 29.4,
+	  "iron": 19,
+	  "wood": 141.4,
+	  "string": 0.6,
+	  "gold": 1.8
+	 },
+	 "Pvps1": {
+	  "exp": 178.2,
+	  "stone": 17.8,
+	  "iron": 103.4,
+	  "gold": 6.8,
+	  "string": 1.6
+	 },
+	 "MoonsamaVIP": {
+	  "wood": 0.8
+	 },
+	 "Mungusoid": {
+	  "exp": 48.8,
+	  "wood": 86.4,
+	  "iron": 2.2,
+	  "stone": 50.2,
+	  "string": 1.6,
+	  "gold": 2.2
+	 },
+	 "Holmbergg": {
+	  "exp": 88,
+	  "stone": 116.8,
+	  "wood": 20.6,
+	  "iron": 17.2,
+	  "string": 0.6,
+	  "gold": 2.4
+	 },
+	 "Sensei_Bebop": {
+	  "exp": 74,
+	  "fish_specimen": 75,
+	  "wood": 0.4
+	 },
+	 "Skylamus": {
+	  "exp": 10.8
+	 },
+	 "AMUlll": {
+	  "exp": 28.6,
+	  "stone": 203.6,
+	  "iron": 9.8
+	 },
+	 "maximars": {
+	  "exp": 2,
+	  "wood": 243.2,
+	  "stone": 7.6,
+	  "fish_specimen": 11
+	 },
+	 "Cypher_Reader": {
+	  "exp": 52.4,
+	  "stone": 181,
+	  "iron": 16,
+	  "wood": 19
+	 },
+	 "TicklerSniffler": {
+	  "exp": 4.8,
+	  "wood": 422.4,
+	  "stone": 11.2
+	 },
+	 "CapTK13": {
+	  "exp": 132.4,
+	  "stone": 110,
+	  "fish_specimen": 20,
+	  "wood": 94.4,
+	  "iron": 25,
+	  "gold": 3,
+	  "string": 0.2
+	 },
+	 "Merkaria": {
+	  "exp": 57.2,
+	  "wood": 287,
+	  "iron": 20.6,
+	  "gold": 8.6,
+	  "fish_specimen": 25
+	 },
+	 "DSama": {
+	  "exp": 92.6,
+	  "stone": 191.4,
+	  "wood": 71.8,
+	  "fish_specimen": 50,
+	  "gold": 10,
+	  "iron": 20.8,
+	  "string": 1
+	 },
+	 "B1ggworm": {
+	  "exp": 15.8,
+	  "stone": 110.8,
+	  "wood": 0.6
+	 },
+	 "AlansamaX": {
+	  "exp": 23.8,
+	  "wood": 32,
+	  "string": 0.8,
+	  "gold": 9,
+	  "iron": 18.6,
+	  "stone": 1.2
+	 },
+	 "FeydRahuta": {
+	  "exp": 11,
+	  "stone": 78.2,
+	  "wood": 32.8,
+	  "iron": 6
+	 },
+	 "tannerreed31": {
+	  "wood": 1.8,
+	  "stone": 1.6,
+	  "fish_specimen": 50
+	 },
+	 "wangdoodle": {
+	  "exp": 55.8,
+	  "fish_specimen": 25,
+	  "string": 0.4,
+	  "iron": 39.2,
+	  "stone": 21,
+	  "gold": 13.4
+	 },
+	 "nelorex": {
+	  "exp": 162,
+	  "stone": 50.2,
+	  "iron": 88.8,
+	  "gold": 16.2
+	 },
+	 "ChingoLink": {
+	  "exp": 86.2,
+	  "stone": 294.6,
+	  "gold": 18.2,
+	  "iron": 34.4,
+	  "string": 0.4
+	 },
+	 "Punkable": {
+	  "exp": 130.8,
+	  "stone": 362,
+	  "iron": 25.8,
+	  "gold": 8.4
+	 },
+	 "GodsHunter": {
+	  "exp": 1,
+	  "stone": 64
+	 },
+	 "ChanceShip73110": {
+	  "exp": 58.8,
+	  "wood": 292.8,
+	  "gold": 1.6,
+	  "iron": 11,
+	  "stone": 38
+	 },
+	 "Metroid88": {
+	  "exp": 123.4,
+	  "stone": 223.8,
+	  "wood": 59.4,
+	  "iron": 41.8,
+	  "gold": 4
+	 },
+	 "VIPCarnage2": {
+	  "exp": 1
+	 },
+	 "ifjmorgan": {
+	  "exp": 23.8,
+	  "stone": 358.4,
+	  "wood": 10.2,
+	  "iron": 11.6,
+	  "gold": 3.2
+	 },
+	 "D0tSama": {
+	  "exp": 62.8,
+	  "fish_specimen": 75,
+	  "wood": 13.4,
+	  "stone": 0.4
+	 },
+	 "ADACOY_EXO": {
+	  "exp": 13.8,
+	  "stone": 214.8,
+	  "string": 0.2,
+	  "iron": 8.8
+	 },
+	 "perfecto786": [],
+	 "PlazmaOfficialYT": {
+	  "exp": 14,
+	  "wood": 242.6,
+	  "stone": 22.6,
+	  "iron": 8.8
+	 },
+	 "ExoCarlos86": {
+	  "exp": 187,
+	  "wood": 49.4,
+	  "iron": 82.2,
+	  "gold": 18.4,
+	  "string": 1
+	 },
+	 "zcocrypto": {
+	  "exp": 206,
+	  "fish_specimen": 236,
+	  "wood": 5.8
+	 },
+	 "mrsomtam": {
+	  "exp": 39,
+	  "fish_specimen": 75,
+	  "gold": 3,
+	  "iron": 8.4,
+	  "stone": 49.4,
+	  "wood": 4.8
+	 },
+	 "AndreyOTD": {
+	  "exp": 24.4,
+	  "wood": 74.8,
+	  "stone": 20.2,
+	  "fish_specimen": 25,
+	  "string": 0.2
+	 },
+	 "mightymcfly_": {
+	  "exp": 9.8,
+	  "stone": 156.8,
+	  "wood": 10,
+	  "iron": 1.4
+	 },
+	 "chaoticleader": {
+	  "exp": 26.4,
+	  "stone": 195.8,
+	  "wood": 5.8,
+	  "gold": 1.2,
+	  "iron": 3.8
+	 },
+	 "Sama1815": {
+	  "exp": 55.4,
+	  "stone": 2.6
+	 },
+	 "misterjamebkk": [],
+	 "rramasamyy": [],
+	 "KSMvsthewrld": {
+	  "exp": 127,
+	  "iron": 21,
+	  "gold": 12.8,
+	  "string": 1,
+	  "wood": 30,
+	  "stone": 166.4,
+	  "fish_specimen": 50
+	 },
+	 "WeerdAl": {
+	  "exp": 32.8,
+	  "stone": 174.2,
+	  "gold": 4.8,
+	  "iron": 9.8,
+	  "wood": 42
+	 },
+	 "CheeseUnder": {
+	  "exp": 69.2,
+	  "wood": 80.6,
+	  "stone": 40,
+	  "gold": 4.8,
+	  "string": 0.4,
+	  "fish_specimen": 48,
+	  "iron": 5.4
+	 },
+	 "d_OrbitalChemist": {
+	  "exp": 68.2,
+	  "stone": 200.8,
+	  "wood": 6,
+	  "iron": 10.2,
+	  "fish_specimen": 49,
+	  "gold": 3.6
+	 },
+	 "Yurickz": {
+	  "exp": 14.2,
+	  "stone": 25.4,
+	  "wood": 356.6,
+	  "iron": 19.2,
+	  "string": 0.4
+	 },
+	 "SinaloaCrypto": {
+	  "exp": 12.6,
+	  "stone": 103.6,
+	  "iron": 0.2,
+	  "string": 0.4,
+	  "gold": 3
+	 },
+	 "2xJDubs": {
+	  "exp": 88.4,
+	  "stone": 282.6,
+	  "wood": 1.8,
+	  "iron": 10,
+	  "fish_specimen": 49,
+	  "gold": 1.6
+	 },
+	 "adacoy": {
+	  "exp": 2.8,
+	  "iron": 4.6,
+	  "stone": 65.6,
+	  "fish_specimen": 25
+	 },
+	 "wgwelku": {
+	  "exp": 72.8,
+	  "stone": 124.4,
+	  "wood": 1.6,
+	  "iron": 6.2,
+	  "gold": 0.8
+	 },
+	 "WilliamKiddDPS": {
+	  "exp": 45.4,
+	  "wood": 269
+	 },
+	 "Nadine131313": {
+	  "exp": 17,
+	  "gold": 1.6,
+	  "stone": 137.8
+	 },
+	 "ArturoLima": {
+	  "exp": 1.4,
+	  "stone": 22.4,
+	  "wood": 7.8
+	 },
+	 "AslanHz": {
+	  "exp": 74.8,
+	  "stone": 172,
+	  "wood": 68,
+	  "iron": 12.2,
+	  "string": 0.6
+	 },
+	 "SINCE84": [],
+	 "murthzilla": {
+	  "exp": 129,
+	  "stone": 268.8,
+	  "iron": 25,
+	  "wood": 2.6,
+	  "gold": 13.8,
+	  "fish_specimen": 50
+	 },
+	 "Spinkicks360": {
+	  "exp": 33.4,
+	  "stone": 135,
+	  "wood": 7.6,
+	  "iron": 2.4
+	 },
+	 "JanosVNeumann": {
+	  "exp": 26.4,
+	  "stone": 12.2,
+	  "fish_specimen": 50,
+	  "string": 0.2,
+	  "iron": 47.2,
+	  "wood": 7.6,
+	  "gold": 14.6
+	 },
+	 "MoonsamX": {
+	  "exp": 28,
+	  "fish_specimen": 6,
+	  "string": 0.2,
+	  "gold": 10.2,
+	  "iron": 3.6
+	 },
+	 "Jau_exosama": [],
+	 "teslanova05": {
+	  "exp": 58.6,
+	  "stone": 109,
+	  "gold": 4.6,
+	  "iron": 8.6,
+	  "wood": 18.2,
+	  "fish_specimen": 9
+	 },
+	 "FwogXD": {
+	  "exp": 46.2,
+	  "wood": 262.8,
+	  "fish_specimen": 75,
+	  "gold": 0.8,
+	  "iron": 10
+	 },
+	 "kmmangelwings": {
+	  "exp": 82.2,
+	  "stone": 89.8,
+	  "gold": 4,
+	  "wood": 10.6,
+	  "fish_specimen": 50,
+	  "iron": 1.2
+	 },
+	 "mzidov80": {
+	  "exp": 8,
+	  "gold": 0.4,
+	  "stone": 13.8
+	 },
+	 "Chaos_Didaw": {
+	  "exp": 86.8,
+	  "wood": 0.6,
+	  "iron": 28,
+	  "gold": 22.6,
+	  "stone": 0.4,
+	  "string": 0.2
+	 },
+	 "StefanGoldi": {
+	  "exp": 6,
+	  "wood": 74.8
+	 },
+	 "DragonCanoe": {
+	  "exp": 89,
+	  "stone": 111.4,
+	  "string": 0.6,
+	  "gold": 7.4,
+	  "iron": 17.4,
+	  "wood": 10.6
+	 },
+	 "H1ghlighter": {
+	  "exp": 171.6,
+	  "stone": 200.4,
+	  "wood": 51.2,
+	  "string": 0.6,
+	  "gold": 11.8,
+	  "iron": 59
+	 },
+	 "FluffKSM": {
+	  "exp": 1.4,
+	  "wood": 0.2,
+	  "stone": 2.8
+	 }
+	}
+]
